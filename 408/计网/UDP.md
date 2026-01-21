@@ -1,20 +1,53 @@
 ---
-topic: UDP（用户数据报协议）  
-module: 传输层  
-input_type: 概念  
-exam_weight: 中  
-one_liner: 最小传输层：端口交付+校验，不保可靠有序  
-why_needed: [实现进程到进程交付, 追求低开销低时延]  
-keywords: [UDP, 端口, 多路复用, 多路分解, 校验和, 伪首部, 面向报文, 无连接]  
-signals: [无连接, 不可靠, 面向报文, 端口, 校验和, 伪首部, 实时, 低开销]  
-pitfalls: [UDP无校验和, UDP是字节流, UDP自带重传]  
-comparisons: [UDP_vs_TCP, UDP+应用层可靠_vs_TCP]  
-links: [socket与端口, IP数据报, ICMP端口不可达, TCP可靠传输, 拥塞控制]  
-source: 2026计算机网络.pdf 第5章5.2 UDP  
-pattern_name: UDP题干三段式（提供/不提供/场景）  
-last_update: 2026-01-21  
-tags: [#计网, #408, #传输层, #UDP]  
+topic: "UDP（用户数据报协议）"
+module: "传输层"
+input_type: "概念"
+exam_weight: "中"
+one_liner: "最小传输层：端口交付+校验，不保可靠有序"
+why_needed:
+  - "实现进程到进程交付"
+  - "追求低开销低时延"
+keywords:
+  - UDP
+  - 端口
+  - 多路复用
+  - 多路分解
+  - 校验和
+  - 伪首部
+  - 面向报文
+  - 无连接
+signals:
+  - 无连接
+  - 不可靠
+  - 面向报文
+  - 端口
+  - 校验和
+  - 伪首部
+  - 实时
+  - 低开销
+pitfalls:
+  - UDP无校验和
+  - UDP是字节流
+  - UDP自带重传
+comparisons:
+  - UDP_vs_TCP
+  - UDP+应用层可靠_vs_TCP
+links:
+  - socket与端口
+  - IP数据报
+  - ICMP端口不可达
+  - TCP可靠传输
+  - 拥塞控制
+source: "2026计算机网络.pdf 第5章5.2 UDP"
+pattern_name: "UDP题干三段式（提供/不提供/场景）"
+last_update: "2026-01-21"
+tags:
+  - 计网
+  - 408
+  - 传输层
+  - UDP
 ---
+
 
 ## 1) 速记总结
 
