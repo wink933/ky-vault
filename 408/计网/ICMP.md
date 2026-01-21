@@ -1,84 +1,75 @@
----
 
-topic: "ICMP"  
-module: "网络层"  
+topic: "UDP（用户数据报协议）"  
+module: "传输层"  
 input_type: "概念"  
-exam_weight: "高"  
-one_liner: "把“到不了/太长/绕路/超时”等网络层异常，变成可被端系统与路由器利用的可诊断信号（ping/traceroute/PMTUD 的底座）。"  
+exam_weight: "中"  
+one_liner: "最小传输层：端口交付 + 校验；不保证可靠/有序/不丢不重。"  
 why_needed:
 
-- "IP 只负责尽力而为转发：需要一个“反馈通道”告诉源主机哪里出问题、该怎么调整（否则只能靠应用层瞎等超时）。"
+- "把 IP 的“主机到主机”交付，升级为“进程到进程”交付（端口多路复用/分解）。"
     
-- "提供可操作的网络诊断手段：连通性（ping）、路径定位（traceroute）、路径 MTU 发现（PMTUD）。"
+- "追求低开销低时延：不建连、不维护状态，适合实时/多播/简单请求-响应。"
     
-- "为转发路径纠偏：在特定场景下（如 Redirect）提示更优下一跳。"  
+- "把可靠性交给应用按需实现（ACK/重传/序号/抖动缓冲），避免“一刀切”的 TCP 代价。"  
     keywords:
     
-- "ICMP 封装在 IP 内（IPv4 协议号=1）"
+- "端口号：多路复用/多路分解"
     
-- "两大类：差错报告 + 查询/信息"
+- "面向报文：保留应用报文边界（一次 send 对应一次 deliver）"
     
-- "典型报文：Destination Unreachable、Time Exceeded、Redirect、Echo Request/Reply"
+- "无连接：不握手、不维护连接状态"
     
-- "差错报文载荷：原 IP 首部 + 原数据前 8B（用于定位上层会话）"  
+- "校验和：覆盖伪首部+UDP首部+数据（差错检测，不纠错）"
+    
+- "长度字段：UDP首部+数据总长度"  
     signals:
     
-- "ping：Echo Request/Reply 往返时延/丢包率"
+- "DNS/QUIC/语音视频/在线游戏常选 UDP：更看重时延与可控性"
     
-- "traceroute：逐跳 Time Exceeded + 终点 Port Unreachable（UDP 探测）/Echo Reply（ICMP 探测）"
+- "traceroute（经典实现）终点返回 ICMP Port Unreachable（UDP 探测）"
     
-- "PMTUD：Fragmentation Needed（DF=1 且 MTU 不够）"
-    
-- "路由异常：Redirect 指示更优网关（仅在同一链路等条件满足时）"  
+- "出现丢包/乱序：UDP 本身不处理，需要应用层策略兜底"  
     pitfalls:
     
-- "ICMP 不是可靠机制：回不回都不保证；不能等价成“自动重传/自动修复”。"
+- "UDP 不是“没有首部”：仍有首部字段（端口/长度/校验和）"
     
-- "差错报文不会针对“另一个 ICMP 差错报文”再报错（避免雪崩）。"
+- "UDP 不是“字节流”：是面向报文（保边界），和 TCP 相反"
     
-- "差错报文一般不发给广播/多播地址，也不对非首片分片报错（常考限制条件）。"
+- "UDP 不自带重传/拥塞控制：需要应用自己做（或接受丢失）"
     
-- "traceroute 终点返回什么取决于探测方式：UDP→端口不可达；ICMP Echo→Echo Reply；TCP→SYN/ACK 或 RST。"
+- "UDP 校验和不是可靠性：只负责检错；错了就丢（常见实现）"
     
-- "Redirect 不是动态路由协议：只是主机路由缓存/默认网关选择的提示，且常被安全策略禁用。"  
+- "UDP 更快 ≠ 一定更优：在公网丢包/拥塞下，应用自实现可靠可能更复杂更慢"  
     comparisons:
     
-- "ICMP 反馈 vs 传输层重传：ICMP 负责“原因提示/路径诊断”，重传负责“端到端可靠性”。"
+- "UDP_vs_TCP：UDP无连接/无状态/面向报文；TCP面向连接/可靠/字节流/拥塞控制"
     
-- "ICMP 差错 vs 应用层超时：ICMP 更快更具体；应用层超时更通用但更慢且信息少。"
-    
-- "PMTUD（依赖 ICMP） vs 分片：PMTUD 追求避免分片；分片能通但代价高且易丢。"  
+- "UDP+应用层可靠_vs_TCP：前者可按业务定制（时延优先/部分可靠/多流），后者通用但开销更大"  
     links:
     
-- "[[IPv4]]"
+- "[[socket与端口]]"
     
-- "[[IP分片与DF/MF]]"
+- "[[多路复用与多路分解]]"
     
-- "[[CIDR与最长前缀匹配]]"
+- "[[IP数据报]]"
     
-- "[[ARP]]"
+- "[[ICMP端口不可达]]"
     
-- "[[NAT]]"
+- "[[TCP可靠传输]]"
     
-- "[[Traceroute与TTL]]"  
-    source: "2026计算机网络.pdf 第4章 4.2.7 网际控制报文协议 ICMP "  
-    pattern_name: "ICMP-差错反馈与诊断题型"  
+- "[[拥塞控制]]"  
+    source: "2026计算机网络.pdf 第5章 5.2 UDP"  
+    pattern_name: "UDP题干三段式（提供/不提供/场景）"  
     last_update: "2026-01-22"  
     tags:
     
-- "ICMP"
+- "计网"
     
-- "网络层"
+- "408"
     
-- "IPv4"
+- "传输层"
     
-- "ping"
-    
-- "traceroute"
-    
-- "PMTUD"
-    
-
+- "UDP"
 ---
 
 ## 1) 速记总结

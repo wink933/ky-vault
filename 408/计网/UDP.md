@@ -1,12 +1,12 @@
 ---
-topic: "UDP（用户数据报协议）"
-module: "传输层"
-input_type: "概念"
-exam_weight: "中"
-one_liner: "最小传输层：端口交付+校验，不保可靠有序"
+topic: UDP（用户数据报协议）
+module: 传输层
+input_type: 概念
+exam_weight: 中
+one_liner: 最小传输层：端口交付+校验，不保可靠有序
 why_needed:
-  - "实现进程到进程交付"
-  - "追求低开销低时延"
+  - 实现进程到进程交付
+  - 追求低开销低时延
 keywords:
   - UDP
   - 端口
@@ -38,9 +38,9 @@ links:
   - ICMP端口不可达
   - TCP可靠传输
   - 拥塞控制
-source: "2026计算机网络.pdf 第5章5.2 UDP"
-pattern_name: "UDP题干三段式（提供/不提供/场景）"
-last_update: "2026-01-21"
+source: 2026计算机网络.pdf 第5章5.2 UDP
+pattern_name: UDP题干三段式（提供/不提供/场景）
+last_update: 2026-01-21
 tags:
   - 计网
   - 408
