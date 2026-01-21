@@ -1,4 +1,4 @@
----yaml  
+---
 topic: UDP（用户数据报协议）  
 module: 传输层  
 input_type: 概念  
@@ -14,7 +14,7 @@ source: 2026计算机网络.pdf 第5章5.2 UDP
 pattern_name: UDP题干三段式（提供/不提供/场景）  
 last_update: 2026-01-21  
 tags: [#计网, #408, #传输层, #UDP]  
----endyaml
+---
 
 ## 1) 速记总结
 
