@@ -164,8 +164,19 @@
               "icon": "lucide-list",
               "title": "TCP 的大纲"
             }
+          },
+          {
+            "id": "258f125ae6660c46",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
