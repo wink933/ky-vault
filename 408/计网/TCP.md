@@ -1,109 +1,302 @@
+【输入类型】概念  
+【考点定位】
+
+- 传输层：TCP 连接管理（3 次握手 / 4 次挥手、TIME_WAIT）
+    
+- 传输层：可靠传输（序号/确认/重传/滑动窗口）
+    
+- 传输层：拥塞控制（cwnd、ssthresh、RTO vs 3DupACK、Tahoe/Reno/NewReno）
+    
+
 ---yaml  
-topic: TCP（连接管理/可靠传输/流控/拥塞控制）  
+topic: TCP  
 module: 传输层  
 input_type: 概念  
-exam_weight: 高  
-one_liner: 在不可靠IP上提供可靠有序字节流  
-why_needed: [应对丢包乱序重复, 匹配接收端与网络容量]  
-keywords: [三次握手, 四次挥手, 序号seq, 确认ACK, 重传RTO, 快重传, 滑动窗口, rwnd, cwnd, ssthresh, 慢启动, 拥塞避免, 快恢复, TIME_WAIT, 2MSL, Tahoe, Reno, NewReno, SACK]  
-signals: [SYN, FIN, TIME_WAIT, 3个重复ACK, RTO超时, cwnd, ssthresh, rwnd, MSS]  
-pitfalls: [TIME_WAIT原因, rwnd与cwnd混淆, 3dupACK与超时混淆, CLOSE_WAIT含义]  
-comparisons: [TCP_vs_UDP, RTO_vs_3dupACK, Tahoe_vs_Reno_vs_NewReno]  
-links: [MSS与MTU, 可靠传输机制, 滑动窗口, 拥塞控制, HTTP长连接]  
-source: 2026计算机网络.pdf 第5章 传输层 TCP  
-pattern_name: TCP四大题型通用解题模板  
-last_update: 2026-01-21  
-tags: [#计网, #408, #TCP, #传输层]  
----endyaml
+exam_weight: 高
+
+one_liner: >-  
+连接加序号窗口让不可靠IP变可靠字节流
+
+why_needed:
+
+- 端到端可靠传输
+    
+- 拥塞与流控分离
+    
+
+keywords:
+
+- 三次握手
+    
+- 四次挥手
+    
+- 序号与确认号
+    
+- 滑动窗口
+    
+- RTO超时重传
+    
+- 快重传
+    
+- cwnd
+    
+- ssthresh
+    
+- TIME_WAIT
+    
+
+signals:
+
+- SYN ACK FIN
+    
+- TIME_WAIT 2MSL
+    
+- 3个重复ACK
+    
+- RTO 超时
+    
+- 接收窗口rwnd
+    
+- 拥塞窗口cwnd
+    
+
+pitfalls:
+
+- TIME_WAIT作用
+    
+- 流量控制vs拥塞控制
+    
+- 4次挥手与半关闭
+    
+- Reno恢复策略
+    
+
+comparisons:
+
+- TCP_vs_UDP
+    
+- 流量控制_vs_拥塞控制
+    
+- 超时重传_vs_快重传
+    
+
+links:
+
+- MSS与MTU
+    
+- RTT与RTO估计
+    
+- SACK与累计确认
+    
+- 端口与多路复用
+    
+
+source: >-  
+2026计算机网络.pdf 第5章 传输层 5.3 TCP
+
+pattern_name: TCP三件套_连管可靠拥塞  
+last_update: 2026-01-21
+
+tags:
+
+- "#计网"
+    
+- "#408"
+    
+- "#TCP"  
+    ---endyaml
+    
 
 ## 1) 速记总结
 
-- 本质：连接+序号+窗口+重传，把IP变成可靠字节流。
+- 本质：**连接管理 + 序号确认 + 窗口**，把“可能丢/乱/重”的IP变成“按序交付的字节流”
     
-- 解决：丢包乱序重复；接收端与网络容量匹配（rwnd/cwnd）。
+- 解决：
     
-- 考法：握手/挥手状态机；TIME_WAIT；cwnd曲线（RTO vs 3dupACK）；min(rwnd,cwnd)。
+    - 可靠：丢了能发现并重传，乱了能排序
+        
+    - 控制：**流量控制**不压垮接收端，**拥塞控制**不压垮网络
+        
+- 考法：
     
+    - 握手/挥手每步“带什么标志/确认什么/为什么不能少”
+        
+    - TIME_WAIT / CLOSE_WAIT 出现场景与危害
+        
+    - cwnd/ssthresh 曲线题：RTO vs 3DupACK 分支 + Reno/Tahoe差异
+        
 
 ## 2) 机制链条（可背版本）
 
-连接：主动打开→SYN→SYN+ACK→ACK→ESTABLISHED→代价：状态/半连接→异常：SYN flood  
-可靠：发段并缓存→累计ACK→RTO或3dupACK→重传→按序交付→代价：缓存/控制流量  
-流控：接收端通告rwnd→发送端≤rwnd→零窗口探测→避免死锁  
-拥塞：慢启动→拥塞避免→丢包(RTO/3dupACK)→调整cwnd/ssthresh→Tahoe/Reno/NewReno分支
+```text
+触发 → 输入 → 核心步骤 → 输出 → 副作用 → 异常分支
+建立连接 → 主动打开 → (1) SYN=x  (2) SYN=y,ACK=x+1  (3) ACK=y+1 → 双方进入ESTABLISHED → 维护状态/缓存/定时器 → SYN丢失: 超时重传; 半开连接: SYN队列压力
+
+可靠传输 → 发送字节流 → (1) 分段+序号 (2) 累计ACK确认 (3) 超时重传RTO (4) 乱序缓存后按序交付 → 应用层“有序字节流” → 需要缓存/重传/定时器 → 丢包分支: RTO超时 vs 3重复ACK触发快重传
+
+流量控制 → 接收端处理慢 → (1) 接收端通告rwnd (2) 发送端限制未确认数据≤rwnd → 防止接收端溢出 → 可能降低吞吐 → rwnd=0: 持续探测(零窗口探测)
+
+拥塞控制 → 网络出现拥塞迹象 → (1) cwnd控制在途量 (2) 慢启动/拥塞避免 (3) 快重传/快恢复 → 缓解拥塞+稳定吞吐 → 牺牲时延/吞吐波动 → RTO: ssthresh大幅下降,cwnd重置; 3DupACK: 进入快速恢复
+```
 
 ## 3) 状态机/流程（伪图示）
 
-三次握手：  
-[CLOSED]--SYN-->[SYN_SENT]--SYN+ACK/ACK-->[ESTABLISHED]  
-[LISTEN]--SYN-->[SYN_RCVD]--ACK-->[ESTABLISHED]
+```text
+【三次握手】
+[CLOSED]
+  --主动打开/发送SYN--> [SYN_SENT]
+[SYN_SENT]
+  --收SYN+ACK/发ACK--> [ESTABLISHED]
+[LISTEN]
+  --收SYN/发SYN+ACK--> [SYN_RCVD]
+[SYN_RCVD]
+  --收ACK--> [ESTABLISHED]
+关键分支:
+  if 第3次ACK丢: 服务器重发SYN+ACK; 客户端收到后再发ACK
 
-四次挥手：  
-主动：[ESTABLISHED]->FIN_WAIT_1->FIN_WAIT_2->TIME_WAIT(2MSL)->CLOSED  
-被动：[ESTABLISHED]->CLOSE_WAIT->LAST_ACK->CLOSED
+【四次挥手(全双工/半关闭)】
+[ESTABLISHED]
+  --主动关闭/发FIN--> [FIN_WAIT_1]
+[FIN_WAIT_1]
+  --收ACK--> [FIN_WAIT_2]
+[FIN_WAIT_2]
+  --收FIN/发ACK--> [TIME_WAIT] --等待2MSL--> [CLOSED]
+被动关闭端:
+[ESTABLISHED] --收FIN/发ACK--> [CLOSE_WAIT] --应用close/发FIN--> [LAST_ACK] --收ACK--> [CLOSED]
+
+TIME_WAIT要点:
+  - 等“最后ACK可重传” + 清旧报文(2MSL)防止新连接被旧段污染
+  - 典型考点: 为什么不是CLOSE_WAIT; 为什么要2MSL
+
+【拥塞控制(必须会画/会分支)】
+初始: cwnd=1 MSS; ssthresh=大
+慢启动: cwnd指数增长(每RTT翻倍级)
+拥塞避免: cwnd线性增长(每RTT+1 MSS级)
+
+丢包分支:
+  - RTO超时:
+      ssthresh = cwnd/2
+      cwnd = 1 MSS
+      进入慢启动
+  - 3重复ACK(快重传触发):
+      ssthresh = cwnd/2
+      Tahoe: cwnd=1 MSS -> 慢启动
+      Reno: cwnd=ssthresh -> 快恢复(再转拥塞避免)
+      NewReno: 若部分ACK(只确认一部分重传段)则继续留在快恢复直到“全部丢失段”被确认
+```
 
 ## 4) 代价与边界
 
-- 代价：连接建立RTT；缓存+定时器；ACK控制开销；拥塞算法复杂。
+- 代价：
     
-- 边界/不适用：强实时/可容忍丢包场景；无线高误码下易误判拥塞。
+    - 状态维护：连接状态、发送/接收缓存、定时器、重传队列
+        
+    - 控制开销：ACK、窗口通告、拥塞窗口调整导致吞吐波动
+        
+- 边界/不适用：
     
-- 风险：SYN flood、资源耗尽、Bufferbloat带来RTT膨胀。
+    - 实时强、可容忍少量丢包（语音/直播）往往不选TCP（排队+重传带来抖动）
+        
+- 风险：
     
+    - SYN洪泛/半开连接压力（队列耗尽）
+        
+    - TIME_WAIT过多导致端口资源紧张（高并发短连接）
+        
 
 ## 5) 对比与替代（最小对比表）
 
 |维度|TCP|UDP|
 |---|---|---|
-|目标|可靠有序字节流|低开销数据报|
-|代价|连接状态/重传/拥塞控制|应用自担可靠性|
-|典型考法|握手挥手、cwnd曲线、TIME_WAIT|首部字段、校验、应用层补救|
+|目标|可靠有序字节流|尽力而为报文|
+|代价|状态+重传+拥塞控制|低开销无连接|
+|效果/适用|文件/网页/数据库|实时/自定义可靠|
+|典型考法|握手挥手+窗口+cwnd|首部字段+校验+应用层补可靠|
 
 ## 6) 真题命题模板
 
-- SYN/FIN/TIME_WAIT → 问法：状态迁移/为何需要 → 必答点：关键状态+2MSL两原因
+- SYN/ACK/FIN → 问法：写出握手/挥手每步与状态 → 必答点：
     
-- cwnd/ssthresh/3dupACK/RTO → 问法：画曲线/算窗口 → 必答点：慢启动/拥塞避免/两类丢包分支
+    - 每步“确认谁的序号+1”
+        
+    - 半关闭：一端FIN后仍可接收数据
+        
+    - TIME_WAIT作用与2MSL
+        
+- TIME_WAIT / CLOSE_WAIT → 问法：哪个状态是谁没关/为什么堆积 → 必答点：
     
-- rwnd/接收缓存/零窗口 → 问法：能发多少/死锁如何避免 → 必答点：min(rwnd,cwnd)+persist探测
+    - CLOSE_WAIT堆积=应用没close
+        
+    - TIME_WAIT堆积=主动关闭端多，需等2MSL
+        
+- cwnd/ssthresh/重复ACK/RTO → 问法：画cwnd变化、判断阶段、算新ssthresh → 必答点：
     
-- 常见变式：Tahoe vs Reno vs NewReno（多丢包/快恢复差异）
-    
+    - RTO vs 3DupACK两分支
+        
+    - Reno/Tahoe/NewReno恢复策略差一句
+        
 
 ## 7) 易错点清单（带自检）
 
-- 错误结论：收到FIN就都关闭
+- 错误结论：TIME_WAIT是“等对方发完数据”
     
-    - 错因：忽略半关闭与CLOSE_WAIT
+    - 错因：把TIME_WAIT当成被动等待
         
-    - 自检：被动端是否进入CLOSE_WAIT、还可能继续发送？
+    - 自检：只要你是主动关闭端且收到了对方FIN，你就要进TIME_WAIT等2MSL
         
-- 错误结论：TIME_WAIT只为“对方关闭”
+- 错误结论：拥塞控制=流量控制
     
-    - 错因：没写出ACK可重发+清理旧报文
+    - 错因：都像“调速”
         
-    - 自检：能否说出2个原因？
+    - 自检：看变量：接收端通告的是rwnd；网络侧调的是cwnd
         
-- 错误结论：窗口=拥塞窗口
+- 错误结论：四次挥手一定是4个报文，永远不能合并
     
-    - 错因：混淆rwnd/cwnd
+    - 错因：忽略ACK可捎带
         
-    - 自检：发送上限是否写成min(rwnd,cwnd)？
+    - 自检：被动端“ACK+FIN能否同段”取决于是否立刻close(是否有待发数据)
         
 
 ## 8) 迁移题型模型（可直接套用）
 
-- 识别：看到SYN/FIN→状态机；看到cwnd/ssthresh→拥塞；看到rwnd→流控；看到RTO/3dupACK→重传分支
+- 识别：
     
-- 步骤：1)定题型 2)列变量 3)按事件推进 4)给结论（状态/下一报文/窗口值或曲线）
+    - 出现SYN/FIN/ACK、TIME_WAIT、cwnd/ssthresh、重复ACK、RTO
+        
+- 步骤：
     
-- 验算/检查点：是否区分RTO与3dupACK；是否写出TIME_WAIT两原因；ack是否为“期望下一个字节”。
+    1. 先判主题：连接管理 / 可靠传输 / 流控 / 拥塞
+        
+    2. 写关键变量：seq/ack、rwnd、cwnd、ssthresh
+        
+    3. 走流程：握手或挥手状态机；或拥塞控制分支(RTO vs 3DupACK)
+        
+    4. 最后补一句“为什么需要/代价是什么”（高分点）
+        
+- 验算/检查点：
     
+    - ACK是否“对方seq+1”
+        
+    - 主动关闭端是否必经TIME_WAIT
+        
+    - 丢包类型是否分清：RTO(更严重) vs 3DupACK(还能收到ACK)
+        
 
 ## 9) 知识网络（用于串题）
 
-- 上游前置：IP尽力而为、RTT、MSS/分段、差错与丢包模型
+- 上游前置：
     
-- 下游应用：HTTP/HTTPS、长连接、TLS
+    - IP尽力而为、分段与MTU/MSS
+        
+- 下游应用：
     
-- 横向对比：UDP/QUIC；链路层ARQ vs 端到端TCP
+    - HTTP/HTTPS、FTP、SMTP等都默认依赖TCP可靠性
+        
+- 横向对比：
+    
+    - 可靠传输：链路层ARQ vs 传输层TCP（作用范围不同）
+        
+    - 控制：流量控制(rwnd) vs 拥塞控制(cwnd)
+        
+
+需要我按 **“握手/挥手/可靠传输/流控/拥塞控制”** 各拆一张更细的卡片（每张只讲一件事，配典型真题问法）也可以。
