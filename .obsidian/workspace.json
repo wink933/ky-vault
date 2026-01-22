@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "source",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,8 +175,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,15 +193,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc0a6601b6e16e1e",
+  "active": "468ce22b9929b7f6",
   "lastOpenFiles": [
-    "408/计网/传输层卡片汇总.md",
+    "408/计网/TCP.md",
     "408/计网/ARP.md",
+    "408/计网/传输层卡片汇总.md",
     "408/计网/123.md",
     "408/计网/A.md",
     "408/计网/DNS.md",
     "408/计网/UDP.md",
-    "408/计网/TCP.md",
     "408/计网/ICMP.md",
     "未命名文件夹",
     "408/未命名.md",
