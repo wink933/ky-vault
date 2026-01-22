@@ -219,13 +219,5 @@ git diff --staged
     
 - 工作区没有你“误以为会提交”的东西
     
-
 ---
 
-如果你接下来想把 commit 真正“用顺”，我建议我继续讲两块（你选一个我直接展开）：
-
-- **A：commit / push / pull 的完整协作闭环（含远端追踪分支）**
-    
-- **B：`git commit --amend`、`revert`、`reset` 的区别与使用场景（含安全边界）**
-    
-- **C：如何把混杂改动拆成多个干净 commit（`git add -p` + VS Code 操作）**
