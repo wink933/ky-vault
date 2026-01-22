@@ -196,9 +196,10 @@
   },
   "active": "74c6d7b5d7fdc3aa",
   "lastOpenFiles": [
+    "().md",
+    "tools/git/rebase.md",
     "tools/markdown",
     "tools/git/merge.md",
-    "tools/git/rebase.md",
     "tools/git/分支.md",
     "tools/git/使用教程.md",
     "5) 合并分支：merge vs rebase（新手必懂）.md",

@@ -250,7 +250,7 @@ pick 555666 feat: add API
 
 ---
 
-如果你想把 rebase 真正搞懂，我可以给你一套“可复现练习”：
+如果你想把 ==rebase== 真正搞懂，我可以给你一套“可复现练习”：
 
 1. 造一个 `main` + `feature` 分叉
     
@@ -263,4 +263,3 @@ pick 555666 feat: add API
 5. 最后演示 `--force-with-lease` 的安全推送
     
 
-你希望用 **macOS 终端**还是 **Windows（PowerShell/Git Bash）** 来做这套练习脚本？
