@@ -11,9 +11,11 @@ why_needed:
     
 - "跨网段通信真正要解析的是“默认网关(下一跳)的MAC”，否则会错误地去找远端主机MAC"
     
-- "用ARP缓存把广播发现的成本摊薄到后续多次转发，降低时延与广播压力"  
-    keywords:
+- "用ARP缓存把广播发现的成本摊薄到后续多次转发，降低时延与广播压力"
     
+
+keywords:
+
 - "ARP缓存(动态/静态/老化)"
     
 - "Request广播/Reply单播"
@@ -22,40 +24,50 @@ why_needed:
     
 - "免费ARP(Gratuitous ARP)"
     
-- "代理ARP(Proxy ARP)"  
-    signals:
+- "代理ARP(Proxy ARP)"
     
+
+signals:
+
 - "题干出现：同一网段/局域网/以太网/默认网关/下一跳/MAC未知/ARP表未命中"
     
 - "问：是否广播/广播几次/谁回包/目的MAC怎么填/以太网类型0x0806"
     
-- "给IP与掩码与路由表，问：解析谁的MAC、帧目的MAC是谁"  
-    pitfalls:
+- "给IP与掩码与路由表，问：解析谁的MAC、帧目的MAC是谁"
     
+
+pitfalls:
+
 - "跨网段去解析远端主机MAC而不是网关MAC"
     
 - "认为每发一个IP包都要先ARP广播一次而忽略缓存命中"
     
-- "把ARP Reply也写成广播或认为路由器会转发ARP广播到其他网段"  
-    comparisons:
+- "把ARP Reply也写成广播或认为路由器会转发ARP广播到其他网段"
     
+
+comparisons:
+
 - "ARP(IPv4) vs ND(IPv6邻居发现)"
     
 - "动态ARP缓存 vs 静态绑定"
     
-- "免费ARP vs 代理ARP"  
-    links:
+- "免费ARP vs 代理ARP"
     
+
+links:
+
 - "IPv4转发流程：最长前缀匹配→确定下一跳→ARP解析→二层封装"
     
 - "交换机MAC学习与广播域：ARP Request触发泛洪"
     
-- "ARP欺骗/投毒与防护：静态ARP、DAI、端口安全"  
-    source: "2026计算机网络.pdf 第4章4.2.5 地址解析协议"  
-    pattern_name: "判同网段→定下一跳→查缓存/发ARP→写缓存→再发帧"  
-    last_update: "2026-01-22"  
-    tags:
+- "ARP欺骗/投毒与防护：静态ARP、DAI、端口安全"
     
+
+source: "自拟"  
+pattern_name: "判同网段→定下一跳→查缓存/发ARP→写缓存→再发帧"  
+last_update: "2026-01-22"  
+tags:
+
 - "ARP"
     
 - "IPv4"
@@ -167,5 +179,3 @@ v
 - DHCP联动：获得地址后用免费ARP做冲突检测/刷新邻居缓存
     
 - 安全联动：ARP投毒→中间人，串到二层防护(静态ARP/DAI/端口安全/VLAN隔离)
----
-  
