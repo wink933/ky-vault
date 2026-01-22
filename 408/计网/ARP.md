@@ -1,4 +1,5 @@
 ---
+
 topic: "ARP"  
 module: "网络层"  
 input_type: "概念"  
@@ -11,7 +12,7 @@ why_needed:
 - "跨网段通信时，真正需要解析的是“默认网关(下一跳)的MAC”，否则会误以为要解析远端主机MAC"
     
 - "用缓存把广播发现的开销摊薄到多次数据转发上（一次解析，多次复用）"  
-keywords:
+    keywords:
     
 - "ARP缓存(表项/超时/动态vs静态)"
     
@@ -22,14 +23,14 @@ keywords:
 - "免费ARP(Gratuitous ARP)"
     
 - "代理ARP(Proxy ARP)"  
-signals:
+    signals:
     
 - "题干出现“同一网段/局域网/以太网/下一跳/默认网关/MAC未知/ARP表为空(未命中)”"
     
 - "问“会不会广播/广播几次/谁回包/目的MAC填什么/封装类型0x0806”"
     
 - "给出IP+子网掩码+路由表条目，问“解析谁的MAC”"  
-pitfalls:
+    pitfalls:
     
 - "错误结论：跨网段要解析远端主机MAC → 自检：只要经路由器转发，就解析“下一跳(网关)IP”的MAC"
     
@@ -38,14 +39,14 @@ pitfalls:
 - "错误结论：交换机/路由器都会泛洪ARP Reply → 自检：Request才广播；Reply通常单播给请求者"
     
 - "错误结论：ARP能穿越路由器广播到别的网段 → 自检：ARP广播域=二层广播域；路由器不转发二层广播"  
-comparisons:
+    comparisons:
     
 - "ARP vs IPv6 ND"
     
 - "动态ARP缓存 vs 静态绑定"
     
 - "免费ARP vs 代理ARP"  
-links:
+    links:
     
 - "IPv4转发：最长前缀匹配→确定下一跳→ARP解析→二层封装"
     
@@ -56,10 +57,10 @@ links:
 - "ICMP：不可达/超时与ARP失败的区分"
     
 - "安全：ARP欺骗/中间人"  
-source: "2026计算机网络.pdf 第4章 4.2.5 地址解析协议 "  
-pattern_name: "ARP解析三段式：判同网段→确定下一跳→查缓存/广播解析"  
-last_update: "2026-01-22"  
-tags:
+    source: "2026计算机网络.pdf 第4章 4.2.5 地址解析协议 "  
+    pattern_name: "ARP解析三段式：判同网段→确定下一跳→查缓存/广播解析"  
+    last_update: "2026-01-22"  
+    tags:
     
 - "ARP"
     
@@ -72,6 +73,8 @@ tags:
 - "下一跳"
     
 - "广播域"
+    
+
 ---
 
 ## 1) 速记总结
