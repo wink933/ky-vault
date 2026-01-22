@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#错题",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc0a6601b6e16e1e",
+  "active": "2cb4cd5be893c6f5",
   "lastOpenFiles": [
-    "IP 地址与子网划分.md",
+    "Pasted image 20260122161447.png",
     "408/计网/错题/子网.md",
+    "IP 地址与子网划分.md",
     "tools/markdown/使用说明.md",
     "408/计网/错题",
     "408/计网/TCP.md",
