@@ -175,7 +175,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -193,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cb4cd5be893c6f5",
+  "active": "258f125ae6660c46",
   "lastOpenFiles": [
     "408/计网/ARP.md",
     "408/计网/ARP.md",
