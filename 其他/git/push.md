@@ -232,9 +232,3 @@ VS Code Source Control 面板里：
 
 ---
 
-如果你愿意，我可以再把与 push 最紧密的一块“拉下来讲清楚”：
-
-- `git pull`（为什么它是 fetch + merge）
-    
-- `git fetch`（只下载不合并）  
-    这样你就能彻底理解“为什么 push 会被拒绝，以及最正确的处理姿势”。
