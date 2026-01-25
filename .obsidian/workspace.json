@@ -11,14 +11,12 @@
             "id": "2cb4cd5be893c6f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "高数/可微.md",
-                "mode": "source",
-                "source": false
+                "file": "高数/assets/Pasted image 20260125211421.png"
               },
-              "icon": "lucide-file",
-              "title": "可微"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260125211421"
             }
           }
         ]
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/可微.md",
+                "file": "高数/assets/Pasted image 20260125211421.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "可微 的出链列表"
+              "title": "Pasted image 20260125211421 的出链列表"
             }
           },
           {
@@ -196,17 +194,18 @@
   },
   "active": "2cb4cd5be893c6f5",
   "lastOpenFiles": [
-    "高数/assets/Pasted image 20260125211023.png",
-    "高数/assets",
-    "Pasted image 20260125205918.png",
     "高数/可微.md",
+    "高数/assets/Pasted image 20260125211421.png",
+    "高数/assets",
+    "qwss.md",
+    "高数/assets/Pasted image 20260125211023.png",
+    "Pasted image 20260125205918.png",
     "其他/git/工作区.md",
     "其他/git/暂存区.md",
     "其他/git/commit.md",
     "其他/git/merge.md",
     "其他/git/pull.md",
     "其他/git/push.md",
-    "qwss.md",
     "qwe.md",
     "其他/git/仓库.md",
     "其他/git/分支.md",
