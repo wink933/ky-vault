@@ -174,9 +174,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e737b1e7188702cf",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -194,14 +204,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cb4cd5be893c6f5",
+  "active": "e737b1e7188702cf",
   "lastOpenFiles": [
-    "qwss.md",
-    "高数/可微.md",
-    "qwe.md",
     "高数/assets/可微/file-20260125213510630.png",
     "高数/assets/可微",
     "高数/assets",
+    "Pasted image 20260126111555.png",
+    "高数/可微.md",
+    "qwss.md",
+    "qwe.md",
     "高数/assets/可微/file-20260125213222223.png",
     "高数/assets/可微/file-20260125213013949.png",
     "高数/assets/高数/可微/IMG-20260125211810480.png",
