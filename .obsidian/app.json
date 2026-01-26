@@ -1,3 +1,4 @@
 {
-  "promptDelete": false
+  "attachmentFolderPath": "./assets",
+  "useMarkdownLinks": true
 }
