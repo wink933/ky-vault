@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e737b1e7188702cf",
+  "active": "74c6d7b5d7fdc3aa",
   "lastOpenFiles": [
     "高数/assets/可微/file-20260125213510630.png",
     "高数/assets/可微",
