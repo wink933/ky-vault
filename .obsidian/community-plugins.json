@@ -3,5 +3,7 @@
   "dataview",
   "obsidian-custom-attachment-location",
   "periodic-notes",
-  "calendar"
+  "calendar",
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian"
 ]
