@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-01.md",
+                "file": "daily/2026-01-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01"
+              "title": "2026-01-27"
             }
           }
         ]
@@ -186,7 +186,7 @@
             }
           },
           {
-            "id": "7b7a50d280612566",
+            "id": "98b75dd375939f44",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -213,16 +213,16 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open this month": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "2cb4cd5be893c6f5",
   "lastOpenFiles": [
     "2026-W05.md",
+    "daily/2026-01-27.md",
     "2026-01.md",
     "未命名.canvas",
     "408/操作系统/操作系统的概念.md",
-    "daily/2026-01-27.md",
     "daily-note.md",
     "daily/1-27.md",
     "2026-01-27.md",
