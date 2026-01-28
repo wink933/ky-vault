@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs-repo/zh/编辑与格式化/编辑相关的快捷键.md",
+                "file": "daily-note.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "编辑相关的快捷键"
+              "title": "daily-note"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs-repo/zh/编辑与格式化/编辑相关的快捷键.md",
+                "file": "daily-note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "编辑相关的快捷键"
+              "title": "daily-note"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs-repo/zh/编辑与格式化/编辑相关的快捷键.md",
+                "file": "daily-note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "编辑相关的快捷键 的大纲"
+              "title": "daily-note 的大纲"
             }
           },
           {
@@ -243,12 +243,18 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
-    "docs-repo/zh/编辑与格式化/编辑与预览笔记.md",
+    "408/操作系统/操作系统的概念.md",
+    "docs-repo/zh/编辑与格式化/属性.md",
+    "docs-repo/zh/编辑与格式化/使用 HTML 语法.md",
+    "docs-repo/zh/编辑与格式化/嵌入网页.md",
+    "docs-repo/zh/编辑与格式化/多光标模式.md",
+    "docs-repo/zh/编辑与格式化/标注.md",
     "docs-repo/zh/编辑与格式化/标签.md",
+    "docs-repo/zh/编辑与格式化/编辑与预览笔记.md",
+    "docs-repo/zh/编辑与格式化/编辑相关的快捷键.md",
     "其他/markdown/使用说明.md",
     "其他/markdown/其他指令.md",
     "高数/Lecture 1 ：函数极限与连续/知识结构.md",
-    "docs-repo/zh/编辑与格式化/编辑相关的快捷键.md",
     "docs-repo/zh/编辑与格式化/高级格式语法.md",
     "docs-repo/zh/编辑与格式化/基本格式语法.md",
     "docs-repo/zh/快速入门/创建第一篇笔记.md",
@@ -277,12 +283,6 @@
     "docs-repo/zh/许可证与支付/退款政策.md",
     "docs-repo/zh/许可证与支付/许可证与支付简介.md",
     "docs-repo/zh/许可证与支付/教育和非营利组织折扣.md",
-    "docs-repo/zh/许可证与支付/Obsidian 积分.md",
-    "docs-repo/zh/许可证与支付/Catalyst 个人许可证.md",
-    "docs-repo/zh/编辑与格式化/附件.md",
-    "docs-repo/zh/编辑与格式化/标注.md",
-    "docs-repo/zh/编辑与格式化/折叠.md",
-    "docs-repo/zh/编辑与格式化/嵌入网页.md",
     "docs-repo/zh/附件",
     "docs-repo/zh/链接笔记与文件",
     "docs-repo/zh/许可证与支付",
