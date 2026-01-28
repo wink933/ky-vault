@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-28.md",
+                "file": "模版/1.定义.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-28"
+              "title": "1.定义"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2026-01-28.md",
+                "file": "模版/1.定义.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-28 的大纲"
+              "title": "1.定义 的大纲"
             }
           },
           {
@@ -197,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -220,11 +219,12 @@
   },
   "active": "2cb4cd5be893c6f5",
   "lastOpenFiles": [
+    "模版/2.笔记属性.md",
+    "模版/1.定义.md",
+    "daily/2026-01-28.md",
     "daily/2026-01-27.md",
     "123.md",
     "其他/git/仓库.md",
-    "daily/2026-01-28.md",
-    "模版/1.定义.md",
     "其他/markdown/使用说明.md",
     "模版",
     "408/操作系统/操作系统的概念.md",
@@ -260,7 +260,6 @@
     "高数/assets/Pasted image 20260125211421.png",
     "高数/assets/Pasted image 20260125211023.png",
     "Pasted image 20260125205918.png",
-    "其他/git/工作区.md",
     "英语",
     "高数",
     "408/计组",
