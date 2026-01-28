@@ -35,7 +35,7 @@
               "type": "markdown",
               "state": {
                 "file": "英语/qaws.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -241,7 +241,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fcf26c752fdd8899",
+  "active": "d9a5ea16ea6fa51b",
   "lastOpenFiles": [
     "模版/3.定理.md",
     "英语/qaws.md",
