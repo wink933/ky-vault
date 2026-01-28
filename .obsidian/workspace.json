@@ -25,12 +25,14 @@
             "id": "fcf26c752fdd8899",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-28 13.17.15.excalidraw.md"
+                "file": "高数/Lecture 1 ：函数极限与连续/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-28 13.17.15.excalidraw"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ],
@@ -169,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-28 13.17.15.excalidraw.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2026-01-28 13.17.15.excalidraw 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -232,8 +234,8 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
-    "高数/Lecture 1 ：函数极限与连续/未命名.md",
     "Excalidraw/Drawing 2026-01-28 13.17.15.excalidraw.md",
+    "高数/Lecture 1 ：函数极限与连续/未命名.md",
     "Excalidraw",
     "高数/可微.md",
     "高数/Lecture 1 ：函数极限与连续.md",
