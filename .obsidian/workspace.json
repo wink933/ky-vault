@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "未命名"
             }
+          },
+          {
+            "id": "fcf26c752fdd8899",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-28 13.17.15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-28 13.17.15.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数/Lecture 1 ：函数极限与连续/未命名.md",
+                "file": "Excalidraw/Drawing 2026-01-28 13.17.15.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "Drawing 2026-01-28 13.17.15.excalidraw 的大纲"
             }
           },
           {
@@ -217,10 +230,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2cb4cd5be893c6f5",
+  "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
-    "高数/可微.md",
     "高数/Lecture 1 ：函数极限与连续/未命名.md",
+    "Excalidraw/Drawing 2026-01-28 13.17.15.excalidraw.md",
+    "Excalidraw",
+    "高数/可微.md",
     "高数/Lecture 1 ：函数极限与连续.md",
     "高数/Lecture 1 ：函数极限与连续",
     "模版/3.定理.md",
@@ -248,7 +263,6 @@
     "408/计网/ARP.md",
     "408/计网/TCP.md",
     "408/计网/UDP.md",
-    "408/计网/错题/子网.md",
     "高数/assets/可微/file-20260125213510630.png",
     "高数/assets/可微",
     "高数/assets",
@@ -263,7 +277,6 @@
     "Pasted image 20260125205918.png",
     "英语",
     "高数",
-    "408/计组",
     "Pasted image 20260122161447.png",
     "Pasted image 20260122161724.png"
   ]
