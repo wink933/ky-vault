@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/未命名.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/未命名.md",
                 "mode": "source",
                 "source": false
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数/未命名.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,10 +217,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "74c6d7b5d7fdc3aa",
+  "active": "2cb4cd5be893c6f5",
   "lastOpenFiles": [
     "高数/可微.md",
-    "高数/未命名.md",
+    "高数/Lecture 1 ：函数极限与连续/未命名.md",
+    "高数/Lecture 1 ：函数极限与连续.md",
+    "高数/Lecture 1 ：函数极限与连续",
     "模版/3.定理.md",
     "模版/1.定义.md",
     "模版/2.笔记属性.md",
@@ -247,7 +249,6 @@
     "408/计网/TCP.md",
     "408/计网/UDP.md",
     "408/计网/错题/子网.md",
-    "408/数据结构/Dijkstra.md",
     "高数/assets/可微/file-20260125213510630.png",
     "高数/assets/可微",
     "高数/assets",
@@ -263,7 +264,6 @@
     "英语",
     "高数",
     "408/计组",
-    "408/数据结构",
     "Pasted image 20260122161447.png",
     "Pasted image 20260122161724.png"
   ]
