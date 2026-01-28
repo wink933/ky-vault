@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-note.md",
-                "mode": "preview",
+                "file": "高数/Lecture 1 ：函数极限与连续/知识结构.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "daily-note"
+              "title": "知识结构"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-note.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/知识结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "daily-note"
+              "title": "知识结构"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-note.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/知识结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "daily-note 的大纲"
+              "title": "知识结构 的大纲"
             }
           },
           {
@@ -243,6 +243,9 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "模版/2.笔记属性.md",
+    "高数/Lecture 1 ：函数极限与连续/知识结构.md",
+    "daily-note.md",
     "408/操作系统/操作系统的概念.md",
     "docs-repo/zh/编辑与格式化/属性.md",
     "docs-repo/zh/编辑与格式化/使用 HTML 语法.md",
@@ -254,7 +257,6 @@
     "docs-repo/zh/编辑与格式化/编辑相关的快捷键.md",
     "其他/markdown/使用说明.md",
     "其他/markdown/其他指令.md",
-    "高数/Lecture 1 ：函数极限与连续/知识结构.md",
     "docs-repo/zh/编辑与格式化/高级格式语法.md",
     "docs-repo/zh/编辑与格式化/基本格式语法.md",
     "docs-repo/zh/快速入门/创建第一篇笔记.md",
@@ -281,8 +283,6 @@
     "docs-repo/zh/链接笔记与文件/内部链接.md",
     "docs-repo/zh/链接笔记与文件/别名.md",
     "docs-repo/zh/许可证与支付/退款政策.md",
-    "docs-repo/zh/许可证与支付/许可证与支付简介.md",
-    "docs-repo/zh/许可证与支付/教育和非营利组织折扣.md",
     "docs-repo/zh/附件",
     "docs-repo/zh/链接笔记与文件",
     "docs-repo/zh/许可证与支付",
