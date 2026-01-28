@@ -20,5 +20,6 @@
 
 
 > [!danger]+
-> 
-> 
+
+
+$$\lim e ^ { x } = \infty$$
