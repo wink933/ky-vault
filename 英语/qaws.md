@@ -23,3 +23,5 @@
 
 
 $$\lim e ^ { x } = \infty$$
+
+$$\lim _ { x \rightarrow + \infty } e ^ { x } = \infty$$
