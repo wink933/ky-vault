@@ -1,10 +1,7 @@
 [
-  "obsidian-git",
-  "dataview",
-  "obsidian-custom-attachment-location",
-  "periodic-notes",
-  "calendar",
-  "obsidian-excalidraw-plugin",
   "templater-obsidian",
-  "obsidian-importer"
+  "periodic-notes",
+  "obsidian-git",
+  "obsidian-excalidraw-plugin",
+  "obsidian-custom-attachment-location"
 ]
