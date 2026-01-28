@@ -229,16 +229,19 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "HTML import/由此开始 - Obsidian 中文帮助 - Obsidian Publish.md",
+    "高数/Lecture 1 ：函数极限与连续/知识结构.md",
+    "HTML import",
     "高数/Lecture 1 ：函数极限与连续/assets/知识结构/file-20260128132831963.png",
     "高数/Lecture 1 ：函数极限与连续/assets/知识结构",
     "高数/Lecture 1 ：函数极限与连续/assets",
     "Excalidraw/Drawing 2026-01-28 13.17.15.excalidraw.md",
-    "高数/Lecture 1 ：函数极限与连续/知识结构.md",
     "Excalidraw",
     "高数/可微.md",
     "高数/Lecture 1 ：函数极限与连续.md",
@@ -275,11 +278,9 @@
     "高数/assets/可微/file-20260125213013949.png",
     "高数/assets/高数/可微/IMG-20260125211810480.png",
     "高数/assets/高数/可微",
-    "高数/assets/高数",
     "高数/assets/Pasted image 20260125211421.png",
     "高数/assets/Pasted image 20260125211023.png",
     "Pasted image 20260125205918.png",
-    "Pasted image 20260122161447.png",
-    "Pasted image 20260122161724.png"
+    "Pasted image 20260122161447.png"
   ]
 }
