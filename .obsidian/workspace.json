@@ -186,6 +186,16 @@
               "icon": "lucide-list",
               "title": "qaws 的大纲"
             }
+          },
+          {
+            "id": "037ecaa3d586cece",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 3
