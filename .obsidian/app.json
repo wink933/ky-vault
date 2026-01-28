@@ -2,5 +2,6 @@
   "attachmentFolderPath": "./assets",
   "useMarkdownLinks": true,
   "promptDelete": false,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": true,
+  "strictLineBreaks": true
 }
