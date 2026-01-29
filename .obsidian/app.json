@@ -1,7 +1,8 @@
 {
-  "attachmentFolderPath": "./assets",
+  "attachmentFolderPath": "附件/",
   "useMarkdownLinks": true,
   "promptDelete": false,
   "autoPairMarkdown": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "newFileLocation": "root"
 }
