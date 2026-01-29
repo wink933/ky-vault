@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计网/错题/子网.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念与特性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "子网"
+              "title": "1.1 函数的概念与特性"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计网/错题/子网.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念与特性.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "子网"
+              "title": "1.1 函数的概念与特性"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -223,6 +223,8 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念与特性/file-20260129143756500.png",
+    "408/计网/错题/子网.md",
     "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念与特性.md",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念与特性/file-20260129143429631.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念与特性/file-20260129114444430.png",
@@ -262,7 +264,6 @@
     "docs-repo/zh/编辑与格式化/高级格式语法.md",
     "docs-repo/zh/编辑与格式化/基本格式语法.md",
     "docs-repo/zh/快速入门/创建第一篇笔记.md",
-    "docs-repo/zh/快速入门/同步笔记.md",
     "未命名.canvas",
     "docs-repo/zh/附件/图标/lucide-folder-open.svg",
     "docs-repo/zh/附件/图标/lucide-file-search.svg",
