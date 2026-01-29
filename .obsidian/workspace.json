@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/1.2 函数的特性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 函数的概念"
+              "title": "1.2 函数的特性"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/1.2 函数的特性.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 函数的概念"
+              "title": "1.2 函数的特性"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -186,16 +186,6 @@
               "icon": "lucide-list",
               "title": "qaws 的大纲"
             }
-          },
-          {
-            "id": "037ecaa3d586cece",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ],
         "currentTab": 3
@@ -214,17 +204,13 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-importer:Open Importer": false,
-      "periodic-notes:Open today": false,
-      "callout-manager:Insert Callout": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
-    "高数/Lecture 1 ：函数极限与连续/1.3 函数的图像.md",
     "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念.md",
+    "高数/Lecture 1 ：函数极限与连续/1.3 函数的图像.md",
     "高数/Lecture 1 ：函数极限与连续/1.2 函数的特性.md",
     "其他/Latex.md",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念",

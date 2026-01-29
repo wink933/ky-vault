@@ -1,9 +1,5 @@
 [
   "templater-obsidian",
-  "periodic-notes",
   "obsidian-git",
-  "obsidian-excalidraw-plugin",
-  "obsidian-custom-attachment-location",
-  "calendar",
-  "callout-manager"
+  "obsidian-custom-attachment-location"
 ]
