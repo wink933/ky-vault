@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/Latex.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念与特性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latex"
+              "title": "1.1 函数的概念与特性"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/Latex.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念与特性.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latex"
+              "title": "1.1 函数的概念与特性"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -223,9 +223,12 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念与特性/file-20260129114444430.png",
+    "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念与特性",
+    "高数/Lecture 1 ：函数极限与连续/assets",
+    "其他/Latex.md",
     "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念与特性.md",
     "高数/Lecture 1 ：函数极限与连续/知识结构.md",
-    "其他/Latex.md",
     "模版/1.定义.md",
     "模版/3.定理.md",
     "模版/2.笔记属性.md",
@@ -240,7 +243,6 @@
     "英语/assets/qaws/file-20260129104518835.png",
     "高数/Lecture 1 ：函数极限与连续/assets/知识结构/file-20260129104334532.png",
     "高数/Lecture 1 ：函数极限与连续/assets/知识结构",
-    "高数/Lecture 1 ：函数极限与连续/assets",
     "daily-note.md",
     "高数/Lecture 1 ：函数极限与连续/assets/知识结构/file-20260128152521009.png",
     "高数/Lecture 1 ：函数极限与连续/assets/知识结2",
@@ -260,7 +262,6 @@
     "docs-repo/zh/快速入门/创建第一篇笔记.md",
     "docs-repo/zh/快速入门/同步笔记.md",
     "docs-repo/zh/Obsidian/安卓端应用.md",
-    "docs-repo/zh/Obsidian/iOS 应用.md",
     "未命名.canvas",
     "docs-repo/zh/附件/图标/lucide-folder-open.svg",
     "docs-repo/zh/附件/图标/lucide-file-search.svg",
@@ -268,7 +269,6 @@
     "docs-repo/zh/附件/图标/obsidian-icon-vault-switcher.svg",
     "docs-repo/zh/附件/audio/Excerpt from Mother of All Demos (1968).ogg",
     "docs-repo/zh/附件/图标",
-    "docs-repo/zh/附件/audio",
-    "docs-repo/zh/附件"
+    "docs-repo/zh/附件/audio"
   ]
 }
