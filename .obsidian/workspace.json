@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 1 ：函数极限与连续/知识结构.md",
+                "file": "其他/Latex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识结构"
+              "title": "Latex"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 1 ：函数极限与连续/知识结构.md",
+                "file": "其他/Latex.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识结构"
+              "title": "Latex"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -223,10 +223,11 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "高数/Lecture 1 ：函数极限与连续/知识结构.md",
+    "其他/Latex.md",
     "英语/qaws.md",
     "模版/3.定理.md",
     "模版/2.笔记属性.md",
-    "高数/Lecture 1 ：函数极限与连续/知识结构.md",
     "高数/Lecture 1 ：函数极限与连续/assets/知识结构",
     "高数/Lecture 1 ：函数极限与连续/assets/知识结2",
     "daily-note.md",
@@ -264,7 +265,6 @@
     "docs-repo/zh/附件/图标",
     "docs-repo/zh/附件/audio",
     "docs-repo/zh/链接笔记与文件/插入文件.md",
-    "docs-repo/zh/链接笔记与文件/内部链接.md",
     "docs-repo/zh/附件",
     "docs-repo/zh/链接笔记与文件",
     "docs-repo/zh/许可证与支付",
