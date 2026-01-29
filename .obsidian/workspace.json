@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念与特性.md",
+                "file": "408/计网/错题/子网.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 函数的概念与特性"
+              "title": "子网"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念与特性.md",
+                "file": "408/计网/错题/子网.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 函数的概念与特性"
+              "title": "子网"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -221,12 +221,13 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "d9a5ea16ea6fa51b",
+  "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念与特性.md",
+    "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念与特性/file-20260129143429631.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念与特性/file-20260129114444430.png",
     "模版/2.笔记属性.md",
     "模版/1.定义.md",
-    "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念与特性.md",
     "高数/Lecture 1 ：函数极限与连续/1.0知识结构.md",
     "其他/Latex.md",
     "高数/可微.md",
@@ -265,7 +266,6 @@
     "未命名.canvas",
     "docs-repo/zh/附件/图标/lucide-folder-open.svg",
     "docs-repo/zh/附件/图标/lucide-file-search.svg",
-    "docs-repo/zh/附件/图标/lucide-cog.svg",
     "docs-repo/zh/附件/audio/Excerpt from Mother of All Demos (1968).ogg",
     "docs-repo/zh/附件/图标",
     "docs-repo/zh/附件/audio"
