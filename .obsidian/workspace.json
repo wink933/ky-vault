@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念与特性.md",
-                "mode": "source",
+                "file": "模版/4.例题.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 函数的概念与特性"
+              "title": "4.例题"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念与特性.md",
-                "mode": "preview",
+                "file": "模版/4.例题.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 函数的概念与特性"
+              "title": "4.例题"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -223,21 +223,22 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "模版/3.定理.md",
+    "模版/4.例题.md",
+    "模版/1.定义.md",
+    "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念与特性.md",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念与特性/file-20260129150541490.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念与特性/file-20260129150516644.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念与特性/file-20260129143756500.png",
     "408/计网/错题/子网.md",
-    "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念与特性.md",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念与特性/file-20260129143429631.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念与特性/file-20260129114444430.png",
     "模版/2.笔记属性.md",
-    "模版/1.定义.md",
     "高数/Lecture 1 ：函数极限与连续/1.0知识结构.md",
     "其他/Latex.md",
     "高数/可微.md",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念与特性",
     "高数/Lecture 1 ：函数极限与连续/assets",
-    "模版/3.定理.md",
     "函数的概念与特性.md",
     "英语/qaws.md",
     "英语/assets/qaws/file-20260129104832627.png",
@@ -250,7 +251,6 @@
     "高数/Lecture 1 ：函数极限与连续/assets/知识结构/file-20260129104334532.png",
     "高数/Lecture 1 ：函数极限与连续/assets/知识结构",
     "daily-note.md",
-    "高数/Lecture 1 ：函数极限与连续/assets/知识结构/file-20260128152521009.png",
     "高数/Lecture 1 ：函数极限与连续/assets/知识结2",
     "408/操作系统/操作系统的概念.md",
     "docs-repo/zh/编辑与格式化/属性.md",
