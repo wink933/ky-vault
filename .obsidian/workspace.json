@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模版/1.定义.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/函数的概念与特性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.定义"
+              "title": "函数的概念与特性"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模版/1.定义.md",
-                "mode": "source",
+                "file": "高数/Lecture 1 ：函数极限与连续/函数的概念与特性.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.定义"
+              "title": "函数的概念与特性"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -96,8 +96,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,11 +223,11 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
-    "模版/3.定理.md",
-    "模版/1.定义.md",
-    "模版/2.笔记属性.md",
-    "高数/Lecture 1 ：函数极限与连续/函数的概念与特性.md",
     "高数/Lecture 1 ：函数极限与连续/知识结构.md",
+    "高数/Lecture 1 ：函数极限与连续/函数的概念与特性.md",
+    "模版/2.笔记属性.md",
+    "模版/1.定义.md",
+    "模版/3.定理.md",
     "函数的概念与特性.md",
     "英语/qaws.md",
     "英语/assets/qaws/file-20260129104832627.png",
