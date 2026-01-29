@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模版/4.例题.md",
-                "mode": "preview",
+                "file": "模版/1.定义.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.例题"
+              "title": "1.定义"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模版/4.例题.md",
+                "file": "模版/1.定义.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.例题"
+              "title": "1.定义"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -221,10 +221,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "fcf26c752fdd8899",
+  "active": "d9a5ea16ea6fa51b",
   "lastOpenFiles": [
-    "模版/3.定理.md",
+    "408/计网/TCP.md",
     "模版/4.例题.md",
+    "模版/3.定理.md",
     "模版/1.定义.md",
     "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念与特性.md",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念与特性/file-20260129150541490.png",
@@ -265,7 +266,6 @@
     "其他/markdown/其他指令.md",
     "docs-repo/zh/编辑与格式化/高级格式语法.md",
     "docs-repo/zh/编辑与格式化/基本格式语法.md",
-    "docs-repo/zh/快速入门/创建第一篇笔记.md",
     "未命名.canvas",
     "docs-repo/zh/附件/audio/Excerpt from Mother of All Demos (1968).ogg",
     "docs-repo/zh/附件/图标",
