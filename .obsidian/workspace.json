@@ -35,7 +35,7 @@
               "type": "markdown",
               "state": {
                 "file": "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念与特性.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -221,7 +221,7 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "fcf26c752fdd8899",
+  "active": "d9a5ea16ea6fa51b",
   "lastOpenFiles": [
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念与特性/file-20260129114444430.png",
     "模版/2.笔记属性.md",
