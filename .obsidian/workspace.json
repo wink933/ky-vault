@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 1 ：函数极限与连续/知识结构.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/函数的概念与特性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识结构"
+              "title": "函数的概念与特性"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 1 ：函数极限与连续/知识结构.md",
-                "mode": "preview",
+                "file": "高数/Lecture 1 ：函数极限与连续/函数的概念与特性.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识结构"
+              "title": "函数的概念与特性"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -221,8 +221,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "fcf26c752fdd8899",
+  "active": "d9a5ea16ea6fa51b",
   "lastOpenFiles": [
+    "高数/Lecture 1 ：函数极限与连续/知识结构.md",
+    "高数/Lecture 1 ：函数极限与连续/函数的概念与特性.md",
+    "函数的概念与特性.md",
     "英语/qaws.md",
     "英语/assets/qaws/file-20260129104832627.png",
     "英语/assets/qaws",
@@ -231,7 +234,6 @@
     "英语/assets/qaws/file-20260129104730069.png",
     "英语/assets/qaws/file-20260129104701552.png",
     "英语/assets/qaws/file-20260129104518835.png",
-    "高数/Lecture 1 ：函数极限与连续/知识结构.md",
     "高数/Lecture 1 ：函数极限与连续/assets/知识结构/file-20260129104334532.png",
     "高数/Lecture 1 ：函数极限与连续/assets/知识结构",
     "高数/Lecture 1 ：函数极限与连续/assets",
@@ -263,7 +265,6 @@
     "docs-repo/zh/附件/图标/lucide-folder-open.svg",
     "docs-repo/zh/附件/图标/lucide-file-search.svg",
     "docs-repo/zh/附件/图标/lucide-cog.svg",
-    "docs-repo/zh/导入笔记/从 Evernote 中导入笔记.md",
     "docs-repo/zh/附件/图标/obsidian-icon-vault-switcher.svg",
     "docs-repo/zh/附件/audio/Excerpt from Mother of All Demos (1968).ogg",
     "docs-repo/zh/附件/图标",

@@ -4,5 +4,5 @@
   "promptDelete": false,
   "autoPairMarkdown": true,
   "strictLineBreaks": true,
-  "newFileLocation": "root"
+  "newFileLocation": "current"
 }
