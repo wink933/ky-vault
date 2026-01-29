@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/qaws.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/知识结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "qaws"
+              "title": "知识结构"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/qaws.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/知识结构.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "qaws"
+              "title": "知识结构"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -217,13 +217,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "templater-obsidian:Templater": false,
       "obsidian-importer:Open Importer": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "callout-manager:Insert Callout": false
     }
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
-    "模版/3.定理.md",
     "英语/qaws.md",
+    "模版/3.定理.md",
     "模版/2.笔记属性.md",
     "高数/Lecture 1 ：函数极限与连续/知识结构.md",
     "高数/Lecture 1 ：函数极限与连续/assets/知识结构",
