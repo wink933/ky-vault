@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-30.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/1.2 函数的特性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-30"
+              "title": "1.2 函数的特性"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-30.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/1.2 函数的特性.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-30"
+              "title": "1.2 函数的特性"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,13 +222,14 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念.md",
+    "高数/Lecture 1 ：函数极限与连续/1.0知识结构.md",
+    "高数/Lecture 1 ：函数极限与连续/1.2 函数的特性.md",
+    "高数/Lecture 1 ：函数极限与连续/1.3 函数的图像.md",
+    "daily/2026-01-30.md",
     "daily/2026-01-29.md",
     "daily/2026-01-28.md",
     "daily/2026-01-27.md",
-    "daily/2026-01-30.md",
-    "高数/Lecture 1 ：函数极限与连续/1.3 函数的图像.md",
-    "高数/Lecture 1 ：函数极限与连续/1.2 函数的特性.md",
-    "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念.md",
     "其他/Latex.md",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念",
     "模版/1.定义.md",
@@ -241,7 +243,6 @@
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念/file-20260129154053602.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念/file-20260129154053603.png",
     "模版/2.笔记属性.md",
-    "高数/Lecture 1 ：函数极限与连续/1.0知识结构.md",
     "高数/可微.md",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念与特性",
     "高数/Lecture 1 ：函数极限与连续/assets",
