@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-28.md",
+                "file": "daily/2026-01-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-28"
+              "title": "2026-01-30"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-28.md",
+                "file": "daily/2026-01-30.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-28"
+              "title": "2026-01-30"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -219,11 +219,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "11a5fec945465855",
+  "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
-    "daily/2026-01-30.md",
+    "daily/2026-01-29.md",
     "daily/2026-01-28.md",
     "daily/2026-01-27.md",
+    "daily/2026-01-30.md",
     "高数/Lecture 1 ：函数极限与连续/1.3 函数的图像.md",
     "高数/Lecture 1 ：函数极限与连续/1.2 函数的特性.md",
     "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念.md",
@@ -264,7 +265,6 @@
     "docs-repo/zh/编辑与格式化/多光标模式.md",
     "docs-repo/zh/编辑与格式化/标注.md",
     "docs-repo/zh/编辑与格式化/标签.md",
-    "docs-repo/zh/编辑与格式化/编辑与预览笔记.md",
     "未命名.canvas",
     "docs-repo/zh/附件/audio/Excerpt from Mother of All Demos (1968).ogg",
     "docs-repo/zh/附件/图标"
