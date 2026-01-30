@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 1 ：函数极限与连续/1.2 函数的特性.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/1.3 函数的图像.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 函数的特性"
+              "title": "1.3 函数的图像"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 1 ：函数极限与连续/1.2 函数的特性.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/1.3 函数的图像.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 函数的特性"
+              "title": "1.3 函数的图像"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -222,6 +222,7 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "其他/Latex.md",
     "高数/Lecture 1 ：函数极限与连续/1.3 函数的图像.md",
     "高数/Lecture 1 ：函数极限与连续/1.2 函数的特性.md",
     "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念.md",
@@ -233,7 +234,6 @@
     "daily/2026-01-29.md",
     "daily/2026-01-28.md",
     "daily/2026-01-27.md",
-    "其他/Latex.md",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念",
     "模版/1.定义.md",
     "模版/4.例题.md",
