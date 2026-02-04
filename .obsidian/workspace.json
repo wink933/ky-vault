@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#XXX",
+                "query": "tag:#领域",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
