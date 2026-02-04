@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/Latex.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/1.8 函数的连续与间断.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latex"
+              "title": "1.8 函数的连续与间断"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/Latex.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/1.8 函数的连续与间断.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latex"
+              "title": "1.8 函数的连续与间断"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -222,14 +222,14 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "高数/Lecture 1 ：函数极限与连续/1.7 求极限的八种方法.md",
+    "高数/Lecture 1 ：函数极限与连续/1.6 无穷小和无穷大.md",
+    "高数/Lecture 1 ：函数极限与连续/1.5 极限的存在准则.md",
+    "其他/Latex.md",
     "模版/7.公式.md",
     "高数/Lecture 1 ：函数极限与连续/1.4 函数极限的概念与性质.md",
-    "其他/Latex.md",
     "高数/Lecture 1 ：函数极限与连续/1.8 函数的连续与间断.md",
     "daily/2026-02-04.md",
-    "高数/Lecture 1 ：函数极限与连续/1.5 极限的存在准则.md",
-    "高数/Lecture 1 ：函数极限与连续/1.6 无穷小和无穷大.md",
-    "高数/Lecture 1 ：函数极限与连续/1.7 求极限的八种方法.md",
     "高数/Lecture 1 ：函数极限与连续/1.0知识结构.md",
     "高数/Lecture 1 ：函数极限与连续/1.2 函数的特性.md",
     "模版/2.笔记属性.md",
