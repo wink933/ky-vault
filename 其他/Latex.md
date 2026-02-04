@@ -25,4 +25,5 @@
 - $\iff$
   >使用\iff表示等价
   
-- 
+- $\displaystyle \lim_{x\to 0}\dfrac{\sin x}{x}$
+  >使用\dispaly
