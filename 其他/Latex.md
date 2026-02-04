@@ -22,4 +22,7 @@
 	- 使用\delta表示
 - $$\mathring{U}(x_0,\delta)=\{x\mid 0<|x-x_0|<\delta\}$$
 	- 使用\mathring表示去心符号
+- $\iff$
+  >使用\iff表示等价
+  
 - 
