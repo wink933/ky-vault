@@ -15,11 +15,11 @@
 	- 开区间和闭区间之间用[]和()表示就行了
 	- \加上一个空格也是表示空格，但是空格比\加上逗号大一些
 -  $x=\sqrt{y}$
-	- \sqrt代表开平方根
+	> \sqrt代表开平方根
 -  $|f(x)|\le M$
-	- \le代表小于等于符号
+	> \le代表小于等于符号
 - $\delta$
-	- 使用\delta表示
+	> 使用\delta表示
 - $$\mathring{U}(x_0,\delta)=\{x\mid 0<|x-x_0|<\delta\}$$
 	- 使用\mathring表示去心符号
 - $\iff$
@@ -28,4 +28,5 @@
 - $\displaystyle \lim_{x\to 0}\dfrac{\sin x}{x}$
   >使用\displaystyle调整格式，使用\to表示趋近，使用\lim表示极限
 
-- 
+- 则 $A\ge 0$（或 $A\le 0$）
+  >使用\ge表示大于等于，使用\le表示小于等于
