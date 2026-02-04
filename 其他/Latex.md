@@ -18,4 +18,8 @@
 	- \sqrt代表开平方根
 -  $|f(x)|\le M$
 	- \le代表小于等于符号
+- $\delta$
+	- 使用\delta表示
+- $$\mathring{U}(x_0,\delta)=\{x\mid 0<|x-x_0|<\delta\}$$
+	- 使用\mathring表示去心符号
 - 
