@@ -27,3 +27,5 @@
   
 - $\displaystyle \lim_{x\to 0}\dfrac{\sin x}{x}$
   >使用\displaystyle调整格式，使用\to表示趋近，使用\lim表示极限
+
+- 
