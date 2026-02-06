@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,11 +222,12 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "高数/Lecture 1 ：函数极限与连续/1.7 求极限的八种方法.md",
+    "高数/Lecture 2 ：数列极限/2.2 数列极限的定义.md",
     "高数/Lecture 2 ：数列极限/2.1 数列的概念.md",
     "高数/Lecture 2 ：数列极限/assets/2.1 数列的概念/file-20260206174505532.png",
     "高数/Lecture 2 ：数列极限/assets/2.1 数列的概念",
     "高数/Lecture 2 ：数列极限/assets",
-    "高数/Lecture 2 ：数列极限/2.2 数列极限的定义.md",
     "模版/9.补充.md",
     "daily/2026-02-06.md",
     "高数/Lecture 2 ：数列极限",
@@ -240,7 +242,6 @@
     "高数/Lecture 1 ：函数极限与连续/1.8 函数的连续与间断.md",
     "高数/Lecture 1 ：函数极限与连续/1.9 七种未定式的计算.md",
     "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念.md",
-    "高数/Lecture 1 ：函数极限与连续/1.7 求极限的八种方法.md",
     "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/脱帽法.md",
     "模版/3.定理.md",
     "模版/8.错题.md",
