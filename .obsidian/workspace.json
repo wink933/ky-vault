@@ -123,7 +123,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "例 1.27 的反向链接列表"
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/可微.md",
+                "file": "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/例 1.27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "可微 的出链列表"
+              "title": "例 1.27 的出链列表"
             }
           },
           {
