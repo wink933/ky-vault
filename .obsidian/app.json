@@ -1,6 +1,6 @@
 {
   "attachmentFolderPath": "附件/",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "promptDelete": false,
   "autoPairMarkdown": true,
   "strictLineBreaks": true,
