@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/例 1.27.md",
+                "file": "daily/2026-02-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "例 1.27"
+              "title": "2026-02-06"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/例 1.27.md",
+                "file": "daily/2026-02-06.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "例 1.27"
+              "title": "2026-02-06"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/例 1.27.md",
+                "file": "daily/2026-02-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "例 1.27 的反向链接列表"
+              "title": "2026-02-06 的反向链接列表"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/例 1.27.md",
+                "file": "daily/2026-02-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "例 1.27 的出链列表"
+              "title": "2026-02-06 的出链列表"
             }
           },
           {
@@ -220,9 +220,12 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "daily/2026-02-04.md",
+    "daily/2026-01-30.md",
+    "daily/2026-02-06.md",
+    "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/例 1.27.md",
     "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/课后 1.7.md",
     "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/课后 1.2.md",
-    "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/例 1.27.md",
     "高数/Lecture 1 ：函数极限与连续/1.8 函数的连续与间断.md",
     "高数/Lecture 1 ：函数极限与连续/1.9 七种未定式的计算.md",
     "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念.md",
@@ -237,7 +240,6 @@
     "高数/错题本",
     "高数/Lecture 1 ：函数极限与连续/1.6 无穷小和无穷大.md",
     "高数/Lecture 1 ：函数极限与连续/1.5 极限的存在准则.md",
-    "daily/2026-02-04.md",
     "其他/Latex.md",
     "模版/7.公式.md",
     "高数/Lecture 1 ：函数极限与连续/1.4 函数极限的概念与性质.md",
@@ -248,9 +250,7 @@
     "模版/1.定义.md",
     "模版/5.理解.md",
     "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念与性质",
-    "高数/Lecture 1 ：函数极限与连续/1.5 函数极限的性质.md",
     "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念",
-    "高数/Lecture 1 ：函数极限与连续/1.3 函数的图像.md",
     "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念与性质/file-20260204143119978.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念与性质/file-20260204143119977 1.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念与性质/file-20260204143119977.png",
