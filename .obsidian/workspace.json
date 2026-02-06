@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "408/计网/ARP.md",
+                "file": "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/例 1.27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ARP 的反向链接列表"
+              "title": "例 1.27 的反向链接列表"
             }
           },
           {
@@ -197,13 +197,11 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,12 +218,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fcf26c752fdd8899",
+  "active": "468ce22b9929b7f6",
   "lastOpenFiles": [
     "高数/Lecture 1 ：函数极限与连续/1.9 七种未定式的计算.md",
-    "高数/Lecture 1 ：函数极限与连续/1.8 函数的连续与间断.md",
     "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/例 1.27.md",
     "模版/8.错题.md",
+    "高数/Lecture 1 ：函数极限与连续/1.8 函数的连续与间断.md",
     "模版/4.例题.md",
     "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续",
     "高数/错题本/基础阶段",
