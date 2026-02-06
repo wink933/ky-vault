@@ -197,7 +197,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -220,9 +221,13 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "高数/Lecture 2 ：数列极限",
+    "高数/Lecture 1 ：函数极限与连续/未命名",
+    "daily/2026-02-05.md",
+    "daily/2026-02-06.md",
+    "daily/daily-note.md",
     "daily/2026-02-04.md",
     "daily/2026-01-30.md",
-    "daily/2026-02-06.md",
     "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/例 1.27.md",
     "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/课后 1.7.md",
     "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/课后 1.2.md",
@@ -246,9 +251,6 @@
     "高数/Lecture 1 ：函数极限与连续/1.0知识结构.md",
     "高数/Lecture 1 ：函数极限与连续/1.2 函数的特性.md",
     "模版/2.笔记属性.md",
-    "模版/6.结论.md",
-    "模版/1.定义.md",
-    "模版/5.理解.md",
     "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念与性质",
     "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念",
     "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念与性质/file-20260204143119978.png",
@@ -264,7 +266,6 @@
     "高数/Lecture 1 ：函数极限与连续/assets",
     "英语/assets/qaws/file-20260129104832627.png",
     "英语/assets/qaws",
-    "英语/assets",
     "英语/assets/qaws/file-20260129104730069.png",
     "未命名.canvas"
   ]

@@ -4,7 +4,7 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "folder": "daily",
-    "template": "daily-note",
+    "template": "daily/daily-note.md",
     "enabled": true
   },
   "weekly": {
