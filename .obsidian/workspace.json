@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/数据结构/Chapter 1 ：绪论/算法和算法评价.md",
+                "file": "官方obsidian使用文档/zh/编辑与格式化/使用 HTML 语法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "算法和算法评价"
+              "title": "使用 HTML 语法"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/数据结构/Chapter 1 ：绪论/算法和算法评价.md",
+                "file": "官方obsidian使用文档/zh/编辑与格式化/使用 HTML 语法.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "算法和算法评价"
+              "title": "使用 HTML 语法"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "408/数据结构/Chapter 1 ：绪论/算法和算法评价.md",
+                "file": "官方obsidian使用文档/zh/编辑与格式化/使用 HTML 语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "算法和算法评价 的反向链接列表"
+              "title": "使用 HTML 语法 的反向链接列表"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/数据结构/Chapter 1 ：绪论/算法和算法评价.md",
+                "file": "官方obsidian使用文档/zh/编辑与格式化/使用 HTML 语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "算法和算法评价 的出链列表"
+              "title": "使用 HTML 语法 的出链列表"
             }
           },
           {
@@ -222,8 +222,16 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
-    "408/数据结构/Chapter 1 ：绪论/数据结构的基本概念.md",
+    "官方obsidian使用文档/zh/核心插件/迁移助手.md",
+    "官方obsidian使用文档/zh/导入笔记/从 Google Keep 中导入笔记.md",
+    "官方obsidian使用文档/zh/编辑与格式化/标注.md",
+    "官方obsidian使用文档/zh/编辑与格式化/多光标模式.md",
+    "官方obsidian使用文档/zh/用户界面/快捷键.md",
+    "官方obsidian使用文档/zh/编辑与格式化/编辑相关的快捷键.md",
     "408/数据结构/Chapter 1 ：绪论/算法和算法评价.md",
+    "408/数据结构/Chapter 2 ：线性表",
+    "408/数据结构/Chapter 1 ：绪论/未命名.md",
+    "408/数据结构/Chapter 1 ：绪论/数据结构的基本概念.md",
     "其他/Latex.md",
     "408/数据结构/Chapter 1 ：绪论/assets/数据结构的基本概念/file-20260206220646761.png",
     "408/数据结构/Chapter 1 ：绪论/assets/数据结构的基本概念/file-20260206214314707.png",
@@ -251,16 +259,8 @@
     "高数/Lecture 1 ：函数极限与连续/1.9 七种未定式的计算.md",
     "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念.md",
     "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/脱帽法.md",
-    "模版/3.定理.md",
-    "模版/8.错题.md",
-    "模版/4.例题.md",
     "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续",
     "高数/错题本/基础阶段",
-    "高数/错题本/未命名.md",
-    "高数/错题本",
-    "高数/Lecture 1 ：函数极限与连续/1.6 无穷小和无穷大.md",
-    "高数/Lecture 1 ：函数极限与连续/1.5 极限的存在准则.md",
-    "模版/7.公式.md",
     "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念与性质/file-20260204143119978.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念与性质/file-20260204143119977 1.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念与性质/file-20260204143119977.png",
