@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "官方obsidian使用文档/zh/编辑与格式化/使用 HTML 语法.md",
+                "file": "官方obsidian使用文档/zh/Obsidian/社区准则.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "使用 HTML 语法"
+              "title": "社区准则"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "官方obsidian使用文档/zh/编辑与格式化/使用 HTML 语法.md",
+                "file": "官方obsidian使用文档/zh/Obsidian/社区准则.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "使用 HTML 语法"
+              "title": "社区准则"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "官方obsidian使用文档/zh/编辑与格式化/使用 HTML 语法.md",
+                "file": "官方obsidian使用文档/zh/Obsidian/社区准则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "使用 HTML 语法 的反向链接列表"
+              "title": "社区准则 的反向链接列表"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "官方obsidian使用文档/zh/编辑与格式化/使用 HTML 语法.md",
+                "file": "官方obsidian使用文档/zh/Obsidian/社区准则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "使用 HTML 语法 的出链列表"
+              "title": "社区准则 的出链列表"
             }
           },
           {
@@ -222,6 +222,11 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "官方obsidian使用文档/zh/Obsidian/贡献者.md",
+    "官方obsidian使用文档/zh/编辑与格式化/高级格式语法.md",
+    "官方obsidian使用文档/zh/编辑与格式化/基本格式语法.md",
+    "官方obsidian使用文档/zh/扩展 Obsidian/CSS 代码片段.md",
+    "官方obsidian使用文档/zh/编辑与格式化/使用 HTML 语法.md",
     "官方obsidian使用文档/zh/核心插件/迁移助手.md",
     "官方obsidian使用文档/zh/导入笔记/从 Google Keep 中导入笔记.md",
     "官方obsidian使用文档/zh/编辑与格式化/标注.md",
@@ -254,11 +259,6 @@
     "daily/2026-01-30.md",
     "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/例 1.27.md",
     "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/课后 1.7.md",
-    "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/课后 1.2.md",
-    "高数/Lecture 1 ：函数极限与连续/1.8 函数的连续与间断.md",
-    "高数/Lecture 1 ：函数极限与连续/1.9 七种未定式的计算.md",
-    "高数/Lecture 1 ：函数极限与连续/1.1 函数的概念.md",
-    "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续/脱帽法.md",
     "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续",
     "高数/错题本/基础阶段",
     "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念与性质/file-20260204143119978.png",
