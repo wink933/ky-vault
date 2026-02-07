@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 2 ：数列极限/2.4 极限四则运算.md",
+                "file": "高数/Lecture 2 ：数列极限/2.5 海涅定理(归结原则).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.4 极限四则运算"
+              "title": "2.5 海涅定理(归结原则)"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 2 ：数列极限/2.4 极限四则运算.md",
+                "file": "高数/Lecture 2 ：数列极限/2.5 海涅定理(归结原则).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.4 极限四则运算"
+              "title": "2.5 海涅定理(归结原则)"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数/Lecture 2 ：数列极限/2.4 极限四则运算.md",
+                "file": "高数/Lecture 2 ：数列极限/2.5 海涅定理(归结原则).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2.4 极限四则运算 的反向链接列表"
+              "title": "2.5 海涅定理(归结原则) 的反向链接列表"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/Lecture 2 ：数列极限/2.4 极限四则运算.md",
+                "file": "高数/Lecture 2 ：数列极限/2.5 海涅定理(归结原则).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2.4 极限四则运算 的出链列表"
+              "title": "2.5 海涅定理(归结原则) 的出链列表"
             }
           },
           {
@@ -222,11 +222,14 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "高数/Lecture 2 ：数列极限/2.4 极限四则运算.md",
+    "高数/Lecture 2 ：数列极限/2.5 海涅定理(归结原则).md",
+    "高数/Lecture 2 ：数列极限/assets/2.4 极限四则运算/file-20260207221423180.png",
+    "高数/Lecture 2 ：数列极限/assets/2.4 极限四则运算",
     "高数/Lecture 1 ：函数极限与连续/1.7 求极限的八种方法.md",
     "高数/Lecture 1 ：函数极限与连续/1.6 无穷小和无穷大.md",
     "高数/Lecture 1 ：函数极限与连续/1.5 极限的存在准则.md",
     "高数/Lecture 1 ：函数极限与连续/1.4 函数极限的概念与性质.md",
-    "高数/Lecture 2 ：数列极限/2.4 极限四则运算.md",
     "高数/Lecture 2 ：数列极限/2.3 收敛数列的性质.md",
     "模版/3.定理.md",
     "高数/Lecture 2 ：数列极限/2.2 数列极限的定义.md",
@@ -256,18 +259,15 @@
     "高数/Lecture 2 ：数列极限/assets/2.1 数列的概念/file-20260206174505532.png",
     "高数/Lecture 2 ：数列极限/assets/2.1 数列的概念",
     "高数/Lecture 2 ：数列极限/assets",
-    "模版/9.补充.md",
     "高数/Lecture 2 ：数列极限",
     "高数/Lecture 1 ：函数极限与连续/未命名",
     "高数/错题本/基础阶段/Lecture 1 ：函数极限与连续",
-    "高数/错题本/基础阶段",
     "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念与性质/file-20260204143119978.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念与性质/file-20260204143119977 1.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念与性质/file-20260204143119977.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念/file-20260129154053600.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念/file-20260129154053600 1.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念/file-20260129154053601.png",
-    "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念/file-20260129154053602.png",
     "未命名.canvas"
   ]
 }
