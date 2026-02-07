@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/数据结构/Chapter 1 ：绪论/数据结构的基本概念.md",
+                "file": "408/数据结构/Chapter 1 ：绪论/算法和算法评价.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据结构的基本概念"
+              "title": "算法和算法评价"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/数据结构/Chapter 1 ：绪论/数据结构的基本概念.md",
+                "file": "408/数据结构/Chapter 1 ：绪论/算法和算法评价.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据结构的基本概念"
+              "title": "算法和算法评价"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "408/数据结构/Chapter 1 ：绪论/数据结构的基本概念.md",
+                "file": "408/数据结构/Chapter 1 ：绪论/算法和算法评价.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "数据结构的基本概念 的反向链接列表"
+              "title": "算法和算法评价 的反向链接列表"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/数据结构/Chapter 1 ：绪论/数据结构的基本概念.md",
+                "file": "408/数据结构/Chapter 1 ：绪论/算法和算法评价.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "数据结构的基本概念 的出链列表"
+              "title": "算法和算法评价 的出链列表"
             }
           },
           {
@@ -222,12 +222,13 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "408/数据结构/Chapter 1 ：绪论/数据结构的基本概念.md",
+    "408/数据结构/Chapter 1 ：绪论/算法和算法评价.md",
     "408/数据结构/Chapter 1 ：绪论/assets/数据结构的基本概念/file-20260206220646761.png",
     "408/数据结构/Chapter 1 ：绪论/assets/数据结构的基本概念/file-20260206214314707.png",
     "408/数据结构/Chapter 1 ：绪论/assets/数据结构的基本概念",
     "408/数据结构/Chapter 1 ：绪论/assets",
     "高数/Lecture 2 ：数列极限/2.2 数列极限的定义.md",
-    "408/数据结构/Chapter 1 ：绪论/数据结构的基本概念.md",
     "408/数据结构/Chapter 1 ：绪论",
     "高数/Lecture 1 ：函数极限与连续/1.7 求极限的八种方法.md",
     "高数/Lecture 2 ：数列极限/2.1 数列的概念.md",
@@ -267,7 +268,6 @@
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念/file-20260129154053600 1.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念/file-20260129154053601.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念/file-20260129154053602.png",
-    "高数/Lecture 1 ：函数极限与连续/assets/1.1 函数的概念/file-20260129154053603.png",
     "未命名.canvas"
   ]
 }
