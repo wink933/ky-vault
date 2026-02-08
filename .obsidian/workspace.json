@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 2 ：数列极限/2.7 单调有界准则.md",
+                "file": "高数/Lecture 2 ：数列极限/2.8 数列收敛于a的速度问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.7 单调有界准则"
+              "title": "2.8 数列收敛于a的速度问题"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 2 ：数列极限/2.7 单调有界准则.md",
+                "file": "高数/Lecture 2 ：数列极限/2.8 数列收敛于a的速度问题.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.7 单调有界准则"
+              "title": "2.8 数列收敛于a的速度问题"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数/Lecture 2 ：数列极限/2.7 单调有界准则.md",
+                "file": "高数/Lecture 2 ：数列极限/2.8 数列收敛于a的速度问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2.7 单调有界准则 的反向链接列表"
+              "title": "2.8 数列收敛于a的速度问题 的反向链接列表"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/Lecture 2 ：数列极限/2.7 单调有界准则.md",
+                "file": "高数/Lecture 2 ：数列极限/2.8 数列收敛于a的速度问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2.7 单调有界准则 的出链列表"
+              "title": "2.8 数列收敛于a的速度问题 的出链列表"
             }
           },
           {
@@ -232,12 +232,13 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "高数/Lecture 2 ：数列极限/2.7 单调有界准则.md",
+    "高数/Lecture 2 ：数列极限/2.8 数列收敛于a的速度问题.md",
     "高数/Lecture 2 ：数列极限/assets/2.7 单调有界准则/file-20260208120655068.png",
     "高数/Lecture 2 ：数列极限/assets/2.7 单调有界准则/file-20260208120337950.png",
     "高数/Lecture 2 ：数列极限/assets/2.7 单调有界准则/file-20260208120323554.png",
     "高数/Lecture 2 ：数列极限/assets/2.7 单调有界准则",
     "高数/Lecture 2 ：数列极限/2.6 夹逼准则.md",
-    "高数/Lecture 2 ：数列极限/2.7 单调有界准则.md",
     "daily/2026-02-08.md",
     "高数/Lecture 2 ：数列极限/2.5 海涅定理(归结原则).md",
     "高数/Lecture 2 ：数列极限/assets/2.5 海涅定理(归结原则)/file-20260207234052215.png",
@@ -277,7 +278,6 @@
     "高数/Lecture 2 ：数列极限",
     "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念与性质/file-20260204143119978.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念与性质/file-20260204143119977 1.png",
-    "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念与性质/file-20260204143119977.png",
     "未命名.canvas"
   ]
 }
