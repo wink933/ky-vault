@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 2 ：数列极限/2.6 夹逼准则.md",
+                "file": "高数/Lecture 2 ：数列极限/2.7 单调有界准则.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.6 夹逼准则"
+              "title": "2.7 单调有界准则"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 2 ：数列极限/2.6 夹逼准则.md",
+                "file": "高数/Lecture 2 ：数列极限/2.7 单调有界准则.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.6 夹逼准则"
+              "title": "2.7 单调有界准则"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数/Lecture 2 ：数列极限/2.6 夹逼准则.md",
+                "file": "高数/Lecture 2 ：数列极限/2.7 单调有界准则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2.6 夹逼准则 的反向链接列表"
+              "title": "2.7 单调有界准则 的反向链接列表"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/Lecture 2 ：数列极限/2.6 夹逼准则.md",
+                "file": "高数/Lecture 2 ：数列极限/2.7 单调有界准则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2.6 夹逼准则 的出链列表"
+              "title": "2.7 单调有界准则 的出链列表"
             }
           },
           {
@@ -232,8 +232,9 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
-    "daily/2026-02-08.md",
     "高数/Lecture 2 ：数列极限/2.6 夹逼准则.md",
+    "高数/Lecture 2 ：数列极限/2.7 单调有界准则.md",
+    "daily/2026-02-08.md",
     "高数/Lecture 2 ：数列极限/2.5 海涅定理(归结原则).md",
     "高数/Lecture 2 ：数列极限/assets/2.5 海涅定理(归结原则)/file-20260207234052215.png",
     "高数/Lecture 2 ：数列极限/assets/2.5 海涅定理(归结原则)",
@@ -262,7 +263,6 @@
     "官方obsidian使用文档/zh/编辑与格式化/编辑相关的快捷键.md",
     "408/数据结构/Chapter 1 ：绪论/算法和算法评价.md",
     "408/数据结构/Chapter 2 ：线性表",
-    "408/数据结构/Chapter 1 ：绪论/未命名.md",
     "408/数据结构/Chapter 1 ：绪论/assets/数据结构的基本概念/file-20260206220646761.png",
     "408/数据结构/Chapter 1 ：绪论/assets/数据结构的基本概念/file-20260206214314707.png",
     "408/数据结构/Chapter 1 ：绪论/assets/数据结构的基本概念",
