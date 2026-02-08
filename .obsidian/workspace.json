@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/错题本/660题/9.md",
+                "file": "408/数据结构/Chapter 2 ：线性表/线性表的定义和基本操作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9"
+              "title": "线性表的定义和基本操作"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/错题本/660题/9.md",
+                "file": "408/数据结构/Chapter 2 ：线性表/线性表的定义和基本操作.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9"
+              "title": "线性表的定义和基本操作"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -232,11 +232,12 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "高数/错题本/660题/9.md",
+    "408/数据结构/Chapter 2 ：线性表/线性表的定义和基本操作.md",
     "高数/错题本/660题/assets/9/file-20260208180729764.png",
     "高数/错题本/660题/assets/9",
     "高数/错题本/660题/assets",
     "高数/Lecture 1 ：函数极限与连续/1.7 求极限的八种方法.md",
-    "高数/错题本/660题/9.md",
     "高数/错题本/660题/8.md",
     "高数/错题本/660题/3.md",
     "高数/错题本/660题/4.md",
@@ -277,7 +278,6 @@
     "408/数据结构/Chapter 1 ：绪论/assets/数据结构的基本概念",
     "高数/Lecture 2 ：数列极限/assets/2.1 数列的概念/file-20260206174505532.png",
     "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念与性质/file-20260204143119978.png",
-    "高数/Lecture 1 ：函数极限与连续/assets/1.4 函数极限的概念与性质/file-20260204143119977 1.png",
     "未命名.canvas"
   ]
 }
