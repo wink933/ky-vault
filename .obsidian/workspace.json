@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/数据结构/Chapter 2 ：线性表/线性表的定义和基本操作.md",
+                "file": "408/数据结构/Chapter 2 ：线性表/线性表的顺序表示.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线性表的定义和基本操作"
+              "title": "线性表的顺序表示"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/数据结构/Chapter 2 ：线性表/线性表的定义和基本操作.md",
+                "file": "408/数据结构/Chapter 2 ：线性表/线性表的顺序表示.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线性表的定义和基本操作"
+              "title": "线性表的顺序表示"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -232,8 +232,9 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
-    "高数/错题本/660题/9.md",
     "408/数据结构/Chapter 2 ：线性表/线性表的定义和基本操作.md",
+    "408/数据结构/Chapter 2 ：线性表/线性表的顺序表示.md",
+    "高数/错题本/660题/9.md",
     "高数/错题本/660题/assets/9/file-20260208180729764.png",
     "高数/错题本/660题/assets/9",
     "高数/错题本/660题/assets",
@@ -271,7 +272,6 @@
     "高数/Lecture 1 ：函数极限与连续/1.4 函数极限的概念与性质.md",
     "模版/3.定理.md",
     "官方obsidian使用文档/zh/Obsidian/社区准则.md",
-    "官方obsidian使用文档/zh/Obsidian/贡献者.md",
     "408/数据结构/Chapter 2 ：线性表",
     "408/数据结构/Chapter 1 ：绪论/assets/数据结构的基本概念/file-20260206220646761.png",
     "408/数据结构/Chapter 1 ：绪论/assets/数据结构的基本概念/file-20260206214314707.png",
