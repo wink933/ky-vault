@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/错题本/660题/3.md",
+                "file": "高数/错题本/660题/8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3"
+              "title": "8"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/错题本/660题/3.md",
+                "file": "高数/错题本/660题/8.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3"
+              "title": "8"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -232,11 +232,12 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
-    "高数/错题本/660题/4.md",
+    "高数/Lecture 1 ：函数极限与连续/1.7 求极限的八种方法.md",
+    "高数/错题本/660题/8.md",
     "高数/错题本/660题/3.md",
+    "高数/错题本/660题/4.md",
     "高数/错题本/660题/2.md",
     "模版/8.错题.md",
-    "高数/Lecture 1 ：函数极限与连续/1.7 求极限的八种方法.md",
     "高数/错题本/张宇课后/例 1.27.md",
     "高数/错题本/张宇课后/课后 1.2.md",
     "高数/错题本/张宇课后",
@@ -268,7 +269,6 @@
     "官方obsidian使用文档/zh/Obsidian/贡献者.md",
     "官方obsidian使用文档/zh/编辑与格式化/高级格式语法.md",
     "官方obsidian使用文档/zh/编辑与格式化/基本格式语法.md",
-    "官方obsidian使用文档/zh/扩展 Obsidian/CSS 代码片段.md",
     "408/数据结构/Chapter 2 ：线性表",
     "408/数据结构/Chapter 1 ：绪论/assets/数据结构的基本概念/file-20260206220646761.png",
     "408/数据结构/Chapter 1 ：绪论/assets/数据结构的基本概念/file-20260206214314707.png",
