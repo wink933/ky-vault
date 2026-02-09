@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 3 ：一元函数微分学的概念/3.1 导数.md",
+                "file": "高数/Lecture 3 ：一元函数微分学的概念/3.2 导数的几何意义.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 导数"
+              "title": "3.2 导数的几何意义"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 3 ：一元函数微分学的概念/3.1 导数.md",
+                "file": "高数/Lecture 3 ：一元函数微分学的概念/3.2 导数的几何意义.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 导数"
+              "title": "3.2 导数的几何意义"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -232,6 +232,11 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "高数/Lecture 3 ：一元函数微分学的概念/assets/3.2 导数的几何意义/file-20260209141145446.png",
+    "高数/Lecture 3 ：一元函数微分学的概念/assets/3.2 导数的几何意义/file-20260209141041230.png",
+    "高数/Lecture 3 ：一元函数微分学的概念/assets/3.2 导数的几何意义",
+    "高数/Lecture 3 ：一元函数微分学的概念/3.1 导数.md",
+    "高数/Lecture 3 ：一元函数微分学的概念/3.2 导数的几何意义.md",
     "高数/Lecture 3 ：一元函数微分学的概念/assets/3.1 导数/file-20260209130310730.png",
     "高数/Lecture 3 ：一元函数微分学的概念/assets/3.1 导数/file-20260209125751384.png",
     "高数/Lecture 3 ：一元函数微分学的概念/assets/3.1 导数/file-20260209125727591.png",
@@ -240,7 +245,6 @@
     "高数/Lecture 3 ：一元函数微分学的概念/assets/3.1 导数",
     "高数/Lecture 3 ：一元函数微分学的概念/assets",
     "daily/2026-02-09.md",
-    "高数/Lecture 3 ：一元函数微分学的概念/3.1 导数.md",
     "高数/Lecture 3 ：一元函数微分学的概念",
     "daily/2026-02-08.md",
     "高数/Lecture 2 ：数列极限/2.5 海涅定理(归结原则).md",
@@ -264,20 +268,16 @@
     "408/数据结构/Chapter 2 ：线性表/assets/顺序表上基本操作的实现",
     "408/数据结构/Chapter 2 ：线性表/线性表的顺序表示.md",
     "408/数据结构/Chapter 2 ：线性表/assets/线性表的顺序表示/file-20260208211912192.png",
-    "408/数据结构/Chapter 2 ：线性表/assets/线性表的顺序表示/file-20260208211527750.png",
-    "408/数据结构/Chapter 2 ：线性表/assets/线性表的顺序表示/file-20260208211511795.png",
     "408/数据结构/Chapter 2 ：线性表/assets/线性表的顺序表示",
     "408/数据结构/Chapter 2 ：线性表/assets",
     "408/数据结构/Chapter 2 ：线性表/线性表的定义和基本操作.md",
     "高数/错题本/660题/9.md",
     "高数/错题本/660题/assets/9",
-    "高数/错题本/660题/assets",
     "高数/错题本/660题/8.md",
     "高数/错题本/660题/3.md",
     "高数/错题本/660题/4.md",
     "高数/错题本/660题/2.md",
     "模版/8.错题.md",
-    "高数/Lecture 2 ：数列极限/2.8 数列收敛于a的速度问题.md",
     "未命名.canvas"
   ]
 }
