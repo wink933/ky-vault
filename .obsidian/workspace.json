@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/错题本/700题/1.2.8.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/1.7 求极限的八种方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2.8"
+              "title": "1.7 求极限的八种方法"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/错题本/700题/1.2.8.md",
+                "file": "高数/Lecture 1 ：函数极限与连续/1.7 求极限的八种方法.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2.8"
+              "title": "1.7 求极限的八种方法"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -232,8 +232,8 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
-    "高数/Lecture 1 ：函数极限与连续/1.7 求极限的八种方法.md",
     "高数/错题本/700题/1.2.8.md",
+    "高数/Lecture 1 ：函数极限与连续/1.7 求极限的八种方法.md",
     "高数/错题本/700题/assets/1.2.8/file-20260209181721701.png",
     "高数/错题本/700题/assets/1.2.8",
     "高数/错题本/700题/assets",
