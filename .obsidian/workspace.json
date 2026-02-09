@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-02-09.md",
+                "file": "高数/Lecture 3 ：一元函数微分学的概念/3.1 导数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-09"
+              "title": "3.1 导数"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-02-09.md",
+                "file": "高数/Lecture 3 ：一元函数微分学的概念/3.1 导数.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-09"
+              "title": "3.1 导数"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -232,8 +232,10 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
-    "daily/2026-02-08.md",
     "daily/2026-02-09.md",
+    "高数/Lecture 3 ：一元函数微分学的概念/3.1 导数.md",
+    "高数/Lecture 3 ：一元函数微分学的概念",
+    "daily/2026-02-08.md",
     "高数/Lecture 2 ：数列极限/2.5 海涅定理(归结原则).md",
     "高数/错题本/张宇课后/2.6.md",
     "高数/Lecture 1 ：函数极限与连续/1.7 求极限的八种方法.md",
@@ -272,10 +274,8 @@
     "模版/8.错题.md",
     "高数/错题本/张宇课后",
     "高数/错题本/660题",
-    "高数/错题本/1000题",
     "高数/Lecture 2 ：数列极限/2.8 数列收敛于a的速度问题.md",
     "其他/Latex.md",
-    "高数/Lecture 2 ：数列极限/2.6 夹逼准则.md",
     "高数/Lecture 2 ：数列极限/assets/2.7 单调有界准则/file-20260208120655068.png",
     "高数/Lecture 2 ：数列极限/assets/2.7 单调有界准则/file-20260208120337950.png",
     "未命名.canvas"
