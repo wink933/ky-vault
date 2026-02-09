@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/数据结构/Chapter 2 ：线性表/顺序表上基本操作的实现.md",
+                "file": "高数/Lecture 2 ：数列极限/2.3 收敛数列的性质.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "顺序表上基本操作的实现"
+              "title": "2.3 收敛数列的性质"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/数据结构/Chapter 2 ：线性表/顺序表上基本操作的实现.md",
+                "file": "高数/Lecture 2 ：数列极限/2.3 收敛数列的性质.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "顺序表上基本操作的实现"
+              "title": "2.3 收敛数列的性质"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -232,10 +232,12 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
+    "高数/Lecture 2 ：数列极限/2.7 单调有界准则.md",
+    "高数/Lecture 2 ：数列极限/2.3 收敛数列的性质.md",
+    "408/数据结构/Chapter 2 ：线性表/顺序表上基本操作的实现.md",
     "408/数据结构/Chapter 2 ：线性表/assets/顺序表上基本操作的实现/file-20260208213120781.png",
     "408/数据结构/Chapter 2 ：线性表/assets/顺序表上基本操作的实现",
     "408/数据结构/Chapter 2 ：线性表/线性表的顺序表示.md",
-    "408/数据结构/Chapter 2 ：线性表/顺序表上基本操作的实现.md",
     "408/数据结构/Chapter 2 ：线性表/assets/线性表的顺序表示/file-20260208211912192.png",
     "408/数据结构/Chapter 2 ：线性表/assets/线性表的顺序表示/file-20260208211527750.png",
     "408/数据结构/Chapter 2 ：线性表/assets/线性表的顺序表示/file-20260208211511795.png",
@@ -261,8 +263,6 @@
     "高数/Lecture 2 ：数列极限/2.8 数列收敛于a的速度问题.md",
     "其他/Latex.md",
     "高数/Lecture 2 ：数列极限/2.6 夹逼准则.md",
-    "高数/Lecture 2 ：数列极限/2.7 单调有界准则.md",
-    "高数/Lecture 2 ：数列极限/2.3 收敛数列的性质.md",
     "高数/Lecture 2 ：数列极限/2.2 数列极限的定义.md",
     "高数/Lecture 2 ：数列极限/assets/2.7 单调有界准则/file-20260208120655068.png",
     "高数/Lecture 2 ：数列极限/assets/2.7 单调有界准则/file-20260208120337950.png",
@@ -274,7 +274,6 @@
     "高数/Lecture 2 ：数列极限/assets/2.5 海涅定理(归结原则)",
     "高数/Lecture 1 ：函数极限与连续/1.8 函数的连续与间断.md",
     "高数/Lecture 2 ：数列极限/2.4 极限四则运算.md",
-    "高数/Lecture 2 ：数列极限/assets/2.4 极限四则运算/file-20260207221423180.png",
     "高数/Lecture 1 ：函数极限与连续/1.6 无穷小和无穷大.md",
     "高数/Lecture 1 ：函数极限与连续/1.5 极限的存在准则.md",
     "高数/Lecture 1 ：函数极限与连续/1.4 函数极限的概念与性质.md",
