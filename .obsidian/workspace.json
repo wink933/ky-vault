@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 3 ：一元函数微分学的概念/3.3 高阶导数.md",
+                "file": "高数/Lecture 3 ：一元函数微分学的概念/3.4 微分的概念.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3 高阶导数"
+              "title": "3.4 微分的概念"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 3 ：一元函数微分学的概念/3.3 高阶导数.md",
+                "file": "高数/Lecture 3 ：一元函数微分学的概念/3.4 微分的概念.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3 高阶导数"
+              "title": "3.4 微分的概念"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -232,8 +232,9 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
-    "高数/Lecture 3 ：一元函数微分学的概念/3.2 导数的几何意义.md",
     "高数/Lecture 3 ：一元函数微分学的概念/3.3 高阶导数.md",
+    "高数/Lecture 3 ：一元函数微分学的概念/3.4 微分的概念.md",
+    "高数/Lecture 3 ：一元函数微分学的概念/3.2 导数的几何意义.md",
     "高数/Lecture 3 ：一元函数微分学的概念/assets/3.2 导数的几何意义/file-20260209141145446.png",
     "高数/Lecture 3 ：一元函数微分学的概念/assets/3.2 导数的几何意义/file-20260209141041230.png",
     "高数/Lecture 3 ：一元函数微分学的概念/assets/3.2 导数的几何意义",
@@ -277,7 +278,6 @@
     "高数/错题本/660题/3.md",
     "高数/错题本/660题/4.md",
     "高数/错题本/660题/2.md",
-    "模版/8.错题.md",
     "未命名.canvas"
   ]
 }
