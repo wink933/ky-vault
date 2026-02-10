@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 4 ：一元函数微分学的计算/4.8 对数求导法.md",
+                "file": "高数/Lecture 4 ：一元函数微分学的计算/4.10 高阶导数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.8 对数求导法"
+              "title": "4.10 高阶导数"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/Lecture 4 ：一元函数微分学的计算/4.8 对数求导法.md",
+                "file": "高数/Lecture 4 ：一元函数微分学的计算/4.10 高阶导数.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.8 对数求导法"
+              "title": "4.10 高阶导数"
             },
             "group": "2e6db30dd71e6f18"
           }
@@ -232,8 +232,10 @@
   },
   "active": "fcf26c752fdd8899",
   "lastOpenFiles": [
-    "高数/Lecture 4 ：一元函数微分学的计算/4.7 参数方程所确定的函数的导数.md",
+    "高数/Lecture 4 ：一元函数微分学的计算/4.9 幂指函数求导法.md",
+    "高数/Lecture 4 ：一元函数微分学的计算/4.10 高阶导数.md",
     "高数/Lecture 4 ：一元函数微分学的计算/4.8 对数求导法.md",
+    "高数/Lecture 4 ：一元函数微分学的计算/4.7 参数方程所确定的函数的导数.md",
     "高数/Lecture 4 ：一元函数微分学的计算/4.6 隐函数求导法.md",
     "高数/Lecture 4 ：一元函数微分学的计算/4.5 反函数的导数.md",
     "高数/Lecture 4 ：一元函数微分学的计算/4.4 分段函数的导数.md",
@@ -267,8 +269,6 @@
     "408/数据结构/Chapter 2 ：线性表/assets/顺序表上基本操作的实现/file-20260209202657664.png",
     "408/数据结构/Chapter 2 ：线性表/assets/顺序表上基本操作的实现/file-20260209202640850.png",
     "408/数据结构/Chapter 2 ：线性表/assets/顺序表上基本操作的实现/file-20260209202633192.png",
-    "高数/错题本/700题/1.3.5.md",
-    "高数/Lecture 1 ：函数极限与连续/1.7 求极限的八种方法.md",
     "高数/错题本/700题/assets/1.2.8",
     "高数/错题本/700题/assets",
     "高数/错题本/700题",
