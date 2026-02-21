@@ -24,7 +24,7 @@
   "githubCopilotToken": "",
   "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "google/gemini-2.5-flash|openrouterai",
+  "defaultModelKey": "qwen2.5-7b-instruct|openai",
   "embeddingModelKey": "openai/text-embedding-3-small|openrouterai",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -102,8 +102,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -112,8 +112,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -199,8 +199,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -209,8 +209,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -219,8 +219,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -229,8 +229,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -290,6 +290,21 @@
       "capabilities": [
         "reasoning"
       ]
+    },
+    {
+      "name": "qwen2.5-7b-instruct",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "http://localhost:1234/v1",
+      "apiKey": "local",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "reasoning"
+      ],
+      "stream": true,
+      "openAIOrgId": "",
+      "displayName": "本地-Qwen2.5-7b"
     }
   ],
   "activeEmbeddingModels": [
