@@ -321,7 +321,7 @@
       "stream": true,
       "displayName": "qwen3-vl-8b-instruct",
       "enableCors": true,
-      "maxTokens": 8300
+      "maxTokens": 11700
     },
     {
       "name": "qwen-3-8b-instruct",
