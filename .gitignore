@@ -12,3 +12,9 @@
 
 # Mobile cache
 .obsidian/Workspace
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
