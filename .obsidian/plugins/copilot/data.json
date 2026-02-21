@@ -304,7 +304,8 @@
       ],
       "stream": true,
       "displayName": "qwen2.5-7b-instruct",
-      "maxTokens": 2200
+      "maxTokens": 2200,
+      "enableCors": true
     }
   ],
   "activeEmbeddingModels": [
