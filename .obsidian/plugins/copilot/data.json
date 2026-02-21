@@ -24,7 +24,7 @@
   "githubCopilotToken": "",
   "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "qwen2.5-7b-instruct|lm-studio",
+  "defaultModelKey": "qwen-3-8b-instruct|lm-studio",
   "embeddingModelKey": "openai/text-embedding-3-small|openrouterai",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -305,6 +305,37 @@
       "stream": true,
       "displayName": "qwen2.5-7b-instruct",
       "maxTokens": 5000,
+      "enableCors": true
+    },
+    {
+      "name": "qwen3-vl-8b-instruct",
+      "provider": "lm-studio",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "http://127.0.0.1:1234/v1",
+      "apiKey": "local",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "reasoning"
+      ],
+      "stream": true,
+      "displayName": "qwen3-vl-8b-instruct",
+      "enableCors": true,
+      "maxTokens": 11700
+    },
+    {
+      "name": "qwen-3-8b-instruct",
+      "provider": "lm-studio",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "",
+      "apiKey": "local",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "reasoning"
+      ],
+      "stream": true,
+      "displayName": "本地纯文本",
       "enableCors": true
     }
   ],
