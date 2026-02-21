@@ -304,7 +304,7 @@
       ],
       "stream": true,
       "displayName": "qwen2.5-7b-instruct",
-      "maxTokens": 2200,
+      "maxTokens": 5000,
       "enableCors": true
     }
   ],
