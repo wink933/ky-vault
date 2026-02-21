@@ -306,6 +306,21 @@
       "displayName": "qwen2.5-7b-instruct",
       "maxTokens": 5000,
       "enableCors": true
+    },
+    {
+      "name": "qwen3-vl-8b-instruct",
+      "provider": "lm-studio",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "http://127.0.0.1:1234/v1",
+      "apiKey": "local",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "reasoning"
+      ],
+      "stream": true,
+      "displayName": "qwen3-vl-8b-instruct",
+      "enableCors": true
     }
   ],
   "activeEmbeddingModels": [
