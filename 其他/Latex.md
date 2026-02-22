@@ -42,4 +42,4 @@
   >使用\ge表示大于等于，使用\le表示小于等于
   
 - $i\le \lfloor n/2\rfloor$ 为分支结点，$i>\lfloor n/2\rfloor$ 为叶子结点
-  >使用\floor表示向下qu zhen
+  >使用\floor表示向下取整
