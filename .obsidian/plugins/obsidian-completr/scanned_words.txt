@@ -3,6 +3,7 @@ tags
 times
 date
 data
+descendant
 lchild
 ltag
 rchild
@@ -11,6 +12,7 @@ pre
 png
 parent
 assets
+ancestor
 file
 ABCDF
 ABCDEFGHI
@@ -29,3 +31,7 @@ BA
 EDGHFI
 WPL
 DA
+child
+cousin
+sibling
+nodes
