@@ -122,4 +122,4 @@ $$\begin{pmatrix}\end{pmatrix}$$
 
 $$\sqrt[3]{x}$$
 $$\sqrt{}$$
-$$$$
+$$\sqrt[2]{x^{3}}$$
