@@ -114,4 +114,9 @@ $$\frac{a}{b}$$
 
 $$\frac{(x^{2}+3)-4}{x^{3}}$$
 
-$$$$
+$$\begin{align*}
+a=b+c\\
+a &= b+c\\
+a=b+c\\
+
+\end{align*}$$
