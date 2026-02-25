@@ -113,3 +113,10 @@ $$\sum\limits_{i=1}^{n}$$
 $$\frac{a}{b}$$
 
 $$\frac{(x^{2}+3)-4}{x^{3}}$$
+$$\begin{align*}
+x^{2}&= x_{2}+x_{1}+x^{3}\\
+&= 
+\end{align*}$$
+
+$$\begin{pmatrix}\end{pmatrix}$$
+
