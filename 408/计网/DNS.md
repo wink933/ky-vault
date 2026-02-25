@@ -106,21 +106,3 @@ updated: 2026-01-22
 >     
 > - 常一起考：[[CDN]] / [[缓存与一致性]] / [[DNS污染与劫持]]
 
-
-$$\int_\alpha^{\infty}\frac{1+x^{2}}{x+2}$$
-$$\sum\limits_{i=1}^{n}$$
-
-$$\frac{a}{b}$$
-
-$$\frac{(x^{2}+3)-4}{x^{3}}$$
-$$\begin{align*}
-x^{2}&= x_{2}+x_{1}+x^{3}\\
-&= 
-\end{align*}$$
-
-$$\begin{pmatrix}\end{pmatrix}$$
-
-$$\sqrt[3]{x}$$
-$$\sqrt{}$$
-$$\sqrt[2]{x^{3}}$$
-$$$$
