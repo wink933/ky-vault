@@ -494,5 +494,7 @@
   "diffViewMode": "split",
   "userSystemPromptsFolder": "copilot/system-prompts",
   "defaultSystemPromptTitle": "",
-  "autoCompactThreshold": 128000
+  "autoCompactThreshold": 128000,
+  "enableMiyo": false,
+  "selfHostSearchProvider": "firecrawl"
 }
