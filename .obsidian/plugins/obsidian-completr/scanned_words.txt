@@ -12,6 +12,7 @@ delimiter
 lchild
 ltag
 last
+log
 rchild
 rtag
 rear
@@ -36,6 +37,7 @@ CSR
 CSC
 Compressed
 Column
+Compression
 NLR
 Notation
 NULL
@@ -52,6 +54,7 @@ PostOrder
 Prefix
 Polish
 Postfix
+Path
 InOrder
 ID
 In
@@ -93,10 +96,15 @@ edges
 head
 Stack
 Sparse
+SIZE
 First
 FCFS
+Find
 MaxSize
 boundary
 Reverse
 Row
+Root
 vs
+Union
+max
