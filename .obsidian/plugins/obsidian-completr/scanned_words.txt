@@ -23,6 +23,7 @@ COUNTER
 NLR
 LNR
 LRN
+LIFO
 PreOrder
 PostOrder
 InOrder
@@ -38,6 +39,7 @@ cousin
 sibling
 nodes
 next
+nn
 TD
 OD
 obsidian
