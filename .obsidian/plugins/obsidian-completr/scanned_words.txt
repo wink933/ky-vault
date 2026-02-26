@@ -25,6 +25,7 @@ LRN
 PreOrder
 PostOrder
 InOrder
+ID
 BCAEDGHFI
 BC
 BA
@@ -35,3 +36,5 @@ child
 cousin
 sibling
 nodes
+TD
+OD
