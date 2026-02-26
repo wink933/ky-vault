@@ -19,6 +19,7 @@ ABCDEFGHI
 AB
 AABC
 CDBFA
+COUNTER
 NLR
 LNR
 LRN
@@ -36,5 +37,10 @@ child
 cousin
 sibling
 nodes
+next
 TD
 OD
+obsidian
+git
+edges
+head
