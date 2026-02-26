@@ -56,6 +56,9 @@ InOrder
 ID
 In
 Infix
+II
+III
+IV
 BCAEDGHFI
 BC
 BA
