@@ -27,6 +27,10 @@ CDBFA
 COUNTER
 Catalan
 CPU
+CSR
+CSC
+Compressed
+Column
 NLR
 Notation
 LNR
@@ -34,6 +38,7 @@ LRN
 LIFO
 Last
 Lhead
+LRU
 PreOrder
 PostOrder
 Prefix
@@ -51,6 +56,7 @@ EDGHFI
 Expression
 WPL
 DA
+Deque
 child
 cousin
 sibling
@@ -72,9 +78,11 @@ git
 edges
 head
 Stack
+Sparse
 First
 FCFS
 MaxSize
 boundary
 Reverse
+Row
 vs
