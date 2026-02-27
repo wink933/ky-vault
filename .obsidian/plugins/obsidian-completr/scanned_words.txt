@@ -73,6 +73,7 @@ Prefix
 Polish
 Postfix
 Path
+Prim
 InOrder
 ID
 In
@@ -117,6 +118,7 @@ name
 TD
 Top
 TRUE
+Tree
 OD
 Out
 Obsidian
@@ -132,6 +134,7 @@ Stack
 Sparse
 SIZE
 Search
+Spanning
 First
 FCFS
 Find
@@ -139,6 +142,8 @@ FALSE
 Floyd
 MaxSize
 MI
+Minimum
+MST
 boundary
 br
 Reverse
