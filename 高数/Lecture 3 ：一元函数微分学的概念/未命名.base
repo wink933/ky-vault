@@ -6,3 +6,6 @@ views:
         direction: ASC
   - type: cards
     name: 视图
+    filters:
+      and:
+        - file.inFolder("408/数据结构")
