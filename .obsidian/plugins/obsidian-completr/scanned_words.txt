@@ -40,6 +40,7 @@ firstin
 firstout
 firstedge
 filters
+for
 ABCDF
 ABCDEFGHI
 AB
@@ -85,6 +86,7 @@ BA
 Bottom
 BFS
 Breadth
+BFSTraverse
 EDGHFI
 Expression
 EdgeType
@@ -93,6 +95,7 @@ DA
 Deque
 DFS
 Depth
+DFSTraverse
 child
 cousin
 categories
