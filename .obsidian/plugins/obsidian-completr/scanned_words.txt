@@ -22,9 +22,11 @@ parent
 pointer
 assets
 ancestor
+adjvex
 file
 front
 first
+firstarc
 ABCDF
 ABCDEFGHI
 AB
@@ -84,6 +86,7 @@ nodes
 next
 nn
 node
+nextarc
 TD
 Top
 OD
