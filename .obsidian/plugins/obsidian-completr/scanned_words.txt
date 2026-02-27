@@ -68,6 +68,7 @@ BA
 Bottom
 EDGHFI
 Expression
+EdgeType
 WPL
 DA
 Deque
