@@ -5,6 +5,8 @@ top
 tag
 typedef
 tail
+tailvex
+tlink
 date
 data
 descendant
@@ -27,6 +29,9 @@ file
 front
 first
 firstarc
+firstin
+firstout
+firstedge
 ABCDF
 ABCDEFGHI
 AB
@@ -98,6 +103,8 @@ operator
 git
 edges
 head
+headvex
+hlink
 Stack
 Sparse
 SIZE
@@ -112,3 +119,8 @@ Root
 vs
 Union
 max
+info
+ivex
+ilink
+jvex
+jlink
