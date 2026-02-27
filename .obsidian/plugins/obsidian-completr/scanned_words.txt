@@ -7,6 +7,8 @@ typedef
 tail
 tailvex
 tlink
+type
+table
 date
 data
 descendant
@@ -97,6 +99,7 @@ next
 nn
 node
 nextarc
+name
 TD
 Top
 TRUE
@@ -128,6 +131,7 @@ Row
 Root
 vs
 visited
+views
 Union
 max
 info
