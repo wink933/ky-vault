@@ -13,6 +13,7 @@ date
 data
 descendant
 delimiter
+direction
 lchild
 ltag
 last
@@ -24,10 +25,12 @@ pre
 png
 parent
 pointer
+property
 assets
 ancestor
 adjvex
 abcdefgh
+and
 file
 front
 first
@@ -35,10 +38,12 @@ firstarc
 firstin
 firstout
 firstedge
+filters
 ABCDF
 ABCDEFGHI
 AB
 AABC
+ASC
 CDBFA
 COUNTER
 Catalan
@@ -89,11 +94,13 @@ DFS
 child
 cousin
 categories
+cards
 sibling
 separator
 symbol
 size
 struct
+sort
 nodes
 next
 nn
@@ -137,5 +144,6 @@ max
 info
 ivex
 ilink
+inFolder
 jvex
 jlink
