@@ -4,5 +4,12 @@
   "promptDelete": false,
   "autoPairMarkdown": true,
   "strictLineBreaks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "copilot/",
+    "copilot/copilot-conversations/",
+    "官方obsidian使用文档/",
+    "其他/"
+  ]
 }
