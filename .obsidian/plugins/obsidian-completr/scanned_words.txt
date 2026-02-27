@@ -25,6 +25,7 @@ pointer
 assets
 ancestor
 adjvex
+abcdefgh
 file
 front
 first
@@ -74,6 +75,7 @@ BC
 BA
 Bottom
 BFS
+Breadth
 EDGHFI
 Expression
 EdgeType
@@ -96,6 +98,7 @@ node
 nextarc
 TD
 Top
+TRUE
 OD
 Out
 Obsidian
@@ -110,15 +113,19 @@ hlink
 Stack
 Sparse
 SIZE
+Search
 First
 FCFS
 Find
+FALSE
 MaxSize
 boundary
+br
 Reverse
 Row
 Root
 vs
+visited
 Union
 max
 info
