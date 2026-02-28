@@ -10,6 +10,7 @@ tlink
 type
 table
 true
+text
 date
 data
 descendant
@@ -45,6 +46,7 @@ firstedge
 filters
 for
 false
+free
 ABCDF
 ABCDEFGHI
 AB
@@ -94,6 +96,7 @@ Bottom
 BFS
 Breadth
 BFSTraverse
+Basic
 EDGHFI
 Expression
 EdgeType
@@ -114,6 +117,7 @@ symbol
 size
 struct
 sort
+sizeof
 nodes
 next
 nn
@@ -153,6 +157,7 @@ Minimum
 MST
 boundary
 br
+base
 Reverse
 Row
 Root
