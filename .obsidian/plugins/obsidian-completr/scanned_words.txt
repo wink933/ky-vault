@@ -140,6 +140,8 @@ FCFS
 Find
 FALSE
 Floyd
+FIFO
+Front
 MaxSize
 MI
 Minimum
@@ -149,6 +151,7 @@ br
 Reverse
 Row
 Root
+Rear
 vs
 visited
 views
@@ -161,3 +164,4 @@ inFolder
 jvex
 jlink
 Kruskal
+Queue
