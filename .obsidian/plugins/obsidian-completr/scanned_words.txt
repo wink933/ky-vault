@@ -9,6 +9,7 @@ tailvex
 tlink
 type
 table
+true
 date
 data
 descendant
@@ -27,6 +28,7 @@ parent
 pointer
 property
 prim
+prior
 assets
 ancestor
 adjvex
@@ -42,6 +44,7 @@ firstout
 firstedge
 filters
 for
+false
 ABCDF
 ABCDEFGHI
 AB
@@ -67,6 +70,8 @@ Lhead
 LRU
 LNode
 LinkList
+Linear
+List
 PreOrder
 PostOrder
 Prefix
