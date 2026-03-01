@@ -446,7 +446,7 @@
   "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
   "inlineEditCommands": [],
   "projectList": [],
-  "lastDismissedVersion": null,
+  "lastDismissedVersion": "3.2.3",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -482,5 +482,7 @@
   "diffViewMode": "split",
   "userSystemPromptsFolder": "copilot/system-prompts",
   "defaultSystemPromptTitle": "",
-  "autoCompactThreshold": 128000
+  "autoCompactThreshold": 128000,
+  "enableMiyo": false,
+  "selfHostSearchProvider": "firecrawl"
 }
