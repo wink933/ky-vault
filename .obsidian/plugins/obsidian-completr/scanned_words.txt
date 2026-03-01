@@ -107,6 +107,7 @@ DFS
 Depth
 DFSTraverse
 Dijkstra
+DAG
 child
 cousin
 categories
@@ -144,6 +145,7 @@ Sparse
 SIZE
 Search
 Spanning
+Step
 First
 FCFS
 Find
