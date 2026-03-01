@@ -52,6 +52,9 @@ ABCDEFGHI
 AB
 AABC
 ASC
+AOV
+Activity
+AOE
 CDBFA
 COUNTER
 Catalan
@@ -64,6 +67,7 @@ Compression
 NLR
 Notation
 NULL
+NetWork
 LNR
 LRN
 LIFO
@@ -101,6 +105,7 @@ EDGHFI
 Expression
 EdgeType
 WPL
+Weight
 DA
 Deque
 DFS
@@ -132,6 +137,7 @@ Tree
 OD
 Out
 Obsidian
+On
 obsidian
 operand
 operator
@@ -177,3 +183,4 @@ jvex
 jlink
 Kruskal
 Queue
+Vertex
