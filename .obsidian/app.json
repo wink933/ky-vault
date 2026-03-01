@@ -4,5 +4,20 @@
   "promptDelete": false,
   "autoPairMarkdown": true,
   "strictLineBreaks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "copilot/",
+    "copilot/copilot-conversations/",
+    "官方obsidian使用文档/",
+    "其他/",
+    "daily/",
+    "模版/",
+    "copilot/copilot-custom-prompts/",
+    "copilot/memory/",
+    "其他/git/",
+    "其他/markdown/",
+    "英语/assets/",
+    "官方obsidian使用文档/zh/"
+  ]
 }
