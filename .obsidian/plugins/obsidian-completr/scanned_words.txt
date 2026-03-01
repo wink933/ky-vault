@@ -171,6 +171,7 @@ operand
 operator
 of
 oXAaXF
+okw
 git
 edges
 excalidraw
@@ -226,6 +227,7 @@ jlink
 jmj
 Kruskal
 Queue
+QNPC
 Vertex
 VIEW
 You
