@@ -114,6 +114,7 @@ Expression
 EdgeType
 EXCALIDRAW
 Excalidraw
+Elements
 WPL
 Weight
 DA
@@ -125,6 +126,7 @@ Dijkstra
 DAG
 Drawing
 Decompress
+Data
 child
 cousin
 categories
@@ -151,6 +153,7 @@ TD
 Top
 TRUE
 Tree
+Text
 OD
 Out
 Obsidian
@@ -160,9 +163,11 @@ obsidian
 operand
 operator
 of
+oXAaXF
 git
 edges
 excalidraw
+eIOzQi
 head
 headvex
 hlink
