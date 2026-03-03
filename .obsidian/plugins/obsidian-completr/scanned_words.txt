@@ -80,6 +80,7 @@ ASC
 AOV
 Activity
 AOE
+AVL
 CDBFA
 COUNTER
 Catalan
@@ -105,6 +106,8 @@ LinkList
 Linear
 List
 LYm
+LL
+LR
 PreOrder
 PostOrder
 Prefix
@@ -129,6 +132,8 @@ Breadth
 BFSTraverse
 Basic
 BST
+Balanced
+Binary
 EDGHFI
 Expression
 EdgeType
@@ -243,6 +248,8 @@ Reverse
 Row
 Root
 Rear
+RR
+RL
 vs
 visited
 views
