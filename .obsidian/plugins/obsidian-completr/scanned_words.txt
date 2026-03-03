@@ -32,6 +32,7 @@ log
 left
 ln
 low
+le
 rchild
 rtag
 rear
@@ -60,6 +61,7 @@ arctan
 arcsin
 ax
 ae
+alpha
 file
 front
 first
@@ -81,6 +83,8 @@ AOV
 Activity
 AOE
 AVL
+Addr
+ASL
 CDBFA
 COUNTER
 Catalan
@@ -244,6 +248,8 @@ br
 base
 begin
 bx
+bigl
+bigr
 Reverse
 Row
 Root
@@ -268,6 +274,7 @@ ilink
 inFolder
 in
 int
+iH
 jvex
 jlink
 jmj
