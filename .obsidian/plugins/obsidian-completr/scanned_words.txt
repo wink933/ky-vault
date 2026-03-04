@@ -15,6 +15,9 @@ to
 the
 this
 tan
+time
+these
+three
 date
 data
 descendant
@@ -33,6 +36,7 @@ left
 ln
 low
 le
+like
 rchild
 rtag
 rear
@@ -62,6 +66,7 @@ arcsin
 ax
 ae
 alpha
+algorithms
 file
 front
 first
@@ -146,6 +151,7 @@ Excalidraw
 Elements
 WPL
 Weight
+Would
 DA
 Deque
 DFS
@@ -173,6 +179,9 @@ cases
 cx
 cdots
 chatgpt
+create
+comparison
+complexities
 sibling
 separator
 symbol
@@ -184,6 +193,8 @@ settings
 sqrt
 sin
 sec
+stabilities
+sorting
 nodes
 next
 nn
@@ -250,6 +261,7 @@ begin
 bx
 bigl
 bigr
+based
 Reverse
 Row
 Root
@@ -268,6 +280,7 @@ max
 menu
 more
 mid
+me
 info
 ivex
 ilink
@@ -275,6 +288,7 @@ inFolder
 in
 int
 iH
+insertion
 jvex
 jlink
 jmj
@@ -291,5 +305,6 @@ udv
 uv
 zGzAdvo
 yq
+you
 key
 xrightarrow
