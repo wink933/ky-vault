@@ -91,6 +91,8 @@ AOE
 AVL
 Addr
 ASL
+ADT
+Algorithm
 CDBFA
 COUNTER
 Catalan
@@ -309,3 +311,4 @@ yq
 you
 key
 xrightarrow
+Hash
