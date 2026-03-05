@@ -54,6 +54,7 @@ plugin
 parsed
 palette
 pi
+pivot
 assets
 ancestor
 adjvex
