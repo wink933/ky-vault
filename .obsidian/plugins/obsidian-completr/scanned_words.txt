@@ -127,6 +127,7 @@ Polish
 Postfix
 Path
 Prim
+Partition
 InOrder
 ID
 In
@@ -205,6 +206,7 @@ node
 nextarc
 name
 ne
+nlog
 TD
 Top
 TRUE
