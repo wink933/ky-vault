@@ -40,6 +40,8 @@ low
 le
 like
 let
+logm
+logn
 rchild
 rtag
 rear
@@ -103,6 +105,7 @@ Addr
 ASL
 ADT
 Algorithm
+Access
 CDBFA
 COUNTER
 Catalan
@@ -146,6 +149,7 @@ II
 III
 IV
 IVI
+IO
 BCAEDGHFI
 BC
 BA
@@ -212,6 +216,7 @@ sec
 stabilities
 sorting
 set
+svg
 nodes
 next
 nn
@@ -292,6 +297,7 @@ Root
 Rear
 RR
 RL
+Random
 vs
 visited
 views
@@ -318,6 +324,7 @@ int
 iH
 insertion
 id
+image
 jvex
 jlink
 jmj
@@ -326,16 +333,20 @@ Queue
 QNPC
 Vertex
 VIEW
+Value
 You
 with
 under
 uQ
 udv
 uv
+utf
 zGzAdvo
 yq
 you
 key
 xrightarrow
+xml
+xmlns
 Hash
 Java
