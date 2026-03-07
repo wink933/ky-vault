@@ -18,6 +18,8 @@ tan
 time
 these
 three
+tp
+tR
 date
 data
 descendant
@@ -37,12 +39,15 @@ ln
 low
 le
 like
+let
 rchild
 rtag
 rear
 rvJ
 rWD
 right
+read
+replace
 pre
 png
 parent
@@ -55,6 +60,9 @@ parsed
 palette
 pi
 pivot
+path
+parseInt
+padStart
 assets
 ancestor
 adjvex
@@ -68,6 +76,8 @@ ax
 ae
 alpha
 algorithms
+await
+app
 file
 front
 first
@@ -186,6 +196,8 @@ chatgpt
 create
 comparison
 complexities
+const
+content
 sibling
 separator
 symbol
@@ -208,6 +220,8 @@ nextarc
 name
 ne
 nlog
+newMarker
+newContent
 TD
 Top
 TRUE
@@ -229,6 +243,7 @@ of
 oXAaXF
 okw
 git
+getAbstractFileByPath
 edges
 excalidraw
 eIOzQi
@@ -249,6 +264,7 @@ Switch
 Saving
 SAXxJdNM
 ST
+String
 First
 FCFS
 Find
@@ -282,6 +298,7 @@ views
 varphi
 vdu
 vdx
+vault
 Union
 ULhxiV
 max
@@ -290,6 +307,8 @@ more
 mid
 me
 map
+match
+modify
 info
 ivex
 ilink
@@ -298,6 +317,7 @@ in
 int
 iH
 insertion
+id
 jvex
 jlink
 jmj
