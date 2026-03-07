@@ -199,6 +199,7 @@ sin
 sec
 stabilities
 sorting
+set
 nodes
 next
 nn
@@ -214,6 +215,8 @@ Tree
 Text
 TphUh
 TableLen
+TreeMap
+TreeSet
 OD
 Out
 Obsidian
@@ -286,6 +289,7 @@ menu
 more
 mid
 me
+map
 info
 ivex
 ilink
@@ -314,3 +318,4 @@ you
 key
 xrightarrow
 Hash
+Java
