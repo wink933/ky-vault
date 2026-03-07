@@ -141,6 +141,7 @@ Postfix
 Path
 Prim
 Partition
+Point
 InOrder
 ID
 In
@@ -331,6 +332,7 @@ jmj
 Kruskal
 Queue
 QNPC
+Query
 Vertex
 VIEW
 Value
