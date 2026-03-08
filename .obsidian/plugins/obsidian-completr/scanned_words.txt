@@ -118,6 +118,7 @@ AC
 AE
 And
 AMAT
+ALU
 CDBFA
 COUNTER
 Catalan
@@ -128,6 +129,7 @@ Compressed
 Column
 Compression
 Cache
+Central
 NLR
 Notation
 NULL
@@ -160,6 +162,7 @@ Point
 PART
 Peano
 Pasted
+Processing
 InOrder
 ID
 In
@@ -170,6 +173,7 @@ IV
 IVI
 IO
 Insert
+Input
 BCAEDGHFI
 BC
 BA
@@ -191,6 +195,7 @@ Elements
 Emd
 Eobsidian
 English
+EDVAC
 WPL
 Weight
 Would
@@ -274,6 +279,7 @@ Obsidian
 On
 OPTIONS
 OR
+Output
 obsidian
 operand
 operator
@@ -352,6 +358,8 @@ vault
 Union
 ULhxiV
 Users
+Unit
+USB
 max
 menu
 more
