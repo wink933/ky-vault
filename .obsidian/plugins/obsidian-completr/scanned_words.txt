@@ -130,11 +130,14 @@ Column
 Compression
 Cache
 Central
+Computer
+Core
 NLR
 Notation
 NULL
 NetWork
 Na
+Numerical
 LNR
 LRN
 LIFO
@@ -150,6 +153,7 @@ LL
 LR
 LSD
 Library
+Linux
 PreOrder
 PostOrder
 Prefix
@@ -163,6 +167,8 @@ PART
 Peano
 Pasted
 Processing
+Pentium
+Pascal
 InOrder
 ID
 In
@@ -175,6 +181,8 @@ IO
 Insert
 Input
 IEEE
+Integrator
+Intel
 BCAEDGHFI
 BC
 BA
@@ -197,9 +205,12 @@ Emd
 Eobsidian
 English
 EDVAC
+Electronic
+ENIAC
 WPL
 Weight
 Would
+Windows
 DA
 Deque
 DFS
@@ -275,6 +286,7 @@ TreeMap
 TreeSet
 Taylor
 Tag
+TB
 OD
 Out
 Obsidian
@@ -323,6 +335,7 @@ Floyd
 FIFO
 Front
 For
+FORTRAN
 MaxSize
 MI
 Minimum
@@ -333,6 +346,7 @@ Mobile
 Math
 MR
 MP
+MB
 boundary
 br
 base
@@ -363,6 +377,7 @@ ULhxiV
 Users
 Unit
 USB
+UNIX
 max
 menu
 more
@@ -417,3 +432,4 @@ xmlns
 Hash
 HT
 Java
+GB
