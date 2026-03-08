@@ -71,6 +71,7 @@ path
 parseInt
 padStart
 penalty
+point
 assets
 ancestor
 adjvex
@@ -132,6 +133,9 @@ Cache
 Central
 Computer
 Core
+CPI
+Cycles
+CISC
 NLR
 Notation
 NULL
@@ -169,6 +173,9 @@ Pasted
 Processing
 Pentium
 Pascal
+Per
+PFLOPS
+Peta
 InOrder
 ID
 In
@@ -183,6 +190,9 @@ Input
 IEEE
 Integrator
 Intel
+Instruction
+IPS
+Instructions
 BCAEDGHFI
 BC
 BA
@@ -207,6 +217,8 @@ English
 EDVAC
 Electronic
 ENIAC
+EFLOPS
+Exa
 WPL
 Weight
 Would
@@ -287,6 +299,8 @@ TreeSet
 Taylor
 Tag
 TB
+TFLOPS
+Tera
 OD
 Out
 Obsidian
@@ -295,6 +309,7 @@ OPTIONS
 OR
 Output
 OS
+Operations
 obsidian
 operand
 operator
@@ -327,6 +342,7 @@ Saving
 SAXxJdNM
 ST
 String
+Second
 First
 FCFS
 Find
@@ -336,6 +352,8 @@ FIFO
 Front
 For
 FORTRAN
+FLOPS
+Floating
 MaxSize
 MI
 Minimum
@@ -347,6 +365,9 @@ Math
 MR
 MP
 MB
+MIPS
+Million
+MFLOPS
 boundary
 br
 base
@@ -365,6 +386,7 @@ Rear
 RR
 RL
 Random
+RISC
 vs
 visited
 views
@@ -431,5 +453,11 @@ xml
 xmlns
 Hash
 HT
+Hz
 Java
 GB
+GHz
+GFLOPS
+Giga
+ZFLOPS
+Zetta
