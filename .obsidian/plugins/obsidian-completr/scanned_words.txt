@@ -21,6 +21,7 @@ three
 tp
 tR
 tuomao
+topic
 date
 data
 descendant
@@ -44,6 +45,8 @@ like
 let
 logm
 logn
+liner
+line
 rchild
 rtag
 rear
@@ -67,6 +70,7 @@ pivot
 path
 parseInt
 padStart
+penalty
 assets
 ancestor
 adjvex
@@ -113,6 +117,7 @@ Access
 AC
 AE
 And
+AMAT
 CDBFA
 COUNTER
 Catalan
@@ -122,6 +127,7 @@ CSC
 Compressed
 Column
 Compression
+Cache
 NLR
 Notation
 NULL
@@ -250,6 +256,7 @@ ne
 nlog
 newMarker
 newContent
+ns
 TD
 Top
 TRUE
@@ -260,6 +267,7 @@ TableLen
 TreeMap
 TreeSet
 Taylor
+Tag
 OD
 Out
 Obsidian
@@ -272,6 +280,8 @@ operator
 of
 oXAaXF
 okw
+one
+offset
 git
 getAbstractFileByPath
 edges
@@ -279,6 +289,7 @@ excalidraw
 eIOzQi
 elem
 end
+exam
 head
 headvex
 hlink
@@ -311,6 +322,8 @@ MORE
 MSD
 Mobile
 Math
+MR
+MP
 boundary
 br
 base
@@ -321,6 +334,7 @@ bigr
 based
 bba
 bc
+bit
 Reverse
 Row
 Root
@@ -347,6 +361,8 @@ map
 match
 modify
 min
+module
+miss
 info
 ivex
 ilink
@@ -358,10 +374,12 @@ insertion
 id
 image
 iCloud
+index
 jvex
 jlink
 jmj
 Kruskal
+KB
 Queue
 QNPC
 Query
@@ -371,11 +389,13 @@ Value
 You
 with
 while
+weight
 under
 uQ
 udv
 uv
 utf
+updated
 zGzAdvo
 yq
 you
@@ -384,4 +404,5 @@ xrightarrow
 xml
 xmlns
 Hash
+HT
 Java
