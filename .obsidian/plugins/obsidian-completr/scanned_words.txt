@@ -122,6 +122,8 @@ AE
 And
 AMAT
 ALU
+Abort
+Atomic
 CDBFA
 COUNTER
 Catalan
@@ -139,12 +141,14 @@ CPI
 Cycles
 CISC
 CF
+CALL
 NLR
 Notation
 NULL
 NetWork
 Na
 Numerical
+NMI
 LNR
 LRN
 LIFO
@@ -180,6 +184,9 @@ Per
 PFLOPS
 Peta
 Plaintext
+PC
+PSW
+PCB
 InOrder
 ID
 In
@@ -197,6 +204,8 @@ Intel
 Instruction
 IPS
 Instructions
+Interruption
+INTR
 BCAEDGHFI
 BC
 BA
@@ -224,6 +233,7 @@ ENIAC
 EFLOPS
 Exa
 EF
+Exception
 WPL
 Weight
 Would
@@ -313,6 +323,7 @@ TB
 TFLOPS
 Tera
 TYPE
+Trap
 OD
 Out
 Obsidian
@@ -325,6 +336,7 @@ Operations
 Overflow
 OF
 Operating
+Operation
 obsidian
 operand
 operator
@@ -371,6 +383,7 @@ For
 FORTRAN
 FLOPS
 Floating
+Fault
 MaxSize
 MI
 Minimum
