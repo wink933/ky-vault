@@ -136,6 +136,7 @@ Core
 CPI
 Cycles
 CISC
+CF
 NLR
 Notation
 NULL
@@ -310,6 +311,8 @@ OR
 Output
 OS
 Operations
+Overflow
+OF
 obsidian
 operand
 operator
