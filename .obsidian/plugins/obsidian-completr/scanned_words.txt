@@ -47,6 +47,8 @@ logm
 logn
 liner
 line
+long
+logic
 rchild
 rtag
 rear
@@ -177,6 +179,7 @@ Pascal
 Per
 PFLOPS
 Peta
+Plaintext
 InOrder
 ID
 In
@@ -220,6 +223,7 @@ Electronic
 ENIAC
 EFLOPS
 Exa
+EF
 WPL
 Weight
 Would
@@ -261,6 +265,8 @@ const
 content
 color
 ccc
+char
+conversion
 sibling
 separator
 symbol
@@ -277,6 +283,9 @@ sorting
 set
 svg
 swk
+short
+signed
+summary
 nodes
 next
 nn
@@ -288,6 +297,7 @@ nlog
 newMarker
 newContent
 ns
+notes
 TD
 Top
 TRUE
@@ -302,6 +312,7 @@ Tag
 TB
 TFLOPS
 Tera
+TYPE
 OD
 Out
 Obsidian
@@ -329,6 +340,7 @@ eIOzQi
 elem
 end
 exam
+extract
 head
 headvex
 hlink
@@ -426,6 +438,7 @@ id
 image
 iCloud
 index
+into
 jvex
 jlink
 jmj
@@ -447,13 +460,18 @@ udv
 uv
 utf
 updated
+unsigned
 zGzAdvo
 yq
 you
+your
 key
 xrightarrow
 xml
 xmlns
+xFFFF
+xEF
+xFFFFEF
 Hash
 HT
 Hz
