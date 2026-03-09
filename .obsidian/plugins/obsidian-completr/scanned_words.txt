@@ -124,6 +124,7 @@ AMAT
 ALU
 Abort
 Atomic
+Android
 CDBFA
 COUNTER
 Catalan
@@ -296,6 +297,7 @@ swk
 short
 signed
 summary
+subterranean
 nodes
 next
 nn
@@ -354,6 +356,7 @@ elem
 end
 exam
 extract
+exokernel
 head
 headvex
 hlink
@@ -384,6 +387,7 @@ FORTRAN
 FLOPS
 Floating
 Fault
+Fuchsia
 MaxSize
 MI
 Minimum
@@ -441,6 +445,7 @@ modify
 min
 module
 miss
+macOS
 info
 ivex
 ilink
@@ -454,6 +459,7 @@ image
 iCloud
 index
 into
+iOS
 jvex
 jlink
 jmj
