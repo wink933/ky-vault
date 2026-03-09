@@ -482,5 +482,6 @@ GB
 GHz
 GFLOPS
 Giga
+GUI
 ZFLOPS
 Zetta
