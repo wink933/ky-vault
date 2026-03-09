@@ -143,6 +143,7 @@ Cycles
 CISC
 CF
 CALL
+CMOS
 NLR
 Notation
 NULL
@@ -188,6 +189,8 @@ Plaintext
 PC
 PSW
 PCB
+POST
+PBR
 InOrder
 ID
 In
@@ -219,6 +222,8 @@ BST
 Balanced
 Binary
 BB
+BIOS
+Boot
 EDGHFI
 Expression
 EdgeType
@@ -375,6 +380,7 @@ ST
 String
 Second
 System
+Sequence
 First
 FCFS
 Find
@@ -402,6 +408,7 @@ MB
 MIPS
 Million
 MFLOPS
+MBR
 boundary
 br
 base
@@ -413,6 +420,7 @@ based
 bba
 bc
 bit
+boot
 Reverse
 Row
 Root
@@ -421,6 +429,7 @@ RR
 RL
 Random
 RISC
+ROM
 vs
 visited
 views
