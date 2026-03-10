@@ -400,6 +400,7 @@ Floating
 Fault
 Fuchsia
 FA
+FR
 MaxSize
 MI
 Minimum
