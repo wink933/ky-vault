@@ -125,6 +125,8 @@ ALU
 Abort
 Atomic
 Android
+Add
+Arithmetic
 CDBFA
 COUNTER
 Catalan
@@ -144,6 +146,7 @@ CISC
 CF
 CALL
 CMOS
+CLA
 NLR
 Notation
 NULL
@@ -167,6 +170,7 @@ LR
 LSD
 Library
 Linux
+Logic
 PreOrder
 PostOrder
 Prefix
@@ -381,6 +385,7 @@ String
 Second
 System
 Sequence
+SF
 First
 FCFS
 Find
@@ -394,6 +399,7 @@ FLOPS
 Floating
 Fault
 Fuchsia
+FA
 MaxSize
 MI
 Minimum
@@ -409,6 +415,7 @@ MIPS
 Million
 MFLOPS
 MBR
+MUX
 boundary
 br
 base
@@ -513,3 +520,4 @@ Giga
 GUI
 ZFLOPS
 Zetta
+ZF
