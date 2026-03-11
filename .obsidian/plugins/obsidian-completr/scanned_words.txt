@@ -34,6 +34,7 @@ dfrac
 du
 db
 dt
+dots
 lchild
 ltag
 last
@@ -313,6 +314,7 @@ short
 signed
 summary
 subterranean
+star
 nodes
 next
 nn
