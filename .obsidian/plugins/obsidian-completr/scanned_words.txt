@@ -33,6 +33,7 @@ dx
 dfrac
 du
 db
+dt
 lchild
 ltag
 last
@@ -49,6 +50,7 @@ liner
 line
 long
 logic
+longrightarrow
 rchild
 rtag
 rear
@@ -74,6 +76,8 @@ parseInt
 padStart
 penalty
 point
+px
+pr
 assets
 ancestor
 adjvex
@@ -90,6 +94,7 @@ algorithms
 await
 app
 ate
+aligned
 file
 front
 first
@@ -127,6 +132,7 @@ Atomic
 Android
 Add
 Arithmetic
+Ax
 CDBFA
 COUNTER
 Catalan
@@ -358,6 +364,7 @@ one
 offset
 git
 getAbstractFileByPath
+geqslant
 edges
 excalidraw
 eIOzQi
@@ -504,12 +511,14 @@ yq
 you
 your
 key
+kx
 xrightarrow
 xml
 xmlns
 xFFFF
 xEF
 xFFFFEF
+xdx
 Hash
 HT
 Hz
@@ -522,3 +531,4 @@ GUI
 ZFLOPS
 Zetta
 ZF
+qx
