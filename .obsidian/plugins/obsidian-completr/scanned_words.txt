@@ -35,6 +35,7 @@ du
 db
 dt
 dots
+double
 lchild
 ltag
 last
@@ -109,6 +110,7 @@ false
 free
 frac
 font
+float
 ABCDF
 ABCDEFGHI
 AB
@@ -161,6 +163,9 @@ NetWork
 Na
 Numerical
 NMI
+NaN
+Not
+Number
 LNR
 LRN
 LIFO
