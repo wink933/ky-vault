@@ -53,6 +53,7 @@ line
 long
 logic
 longrightarrow
+linear
 rchild
 rtag
 rear
@@ -156,6 +157,8 @@ CF
 CALL
 CMOS
 CLA
+Constant
+Coefficient
 NLR
 Notation
 NULL
@@ -166,6 +169,7 @@ NMI
 NaN
 Not
 Number
+Non
 LNR
 LRN
 LIFO
@@ -361,6 +365,7 @@ Overflow
 OF
 Operating
 Operation
+Order
 obsidian
 operand
 operator
@@ -385,6 +390,7 @@ headvex
 hlink
 hoq
 high
+homogeneous
 Stack
 Sparse
 SIZE
@@ -531,6 +537,7 @@ xdx
 Hash
 HT
 Hz
+Homogeneous
 Java
 GB
 GHz
