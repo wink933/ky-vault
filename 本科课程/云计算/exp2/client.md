@@ -360,9 +360,8 @@ text := strings.TrimSpace(scanner.Text())
 
 **防呆与退出机制（极简的字符串操作）**
 
-Go
 
-```
+```go
 if strings.ToLower(text) == "exit" { ... break }
 if text == "" { continue }
 ```
@@ -374,9 +373,8 @@ if text == "" { continue }
 
 **向网线里开火：`conn.Write`**
 
-Go
 
-```
+```go
 _, err = conn.Write([]byte(text))
 ```
 
@@ -387,9 +385,8 @@ _, err = conn.Write([]byte(text))
 
 **第二关阻塞：等待服务器回音**
 
-Go
 
-```
+```go
 buffer := make([]byte, 1024)
 n, err := conn.Read(buffer)
 // ...
