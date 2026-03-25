@@ -552,8 +552,109 @@ if err != nil {
 
 ---
 
-##
+# 第六部分
+
+```go
+func runClient() {
+
+conn, err := net.Dial("tcp", "127.0.0.1:8888")
+
+if err != nil {
+
+panic(err)
+
+}
+
+defer conn.Close()
+
+  
+
+fmt.Println("\n[客户端] 成功连接服务器！准备瞬间连续发送 3 条消息 (不加长度头)...")
+
+  
+
+messages := []GameMessage{
+
+{Action: "Move", PlayerID: 1001, PositionX: 10.5, PositionY: 20.0},
+
+{Action: "Attack", PlayerID: 1001, PositionX: 10.5, PositionY: 20.0},
+
+{Action: "Move", PlayerID: 1001, PositionX: 12.0, PositionY: 22.5},
+
+}
+
+  
+
+for i, msg := range messages {
+
+// 【对齐正确版】：在发送前，将即将被序列化的结构体内容清晰地打印出来
+
+fmt.Printf("[客户端] 正在将第 %d 条消息流推入网卡 -> 原始内容: [玩家:%d | 动作:%-6s | 坐标:(%.1f, %.1f)]\n",
+
+i+1, msg.PlayerID, msg.Action, msg.PositionX, msg.PositionY)
+
+// 丢弃了包头的发送方式
+
+sendRawJSON(conn, msg)
+
+}
+
+fmt.Println("[客户端] 3 条消息已强制推入底层 TCP 协议栈！")
+
+}
+```
 
 
 
 
+### 1. 极简的拨号起手式
+```go
+conn, err := net.Dial("tcp", "127.0.0.1:8888")
+if err != nil { panic(err) }
+defer conn.Close()
+```
+* 这部分你已经烂熟于心了：相当于 C++ 的 `socket()` + `connect()`。一旦拨号失败，直接 `panic` 原地爆炸；成功则挂上 `defer` 保证最后会四次挥手断开。
+
+### 2. 准备弹药：Go 的切片 (Slice) 初始化
+```go
+messages := []GameMessage{
+    {Action: "Move", PlayerID: 1001, PositionX: 10.5, PositionY: 20.0},
+    {Action: "Attack", PlayerID: 1001, PositionX: 10.5, PositionY: 20.0},
+    {Action: "Move", PlayerID: 1001, PositionX: 12.0, PositionY: 22.5},
+}
+```
+* **在 C++ 中**：这就相当于你初始化了一个 `std::vector<GameMessage>`，并塞入了三个对象。
+* **业务场景**：这模拟了玩家在极短的时间内（可能只有几十毫秒）完成了一波连招：“先走到坐标(10.5, 20.0)，砍一刀，然后再走位到(12.0, 22.5)”。
+
+### 3. 倾泻火力：`for range` 循环与致命连发
+```go
+for i, msg := range messages {
+    // 打印日志...
+    sendRawJSON(conn, msg)
+}
+```
+这里有两个非常关键的 Go 语言语法和底层逻辑：
+
+**A. 优雅的 `for range`**
+* **C++ 对比**：这完美等价于 C++11 的基于范围的 for 循环：`for(auto& msg : messages)`。Go 的 `range` 会自动帮你遍历数组/切片，并且同时返回当前的索引 `i` 和对应的值 `msg`。
+
+**B. 案发核心：瞬间发包 (Zero Delay)**
+* 注意，这个 `for` 循环内部**没有任何 `time.Sleep`**！
+* 计算机执行这 3 次循环连 1 毫秒都用不到。客户端瞬间调用了 3 次 `sendRawJSON`。
+* **操作系统的视角**：客户端的应用程序极快地向内核的 TCP 发送缓冲区（Send Buffer）塞入了 3 段 JSON 字符串。底层操作系统的网卡驱动一看：“哟，这哥们塞得这么快，数据量又这么小，为了节省网络带宽，我干脆把它们**拼成一个大的 TCP 数据包**发过去得了！”（这就触发了 Nagle 算法的合并机制）。
+* **另一头的服务器在干嘛？** 别忘了，服务端的 `runServer` 函数这时候正在执行 `time.Sleep(1 * time.Second)` 呼呼大睡！所以这团拼在一起的数据，结结实实地撞进了服务端的接收缓冲区，彻底黏在了一起。
+
+---
+
+### 助教的“结案陈词”
+
+现在，我们把前因后果全部串起来了：
+1. **客户端（本段代码）**：像冲锋枪一样，瞬间把 3 个没有长度边界的 JSON 文本推入网卡。
+2. **底层 TCP 协议**：发挥了它“无边界字节流”的本性，把它们融合成了一长串字符串。
+3. **服务端**：因为卡顿（Sleep），一次性把这串“连体”字符串全抽了出来，扔给 JSON 解析器。
+4. **结果**：解析器遭遇连续的 `}{` 符号，抛出语法错误，服务器处理玩家操作的逻辑彻底崩溃。
+
+**如何破局？**
+真正的工业级游戏开发中，我们绝不会让网线里的数据“裸奔”。我们需要在发送每一个 JSON 之前，先告诉对方“这个包有多大”。
+
+如果你对这场惨案已经了然于心，**我们要不要直接打开 `step3_framing_demo/main.go`，看看 Go 语言是怎么用 `encoding/binary` 实现 TLV（Type-Length-Value）封包拆包的？** 那可是网络编程中最经典、最必须掌握的屠龙之术！
