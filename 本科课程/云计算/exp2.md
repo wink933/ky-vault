@@ -395,9 +395,8 @@ receivedMsg := string(buffer[:n])
 
 ## 5. 鹦鹉学舌：给客户端回信
 
-Go
 
-```
+```go
 replyMsg := "服务器已阅: [" + receivedMsg + "]"
 conn.Write([]byte(replyMsg))
 ```
