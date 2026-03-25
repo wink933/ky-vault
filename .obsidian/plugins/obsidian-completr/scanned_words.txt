@@ -54,6 +54,7 @@ long
 logic
 longrightarrow
 linear
+listener
 rchild
 rtag
 rear
@@ -81,6 +82,7 @@ penalty
 point
 px
 pr
+panic
 assets
 ancestor
 adjvex
@@ -139,6 +141,7 @@ Add
 Arithmetic
 Ax
 Agent
+Accept
 CDBFA
 COUNTER
 Catalan
@@ -161,6 +164,7 @@ CMOS
 CLA
 Constant
 Coefficient
+Connection
 NLR
 Notation
 NULL
@@ -190,6 +194,7 @@ LSD
 Library
 Linux
 Logic
+Long
 PreOrder
 PostOrder
 Prefix
@@ -234,6 +239,7 @@ IPS
 Instructions
 Interruption
 INTR
+IP
 BCAEDGHFI
 BC
 BA
@@ -248,6 +254,8 @@ Binary
 BB
 BIOS
 Boot
+Byte
+Bug
 EDGHFI
 Expression
 EdgeType
@@ -268,6 +276,7 @@ WPL
 Weight
 Would
 Windows
+Write
 DA
 Deque
 DFS
@@ -328,6 +337,7 @@ signed
 summary
 subterranean
 star
+style
 nodes
 next
 nn
@@ -413,6 +423,8 @@ System
 Sequence
 SF
 Socket
+Stream
+Slice
 First
 FCFS
 Find
@@ -433,6 +445,7 @@ Fx
 Fringe
 Frontier
 Format
+FD
 MaxSize
 MI
 Minimum
@@ -461,6 +474,7 @@ bba
 bc
 bit
 boot
+backlog
 Reverse
 Row
 Root
@@ -470,6 +484,9 @@ RL
 Random
 RISC
 ROM
+Read
+RAII
+RST
 vs
 visited
 views
