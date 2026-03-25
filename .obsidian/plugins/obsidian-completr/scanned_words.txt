@@ -172,6 +172,7 @@ NaN
 Not
 Number
 Non
+Network
 LNR
 LRN
 LIFO
@@ -213,6 +214,7 @@ PSW
 PCB
 POST
 PBR
+Package
 InOrder
 ID
 In
@@ -354,6 +356,7 @@ TFLOPS
 Tera
 TYPE
 Trap
+TCP
 OD
 Out
 Obsidian
@@ -387,6 +390,7 @@ end
 exam
 extract
 exokernel
+exe
 head
 headvex
 hlink
@@ -408,6 +412,7 @@ Second
 System
 Sequence
 SF
+Socket
 First
 FCFS
 Find
@@ -427,6 +432,7 @@ Fy
 Fx
 Fringe
 Frontier
+Format
 MaxSize
 MI
 Minimum
@@ -478,6 +484,7 @@ Unit
 USB
 UNIX
 Utility
+UDP
 max
 menu
 more
@@ -549,6 +556,7 @@ GHz
 GFLOPS
 Giga
 GUI
+Go
 ZFLOPS
 Zetta
 ZF
