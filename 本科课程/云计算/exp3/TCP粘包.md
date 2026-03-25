@@ -379,9 +379,8 @@ payload, _ := json.Marshal(msg)
 
 ## 3. 罪魁祸首：裸奔的 `conn.Write`
 
-Go
 
-```
+```go
 conn.Write(payload) // 【致命错误】去掉了 4 字节的长度前缀！
 ```
 
