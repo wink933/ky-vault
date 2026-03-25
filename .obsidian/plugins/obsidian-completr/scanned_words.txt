@@ -142,6 +142,8 @@ Arithmetic
 Ax
 Agent
 Accept
+API
+Address
 CDBFA
 COUNTER
 Catalan
@@ -165,6 +167,7 @@ CLA
 Constant
 Coefficient
 Connection
+Channel
 NLR
 Notation
 NULL
@@ -195,6 +198,7 @@ Library
 Linux
 Logic
 Long
+Loopback
 PreOrder
 PostOrder
 Prefix
@@ -220,6 +224,9 @@ PCB
 POST
 PBR
 Package
+Ping
+Pong
+Packets
 InOrder
 ID
 In
@@ -256,6 +263,7 @@ BIOS
 Boot
 Byte
 Bug
+Buffered
 EDGHFI
 Expression
 EdgeType
@@ -272,6 +280,7 @@ EFLOPS
 Exa
 EF
 Exception
+Enter
 WPL
 Weight
 Would
@@ -290,6 +299,7 @@ Data
 Delete
 Documents
 DBMS
+Dial
 child
 cousin
 categories
@@ -425,6 +435,8 @@ SF
 Socket
 Stream
 Slice
+Standard
+Sticky
 First
 FCFS
 Find
@@ -446,6 +458,7 @@ Fringe
 Frontier
 Format
 FD
+FIN
 MaxSize
 MI
 Minimum
@@ -462,6 +475,7 @@ Million
 MFLOPS
 MBR
 MUX
+Mac
 boundary
 br
 base
@@ -502,6 +516,7 @@ USB
 UNIX
 Utility
 UDP
+Unix
 max
 menu
 more
@@ -567,6 +582,7 @@ Hash
 HT
 Hz
 Homogeneous
+Header
 Java
 GB
 GHz
@@ -574,6 +590,7 @@ GFLOPS
 Giga
 GUI
 Go
+Goroutine
 ZFLOPS
 Zetta
 ZF
