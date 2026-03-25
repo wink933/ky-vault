@@ -263,9 +263,8 @@ conn, err := listener.Accept()
 
 ## 3. `if err != nil { continue }` (服务器的防御本能)
 
-Go
 
-```
+```go
 if err != nil {
     continue
 }
@@ -278,9 +277,8 @@ if err != nil {
 
 ## 4. `handleConnection(conn)` (业务交接)
 
-Go
 
-```
+```go
 fmt.Printf("=> 成功！新客户端已接入 (IP: %s)\n", conn.RemoteAddr().String())
         
 // 进入连接处理逻辑
