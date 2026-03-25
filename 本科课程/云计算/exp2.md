@@ -364,9 +364,9 @@ buffer := make([]byte, 1024)
 
 ## 3. 竖起耳朵听：阻塞式读取 `Read`
 
-Go
 
-```
+
+```go
 n, err := conn.Read(buffer)
 if err != nil {
     // 玩家断开或网络异常
