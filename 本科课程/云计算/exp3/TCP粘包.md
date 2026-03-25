@@ -236,9 +236,7 @@ defer listener.Close()
 
 这是这段代码里最核心、最具 Go 语言魅力的一行！
 
-Go
-
-```
+```go
 go runServer(listener)
 ```
 
