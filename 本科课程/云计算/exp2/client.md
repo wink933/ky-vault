@@ -344,9 +344,8 @@ scanner := bufio.NewScanner(os.Stdin)
 
 **第一关阻塞：等待人类敲键盘**
 
-Go
 
-```
+```go
 // 阻塞等待用户在终端敲击回车
 if !scanner.Scan() {
     break
