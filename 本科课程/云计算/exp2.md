@@ -383,9 +383,8 @@ if err != nil {
 
 ## 4. 剔除脏数据：Go 的切片魔法
 
-Go
 
-```
+```go
 receivedMsg := string(buffer[:n])
 ```
 
