@@ -90,9 +90,8 @@ fmt.Println("=======================================")
 
 ## 2. 核心网络系统调用：`net.Listen`
 
-Go
 
-```
+```go
 listener, err := net.Listen("tcp", ":8888")
 ```
 
@@ -118,9 +117,8 @@ listener, err := net.Listen("tcp", ":8888")
 
 ## 3. Go 的硬核错误处理：`if err != nil`
 
-Go
 
-```
+```go
 if err != nil {
     fmt.Println("启动服务器失败:", err)
     return
@@ -134,9 +132,9 @@ if err != nil {
 
 ## 4. 资源管理的杀手锏：`defer` (重点！)
 
-Go
 
-```
+
+```go
 defer listener.Close()
 ```
 
@@ -149,9 +147,9 @@ defer listener.Close()
 
 ## 5. 控制台输出：`fmt.Println`
 
-Go
 
-```
+
+```go
 fmt.Println("=======================================")
 // ...
 ```
