@@ -497,9 +497,8 @@ defer conn.Close()
 
 ## 2. 蓄意谋杀：致命的 `time.Sleep`
 
-Go
 
-```
+```go
 // 【核心时序控制】：强行休眠，让网卡里的无边界字节流全部挤在一起
 time.Sleep(1 * time.Second)
 ```
@@ -515,9 +514,8 @@ time.Sleep(1 * time.Second)
 
 ## 3. 贪婪的抽水机：一次性 `Read`
 
-Go
 
-```
+```go
 buffer := make([]byte, 1024) 
 // 【致命错误】：一次性把管子里的水全抽出来，根本不知道哪里是头哪里是尾
 n, err := conn.Read(buffer) 
