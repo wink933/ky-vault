@@ -98,6 +98,7 @@ await
 app
 ate
 aligned
+agent
 file
 front
 first
@@ -137,6 +138,7 @@ Android
 Add
 Arithmetic
 Ax
+Agent
 CDBFA
 COUNTER
 Catalan
@@ -423,6 +425,8 @@ FA
 FR
 Fy
 Fx
+Fringe
+Frontier
 MaxSize
 MI
 Minimum
@@ -473,6 +477,7 @@ Users
 Unit
 USB
 UNIX
+Utility
 max
 menu
 more
