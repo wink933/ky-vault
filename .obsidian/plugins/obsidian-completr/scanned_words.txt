@@ -286,6 +286,7 @@ Weight
 Would
 Windows
 Write
+WA
 DA
 Deque
 DFS
@@ -459,6 +460,8 @@ Frontier
 Format
 FD
 FIN
+FI
+FO
 MaxSize
 MI
 Minimum
@@ -476,6 +479,7 @@ MFLOPS
 MBR
 MUX
 Mac
+MINIMAX
 boundary
 br
 base
