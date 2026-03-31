@@ -301,6 +301,7 @@ Delete
 Documents
 DBMS
 Dial
+DD
 child
 cousin
 categories
@@ -480,6 +481,7 @@ MBR
 MUX
 Mac
 MINIMAX
+MM
 boundary
 br
 base
@@ -559,6 +561,7 @@ Vertex
 VIEW
 Value
 You
+YYYY
 with
 while
 weight
