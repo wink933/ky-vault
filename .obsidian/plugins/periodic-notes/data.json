@@ -3,8 +3,8 @@
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "folder": "daily",
-    "template": "daily/daily-note.md",
+    "folder": "日记/daily",
+    "template": "日记/daily/daily-note.md",
     "enabled": true
   },
   "weekly": {
@@ -15,8 +15,8 @@
   },
   "monthly": {
     "format": "",
-    "template": "daily/daily-note.md",
-    "folder": "daily",
+    "template": "日记/daily/daily-note.md",
+    "folder": "日记/daily",
     "enabled": true
   },
   "quarterly": {
