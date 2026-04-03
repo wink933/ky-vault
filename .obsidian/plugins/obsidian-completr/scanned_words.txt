@@ -264,6 +264,7 @@ Boot
 Byte
 Bug
 Buffered
+Booth
 EDGHFI
 Expression
 EdgeType
@@ -463,6 +464,7 @@ FD
 FIN
 FI
 FO
+Fraction
 MaxSize
 MI
 Minimum
