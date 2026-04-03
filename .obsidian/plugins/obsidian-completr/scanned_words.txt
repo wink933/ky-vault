@@ -265,6 +265,7 @@ Byte
 Bug
 Buffered
 Booth
+Bias
 EDGHFI
 Expression
 EdgeType
