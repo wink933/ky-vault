@@ -201,6 +201,7 @@ Linux
 Logic
 Long
 Loopback
+Lookahead
 PreOrder
 PostOrder
 Prefix
@@ -516,6 +517,7 @@ Read
 RAII
 RST
 Ripple
+RCA
 vs
 visited
 views
