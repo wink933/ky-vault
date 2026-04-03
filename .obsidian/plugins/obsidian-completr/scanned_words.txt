@@ -144,6 +144,7 @@ Agent
 Accept
 API
 Address
+Adder
 CDBFA
 COUNTER
 Catalan
@@ -168,6 +169,7 @@ Constant
 Coefficient
 Connection
 Channel
+Carry
 NLR
 Notation
 NULL
@@ -227,6 +229,7 @@ Package
 Ping
 Pong
 Packets
+Propagate
 InOrder
 ID
 In
@@ -466,6 +469,7 @@ FIN
 FI
 FO
 Fraction
+Full
 MaxSize
 MI
 Minimum
@@ -510,6 +514,7 @@ ROM
 Read
 RAII
 RST
+Ripple
 vs
 visited
 views
@@ -593,6 +598,7 @@ HT
 Hz
 Homogeneous
 Header
+Half
 Java
 GB
 GHz
@@ -601,6 +607,7 @@ Giga
 GUI
 Go
 Goroutine
+Generate
 ZFLOPS
 Zetta
 ZF
