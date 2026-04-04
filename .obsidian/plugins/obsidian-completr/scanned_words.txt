@@ -492,6 +492,7 @@ SPOOLing
 Signal
 SIGILL
 SP
+Scheduler
 First
 FCFS
 Find
