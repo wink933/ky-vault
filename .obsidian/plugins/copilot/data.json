@@ -357,7 +357,9 @@
       "apiKey": "",
       "isEmbeddingModel": false,
       "capabilities": [
-        "vision"
+        "reasoning",
+        "vision",
+        "websearch"
       ],
       "stream": true,
       "displayName": "gemma-4-e4b-it",

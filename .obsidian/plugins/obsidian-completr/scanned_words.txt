@@ -449,6 +449,7 @@ Stream
 Slice
 Standard
 Sticky
+Sign
 First
 FCFS
 Find
@@ -475,6 +476,7 @@ FI
 FO
 Fraction
 Full
+Flag
 MaxSize
 MI
 Minimum
@@ -622,4 +624,5 @@ GCC
 ZFLOPS
 Zetta
 ZF
+Zero
 qx
