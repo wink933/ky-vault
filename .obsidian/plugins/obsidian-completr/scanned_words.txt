@@ -146,6 +146,7 @@ Accept
 API
 Address
 Adder
+Asynchronism
 CDBFA
 COUNTER
 Catalan
@@ -172,6 +173,7 @@ Connection
 Channel
 Carry
 Control
+Concurrence
 NLR
 Notation
 NULL
@@ -463,6 +465,7 @@ Sign
 SRAM
 Squential
 SAM
+Sharing
 First
 FCFS
 Find
@@ -599,6 +602,7 @@ Query
 Vertex
 VIEW
 Value
+Virtual
 You
 YYYY
 with
