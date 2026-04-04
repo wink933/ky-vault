@@ -176,6 +176,8 @@ Channel
 Carry
 Control
 Concurrence
+Creation
+Context
 NLR
 Notation
 NULL
@@ -245,6 +247,7 @@ PV
 Pipe
 POSIX
 Pthreads
+Primitive
 InOrder
 ID
 In
@@ -415,6 +418,7 @@ TLB
 Table
 Thread
 TCB
+Termination
 OD
 Out
 Obsidian
