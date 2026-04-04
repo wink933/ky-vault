@@ -389,6 +389,7 @@ Tera
 TYPE
 Trap
 TCP
+TLB
 OD
 Out
 Obsidian
@@ -403,6 +404,7 @@ OF
 Operating
 Operation
 Order
+Only
 obsidian
 operand
 operator
@@ -451,6 +453,7 @@ Slice
 Standard
 Sticky
 Sign
+SRAM
 First
 FCFS
 Find
@@ -478,6 +481,7 @@ FO
 Fraction
 Full
 Flag
+Flash
 MaxSize
 MI
 Minimum
@@ -498,6 +502,10 @@ Mac
 MINIMAX
 MM
 MSB
+Memory
+Main
+MAR
+MDR
 boundary
 br
 base
@@ -527,6 +535,7 @@ RAII
 RST
 Ripple
 RCA
+RAM
 vs
 visited
 views
