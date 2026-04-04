@@ -238,6 +238,8 @@ Packets
 Propagate
 Process
 PID
+PV
+Pipe
 InOrder
 ID
 In
@@ -260,6 +262,7 @@ INTR
 IP
 Interrupt
 IRET
+IPC
 BCAEDGHFI
 BC
 BA
@@ -448,6 +451,7 @@ hlink
 hoq
 high
 homogeneous
+hello
 Stack
 Sparse
 SIZE
@@ -474,6 +478,8 @@ Squential
 SAM
 Sharing
 SPOOLing
+Signal
+SIGILL
 First
 FCFS
 Find
@@ -526,6 +532,7 @@ Memory
 Main
 MAR
 MDR
+Message
 boundary
 br
 base
@@ -620,6 +627,7 @@ with
 while
 weight
 word
+world
 under
 uQ
 udv
