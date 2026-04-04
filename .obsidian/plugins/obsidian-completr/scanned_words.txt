@@ -171,6 +171,7 @@ Coefficient
 Connection
 Channel
 Carry
+Control
 NLR
 Notation
 NULL
@@ -233,6 +234,8 @@ Ping
 Pong
 Packets
 Propagate
+Process
+PID
 InOrder
 ID
 In
@@ -273,6 +276,7 @@ Buffered
 Booth
 Bias
 BCD
+Block
 EDGHFI
 Expression
 EdgeType
@@ -296,6 +300,7 @@ Would
 Windows
 Write
 WA
+Wakeup
 DA
 Deque
 DFS
@@ -556,6 +561,7 @@ UNIX
 Utility
 UDP
 Unix
+UID
 max
 menu
 more
