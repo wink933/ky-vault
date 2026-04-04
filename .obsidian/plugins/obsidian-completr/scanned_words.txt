@@ -22,6 +22,7 @@ tp
 tR
 tuomao
 topic
+thread
 date
 data
 descendant
@@ -56,6 +57,7 @@ longrightarrow
 linear
 listener
 little
+library
 rchild
 rtag
 rear
@@ -207,6 +209,7 @@ Long
 Loopback
 Lookahead
 LSB
+Level
 PreOrder
 PostOrder
 Prefix
@@ -240,6 +243,8 @@ Process
 PID
 PV
 Pipe
+POSIX
+Pthreads
 InOrder
 ID
 In
@@ -408,6 +413,8 @@ Trap
 TCP
 TLB
 Table
+Thread
+TCB
 OD
 Out
 Obsidian
@@ -480,6 +487,7 @@ Sharing
 SPOOLing
 Signal
 SIGILL
+SP
 First
 FCFS
 Find
@@ -580,6 +588,8 @@ Utility
 UDP
 Unix
 UID
+User
+ULT
 max
 menu
 more
@@ -612,6 +622,8 @@ jlink
 jmj
 Kruskal
 KB
+Kernel
+KLT
 Queue
 QNPC
 Query
@@ -655,7 +667,9 @@ Homogeneous
 Header
 Half
 Handler
+Heap
 Java
+JVM
 GB
 GHz
 GFLOPS
