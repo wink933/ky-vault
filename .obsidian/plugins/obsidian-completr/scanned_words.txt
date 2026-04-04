@@ -303,6 +303,8 @@ Windows
 Write
 WA
 Wakeup
+Workstation
+Web
 DA
 Deque
 DFS
@@ -604,6 +606,7 @@ Vertex
 VIEW
 Value
 Virtual
+VMware
 You
 YYYY
 with
