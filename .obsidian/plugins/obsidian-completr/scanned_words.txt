@@ -258,6 +258,7 @@ Instructions
 Interruption
 INTR
 IP
+Interrupt
 BCAEDGHFI
 BC
 BA
@@ -296,6 +297,7 @@ Exa
 EF
 Exception
 Enter
+Entrance
 WPL
 Weight
 Would
@@ -401,6 +403,7 @@ TYPE
 Trap
 TCP
 TLB
+Table
 OD
 Out
 Obsidian
@@ -607,6 +610,7 @@ VIEW
 Value
 Virtual
 VMware
+Vector
 You
 YYYY
 with
@@ -639,6 +643,7 @@ Hz
 Homogeneous
 Header
 Half
+Handler
 Java
 GB
 GHz
