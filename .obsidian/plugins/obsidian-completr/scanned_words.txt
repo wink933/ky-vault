@@ -466,6 +466,7 @@ SRAM
 Squential
 SAM
 Sharing
+SPOOLing
 First
 FCFS
 Find
