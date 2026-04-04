@@ -272,6 +272,7 @@ Bug
 Buffered
 Booth
 Bias
+BCD
 EDGHFI
 Expression
 EdgeType
