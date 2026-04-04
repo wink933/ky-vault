@@ -23,8 +23,8 @@
   "githubCopilotAccessToken": "",
   "githubCopilotToken": "",
   "githubCopilotTokenExpiresAt": 0,
-  "defaultChainType": "vault_qa",
-  "defaultModelKey": "qwen2.5-7b-instruct|lm-studio",
+  "defaultChainType": "llm_chain",
+  "defaultModelKey": "gemma-4-e4b-it|lm-studio",
   "embeddingModelKey": "text-embedding-nomic-embed-text-v1.5|lm-studio",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "name": "gpt-5.2",
+      "name": "gpt-5.4",
       "provider": "openai",
       "enabled": true,
       "isBuiltIn": true,
@@ -88,6 +88,16 @@
     },
     {
       "name": "gpt-5-mini",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-5.2",
       "provider": "openai",
       "enabled": true,
       "isBuiltIn": true,
@@ -337,6 +347,21 @@
       "stream": true,
       "displayName": "本地纯文本",
       "enableCors": true
+    },
+    {
+      "name": "gemma-4-e4b-it",
+      "provider": "lm-studio",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "",
+      "apiKey": "",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "vision"
+      ],
+      "stream": true,
+      "displayName": "gemma-4-e4b-it",
+      "enableCors": true
     }
   ],
   "activeEmbeddingModels": [
@@ -388,6 +413,14 @@
     },
     {
       "name": "gemini-embedding-001",
+      "provider": "google",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true
+    },
+    {
+      "name": "gemini-embedding-2-preview",
       "provider": "google",
       "enabled": true,
       "isBuiltIn": true,
@@ -458,7 +491,7 @@
   "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
   "inlineEditCommands": [],
   "projectList": [],
-  "lastDismissedVersion": "3.2.3",
+  "lastDismissedVersion": "3.2.6",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -477,8 +510,8 @@
     "webSearch",
     "pomodoro",
     "youtubeTranscription",
-    "writeToFile",
-    "replaceInFile",
+    "writeFile",
+    "editFile",
     "updateMemory"
   ],
   "reasoningEffort": "low",
@@ -496,5 +529,6 @@
   "defaultSystemPromptTitle": "",
   "autoCompactThreshold": 128000,
   "enableMiyo": false,
-  "selfHostSearchProvider": "firecrawl"
+  "selfHostSearchProvider": "firecrawl",
+  "miyoRemoteVaultPath": ""
 }

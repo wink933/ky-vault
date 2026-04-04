@@ -55,6 +55,7 @@ logic
 longrightarrow
 linear
 listener
+little
 rchild
 rtag
 rear
@@ -202,6 +203,7 @@ Logic
 Long
 Loopback
 Lookahead
+LSB
 PreOrder
 PostOrder
 Prefix
@@ -420,6 +422,7 @@ exam
 extract
 exokernel
 exe
+endian
 head
 headvex
 hlink
@@ -491,6 +494,7 @@ MUX
 Mac
 MINIMAX
 MM
+MSB
 boundary
 br
 base
@@ -504,6 +508,8 @@ bc
 bit
 boot
 backlog
+byte
+big
 Reverse
 Row
 Root
@@ -576,6 +582,7 @@ YYYY
 with
 while
 weight
+word
 under
 uQ
 udv
@@ -611,6 +618,7 @@ GUI
 Go
 Goroutine
 Generate
+GCC
 ZFLOPS
 Zetta
 ZF
