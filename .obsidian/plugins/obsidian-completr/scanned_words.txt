@@ -86,6 +86,7 @@ point
 px
 pr
 panic
+pipe
 assets
 ancestor
 adjvex
@@ -178,6 +179,7 @@ Control
 Concurrence
 Creation
 Context
+Communication
 NLR
 Notation
 NULL
@@ -212,6 +214,7 @@ Loopback
 Lookahead
 LSB
 Level
+Light
 PreOrder
 PostOrder
 Prefix
@@ -248,6 +251,10 @@ Pipe
 POSIX
 Pthreads
 Primitive
+PTR
+Passing
+Purpose
+Processor
 InOrder
 ID
 In
@@ -271,6 +278,7 @@ IP
 Interrupt
 IRET
 IPC
+Inter
 BCAEDGHFI
 BC
 BA
@@ -310,6 +318,8 @@ EF
 Exception
 Enter
 Entrance
+EAX
+EBX
 WPL
 Weight
 Would
@@ -419,6 +429,8 @@ Table
 Thread
 TCB
 Termination
+TID
+TLS
 OD
 Out
 Obsidian
@@ -493,6 +505,7 @@ Signal
 SIGILL
 SP
 Scheduler
+Shared
 First
 FCFS
 Find
@@ -546,6 +559,7 @@ Main
 MAR
 MDR
 Message
+Mailbox
 boundary
 br
 base
@@ -576,6 +590,7 @@ RST
 Ripple
 RCA
 RAM
+Registers
 vs
 visited
 views
@@ -684,6 +699,7 @@ Go
 Goroutine
 Generate
 GCC
+General
 ZFLOPS
 Zetta
 ZF
