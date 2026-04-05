@@ -87,6 +87,7 @@ px
 pr
 panic
 pipe
+protection
 assets
 ancestor
 adjvex
@@ -119,6 +120,7 @@ free
 frac
 font
 float
+fault
 ABCDF
 ABCDEFGHI
 AB
@@ -181,6 +183,7 @@ Creation
 Context
 Communication
 Compiler
+Call
 NLR
 Notation
 NULL
@@ -256,6 +259,7 @@ PTR
 Passing
 Purpose
 Processor
+PTBR
 InOrder
 ID
 In
@@ -301,6 +305,7 @@ Booth
 Bias
 BCD
 Block
+Buffer
 EDGHFI
 Expression
 EdgeType
@@ -321,6 +326,7 @@ Enter
 Entrance
 EAX
 EBX
+Execution
 WPL
 Weight
 Would
@@ -348,6 +354,8 @@ DD
 DRAM
 DIrect
 DAM
+DMA
+DOS
 child
 cousin
 categories
@@ -432,6 +440,8 @@ TCB
 Termination
 TID
 TLS
+Timer
+Trigger
 OD
 Out
 Obsidian
@@ -507,6 +517,8 @@ SIGILL
 SP
 Scheduler
 Shared
+Segmentation
+Shell
 First
 FCFS
 Find
@@ -562,6 +574,8 @@ MDR
 Message
 Mailbox
 Metadata
+MS
+MMU
 boundary
 br
 base
@@ -593,6 +607,7 @@ Ripple
 RCA
 RAM
 Registers
+RTOS
 vs
 visited
 views
@@ -647,6 +662,7 @@ Kruskal
 KB
 Kernel
 KLT
+Kill
 Queue
 QNPC
 Query
@@ -656,6 +672,7 @@ Value
 Virtual
 VMware
 Vector
+VFS
 You
 YYYY
 with
@@ -691,6 +708,7 @@ Header
 Half
 Handler
 Heap
+Halt
 Java
 JVM
 GB
