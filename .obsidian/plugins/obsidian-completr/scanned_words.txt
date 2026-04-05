@@ -180,6 +180,7 @@ Concurrence
 Creation
 Context
 Communication
+Compiler
 NLR
 Notation
 NULL
@@ -560,6 +561,7 @@ MAR
 MDR
 Message
 Mailbox
+Metadata
 boundary
 br
 base
@@ -637,6 +639,7 @@ iCloud
 index
 into
 iOS
+inode
 jvex
 jlink
 jmj
