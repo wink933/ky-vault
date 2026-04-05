@@ -260,6 +260,7 @@ Passing
 Purpose
 Processor
 PTBR
+Program
 InOrder
 ID
 In
@@ -306,6 +307,7 @@ Bias
 BCD
 Block
 Buffer
+Bit
 EDGHFI
 Expression
 EdgeType
@@ -336,6 +338,7 @@ WA
 Wakeup
 Workstation
 Web
+Word
 DA
 Deque
 DFS
@@ -519,6 +522,7 @@ Scheduler
 Shared
 Segmentation
 Shell
+Status
 First
 FCFS
 Find
@@ -576,6 +580,7 @@ Mailbox
 Metadata
 MS
 MMU
+Mode
 boundary
 br
 base
