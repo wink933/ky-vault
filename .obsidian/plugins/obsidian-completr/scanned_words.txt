@@ -308,6 +308,8 @@ BCD
 Block
 Buffer
 Bit
+Booting
+Bootmgr
 EDGHFI
 Expression
 EdgeType
@@ -359,6 +361,7 @@ DIrect
 DAM
 DMA
 DOS
+Disk
 child
 cousin
 categories
@@ -581,6 +584,7 @@ Metadata
 MS
 MMU
 Mode
+Magic
 boundary
 br
 base
@@ -726,6 +730,7 @@ Goroutine
 Generate
 GCC
 General
+GRUB
 ZFLOPS
 Zetta
 ZF
