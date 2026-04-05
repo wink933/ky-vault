@@ -152,6 +152,7 @@ API
 Address
 Adder
 Asynchronism
+Active
 CDBFA
 COUNTER
 Catalan
@@ -196,6 +197,7 @@ Not
 Number
 Non
 Network
+NTFS
 LNR
 LRN
 LIFO
@@ -261,6 +263,7 @@ Purpose
 Processor
 PTBR
 Program
+Power
 InOrder
 ID
 In
@@ -331,6 +334,7 @@ Entrance
 EAX
 EBX
 Execution
+EXT
 WPL
 Weight
 Would
@@ -448,6 +452,7 @@ TID
 TLS
 Timer
 Trigger
+Test
 OD
 Out
 Obsidian
@@ -526,6 +531,8 @@ Shared
 Segmentation
 Shell
 Status
+SSD
+Self
 First
 FCFS
 Find
@@ -554,6 +561,7 @@ Fraction
 Full
 Flag
 Flash
+FAT
 MaxSize
 MI
 Minimum
@@ -585,6 +593,8 @@ MS
 MMU
 Mode
 Magic
+Manager
+Master
 boundary
 br
 base
@@ -617,6 +627,7 @@ RCA
 RAM
 Registers
 RTOS
+Record
 vs
 visited
 views
@@ -636,6 +647,7 @@ Unix
 UID
 User
 ULT
+Ubuntu
 max
 menu
 more
