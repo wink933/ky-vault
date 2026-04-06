@@ -560,6 +560,7 @@ SJF
 SPF
 Symmetric
 SMP
+Server
 First
 FCFS
 Find
@@ -783,3 +784,4 @@ Zetta
 ZF
 Zero
 qx
+XP
