@@ -276,6 +276,7 @@ Program
 Power
 PPID
 Pending
+PROM
 InOrder
 ID
 In
@@ -350,6 +351,7 @@ EBX
 Execution
 EXT
 Empty
+EPROM
 WPL
 Weight
 Would
@@ -384,6 +386,7 @@ Disk
 Dispatcher
 Dispatching
 Dispatch
+Drive
 child
 cousin
 categories
@@ -561,6 +564,9 @@ SPF
 Symmetric
 SMP
 Server
+SDRAM
+Solid
+State
 First
 FCFS
 Find
@@ -629,6 +635,8 @@ Map
 Mutex
 MultiProcessing
 Monitor
+MOS
+MROM
 boundary
 br
 base
