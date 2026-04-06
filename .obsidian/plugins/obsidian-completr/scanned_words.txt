@@ -582,6 +582,7 @@ Full
 Flag
 Flash
 FAT
+FCB
 MaxSize
 MI
 Minimum
