@@ -270,6 +270,7 @@ PTBR
 Program
 Power
 PPID
+Pending
 InOrder
 ID
 In
@@ -342,6 +343,7 @@ EAX
 EBX
 Execution
 EXT
+Empty
 WPL
 Weight
 Would
@@ -543,6 +545,8 @@ Shell
 Status
 SSD
 Self
+Semaphore
+Sync
 First
 FCFS
 Find
@@ -605,6 +609,9 @@ Mode
 Magic
 Manager
 Master
+Microkernel
+Map
+Mutex
 boundary
 br
 base
