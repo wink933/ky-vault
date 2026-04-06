@@ -226,6 +226,7 @@ LSB
 Level
 Light
 LUT
+Latency
 PreOrder
 PostOrder
 Prefix
@@ -377,6 +378,8 @@ DMA
 DOS
 Disk
 Dispatcher
+Dispatching
+Dispatch
 child
 cousin
 categories
@@ -548,6 +551,7 @@ SSD
 Self
 Semaphore
 Sync
+Scheduling
 First
 FCFS
 Find
