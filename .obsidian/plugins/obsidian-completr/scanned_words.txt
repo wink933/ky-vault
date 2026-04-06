@@ -121,6 +121,7 @@ frac
 font
 float
 fault
+fd
 ABCDF
 ABCDEFGHI
 AB
@@ -185,6 +186,7 @@ Context
 Communication
 Compiler
 Call
+Counter
 NLR
 Notation
 NULL
@@ -221,6 +223,7 @@ Lookahead
 LSB
 Level
 Light
+LUT
 PreOrder
 PostOrder
 Prefix
@@ -313,6 +316,7 @@ Buffer
 Bit
 Booting
 Bootmgr
+Blocked
 EDGHFI
 Expression
 EdgeType
@@ -366,6 +370,7 @@ DAM
 DMA
 DOS
 Disk
+Dispatcher
 child
 cousin
 categories
@@ -453,6 +458,7 @@ TLS
 Timer
 Trigger
 Test
+Time
 OD
 Out
 Obsidian
@@ -628,6 +634,9 @@ RAM
 Registers
 RTOS
 Record
+Register
+Running
+Ready
 vs
 visited
 views
