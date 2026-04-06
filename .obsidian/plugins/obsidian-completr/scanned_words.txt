@@ -295,6 +295,7 @@ Interrupt
 IRET
 IPC
 Inter
+Idle
 BCAEDGHFI
 BC
 BA
