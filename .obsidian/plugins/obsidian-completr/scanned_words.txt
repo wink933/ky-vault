@@ -553,6 +553,8 @@ Self
 Semaphore
 Sync
 Scheduling
+SJF
+SPF
 First
 FCFS
 Find
