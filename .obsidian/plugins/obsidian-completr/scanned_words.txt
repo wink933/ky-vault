@@ -189,6 +189,7 @@ Compiler
 Call
 Counter
 Create
+Clock
 NLR
 Notation
 NULL
