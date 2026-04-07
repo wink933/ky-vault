@@ -231,6 +231,7 @@ Level
 Light
 LUT
 Latency
+Leveling
 PreOrder
 PostOrder
 Prefix
@@ -362,6 +363,7 @@ Wakeup
 Workstation
 Web
 Word
+Wear
 DA
 Deque
 DFS
