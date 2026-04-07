@@ -67,6 +67,7 @@ rWD
 right
 read
 replace
+release
 pre
 png
 parent
@@ -107,6 +108,8 @@ app
 ate
 aligned
 agent
+acquire
+available
 file
 front
 first
@@ -233,6 +236,7 @@ Light
 LUT
 Latency
 Leveling
+Lock
 PreOrder
 PostOrder
 Prefix
@@ -439,6 +443,7 @@ summary
 subterranean
 star
 style
+signal
 nodes
 next
 nn
@@ -574,6 +579,7 @@ SDRAM
 Solid
 State
 Swap
+Spinlock
 First
 FCFS
 Find
@@ -688,6 +694,7 @@ varphi
 vdu
 vdx
 vault
+value
 Union
 ULhxiV
 Users
@@ -714,6 +721,7 @@ module
 miss
 macOS
 ms
+mutex
 info
 ivex
 ilink
@@ -754,6 +762,7 @@ while
 weight
 word
 world
+wait
 under
 uQ
 udv
