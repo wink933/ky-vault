@@ -161,6 +161,7 @@ Asynchronism
 Active
 Asymmetric
 AMP
+Allocate
 CDBFA
 COUNTER
 Catalan
@@ -239,6 +240,7 @@ Latency
 Leveling
 Lock
 LS
+LFU
 PreOrder
 PostOrder
 Prefix
@@ -338,6 +340,7 @@ Booting
 Bootmgr
 Blocked
 Bus
+Back
 EDGHFI
 Expression
 EdgeType
@@ -491,6 +494,7 @@ Time
 Turnaround
 TestAndSet
 TS
+Through
 OD
 Out
 Obsidian
@@ -691,6 +695,7 @@ Register
 Running
 Ready
 RAID
+RAND
 vs
 visited
 views
