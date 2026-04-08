@@ -204,6 +204,7 @@ Counter
 Create
 Clock
 CB
+Condition
 NLR
 Notation
 NULL
@@ -790,6 +791,7 @@ Virtual
 VMware
 Vector
 VFS
+Variable
 You
 YYYY
 with
