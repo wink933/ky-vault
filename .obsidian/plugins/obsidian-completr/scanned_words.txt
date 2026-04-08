@@ -242,6 +242,7 @@ Leveling
 Lock
 LS
 LFU
+Least
 PreOrder
 PostOrder
 Prefix
@@ -663,6 +664,7 @@ Monitor
 MOS
 MROM
 Mapping
+Miss
 boundary
 br
 base
@@ -701,6 +703,8 @@ Running
 Ready
 RAID
 RAND
+Recently
+Rank
 vs
 visited
 views
@@ -722,6 +726,7 @@ UID
 User
 ULT
 Ubuntu
+Used
 max
 menu
 more
@@ -807,6 +812,7 @@ Half
 Handler
 Heap
 Halt
+Hit
 Java
 JVM
 GB
