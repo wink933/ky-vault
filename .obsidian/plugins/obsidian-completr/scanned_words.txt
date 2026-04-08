@@ -317,6 +317,8 @@ IPC
 Inter
 Idle
 Index
+Inclusive
+Invalidate
 BCAEDGHFI
 BC
 BA
