@@ -162,6 +162,7 @@ Active
 Asymmetric
 AMP
 Allocate
+Associative
 CDBFA
 COUNTER
 Catalan
@@ -313,6 +314,7 @@ IRET
 IPC
 Inter
 Idle
+Index
 BCAEDGHFI
 BC
 BA
@@ -511,6 +513,7 @@ Operation
 Order
 Only
 Overhead
+Offset
 obsidian
 operand
 operator
@@ -588,6 +591,7 @@ Solid
 State
 Swap
 Spinlock
+Set
 First
 FCFS
 Find
@@ -658,6 +662,7 @@ MultiProcessing
 Monitor
 MOS
 MROM
+Mapping
 boundary
 br
 base
@@ -772,6 +777,7 @@ weight
 word
 world
 wait
+way
 under
 uQ
 udv
