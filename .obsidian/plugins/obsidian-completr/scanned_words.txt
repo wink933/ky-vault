@@ -290,6 +290,7 @@ PPID
 Pending
 PROM
 Peterson
+Pipeline
 InOrder
 ID
 In
@@ -593,6 +594,7 @@ State
 Swap
 Spinlock
 Set
+Size
 First
 FCFS
 Find
