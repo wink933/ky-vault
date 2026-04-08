@@ -37,6 +37,8 @@ db
 dt
 dots
 double
+dad
+daughter
 lchild
 ltag
 last
@@ -90,6 +92,7 @@ pr
 panic
 pipe
 protection
+plate
 assets
 ancestor
 adjvex
@@ -110,6 +113,7 @@ aligned
 agent
 acquire
 available
+apple
 file
 front
 first
@@ -127,6 +131,7 @@ float
 fault
 fd
 fork
+full
 ABCDF
 ABCDEFGHI
 AB
@@ -434,6 +439,8 @@ color
 ccc
 char
 conversion
+class
+condition
 sibling
 separator
 symbol
@@ -457,6 +464,7 @@ subterranean
 star
 style
 signal
+son
 nodes
 next
 nn
@@ -526,6 +534,7 @@ oXAaXF
 okw
 one
 offset
+orange
 git
 getAbstractFileByPath
 geqslant
@@ -539,6 +548,7 @@ extract
 exokernel
 exe
 endian
+empty
 head
 headvex
 hlink
@@ -745,6 +755,8 @@ miss
 macOS
 ms
 mutex
+monitor
+mom
 info
 ivex
 ilink
