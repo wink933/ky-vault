@@ -253,6 +253,7 @@ Lock
 LS
 LFU
 Least
+LBA
 PreOrder
 PostOrder
 Prefix
@@ -303,6 +304,7 @@ Peterson
 Pipeline
 Philosophers
 Problem
+Page
 InOrder
 ID
 In
@@ -651,6 +653,7 @@ Flash
 FAT
 FCB
 Finish
+FTL
 MaxSize
 MI
 Minimum
