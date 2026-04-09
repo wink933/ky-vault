@@ -168,6 +168,8 @@ Asymmetric
 AMP
 Allocate
 Associative
+Available
+Allocation
 CDBFA
 COUNTER
 Catalan
@@ -219,6 +221,7 @@ Non
 Network
 NTFS
 NSC
+Need
 LNR
 LRN
 LIFO
@@ -390,6 +393,7 @@ Workstation
 Web
 Word
 Wear
+Work
 DA
 Deque
 DFS
@@ -642,6 +646,7 @@ Flag
 Flash
 FAT
 FCB
+Finish
 MaxSize
 MI
 Minimum
@@ -684,6 +689,7 @@ MOS
 MROM
 Mapping
 Miss
+Max
 boundary
 br
 base
