@@ -170,6 +170,7 @@ Allocate
 Associative
 Available
 Allocation
+Avoidance
 CDBFA
 COUNTER
 Catalan
@@ -358,6 +359,7 @@ Bootmgr
 Blocked
 Bus
 Back
+Banker
 EDGHFI
 Expression
 EdgeType
@@ -474,6 +476,7 @@ star
 style
 signal
 son
+safe
 nodes
 next
 nn
@@ -616,6 +619,7 @@ Swap
 Spinlock
 Set
 Size
+Safety
 First
 FCFS
 Find
@@ -730,6 +734,7 @@ RAID
 RAND
 Recently
 Rank
+Request
 vs
 visited
 views
