@@ -297,6 +297,8 @@ Pending
 PROM
 Peterson
 Pipeline
+Philosophers
+Problem
 InOrder
 ID
 In
@@ -414,6 +416,8 @@ Dispatching
 Dispatch
 Drive
 DB
+Dining
+Deadlock
 child
 cousin
 categories
