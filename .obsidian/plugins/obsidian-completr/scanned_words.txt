@@ -337,6 +337,7 @@ Index
 Inclusive
 Invalidate
 IR
+Inverse
 BCAEDGHFI
 BC
 BA
@@ -706,6 +707,7 @@ MROM
 Mapping
 Miss
 Max
+Matrix
 boundary
 br
 base
