@@ -173,6 +173,8 @@ Available
 Allocation
 Avoidance
 AX
+Architecture
+Alder
 CDBFA
 COUNTER
 Catalan
@@ -210,6 +212,8 @@ Create
 Clock
 CB
 Condition
+Chip
+Cycle
 NLR
 Notation
 NULL
@@ -258,6 +262,7 @@ Least
 LBA
 Length
 Lightweight
+Lake
 PreOrder
 PostOrder
 Prefix
@@ -340,6 +345,8 @@ Inclusive
 Invalidate
 IR
 Inverse
+ISA
+Interleaved
 BCAEDGHFI
 BC
 BA
@@ -370,6 +377,7 @@ Bus
 Back
 Banker
 BX
+Burst
 EDGHFI
 Expression
 EdgeType
@@ -394,6 +402,7 @@ Execution
 EXT
 Empty
 EPROM
+Enable
 WPL
 Weight
 Would
@@ -635,6 +644,11 @@ Set
 Size
 Safety
 Shear
+SIMD
+Skylake
+Select
+Start
+Simultaneous
 First
 FCFS
 Find
@@ -726,6 +740,7 @@ boot
 backlog
 byte
 big
+bits
 Reverse
 Row
 Root
@@ -752,6 +767,8 @@ RAND
 Recently
 Rank
 Request
+Refresh
+Rewrite
 vs
 visited
 views
