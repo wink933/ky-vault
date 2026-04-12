@@ -257,6 +257,7 @@ LFU
 Least
 LBA
 Length
+Lightweight
 PreOrder
 PostOrder
 Prefix
@@ -308,6 +309,7 @@ Pipeline
 Philosophers
 Problem
 Page
+Parallel
 InOrder
 ID
 In
@@ -532,6 +534,7 @@ TestAndSet
 TS
 Through
 Transparency
+Throughput
 OD
 Out
 Obsidian
@@ -861,6 +864,7 @@ Handler
 Heap
 Halt
 Hit
+HTTP
 Java
 JVM
 GB
