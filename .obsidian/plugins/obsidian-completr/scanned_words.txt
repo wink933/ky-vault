@@ -39,6 +39,7 @@ dots
 double
 dad
 daughter
+dword
 lchild
 ltag
 last
@@ -171,6 +172,7 @@ Associative
 Available
 Allocation
 Avoidance
+AX
 CDBFA
 COUNTER
 Catalan
@@ -254,6 +256,7 @@ LS
 LFU
 Least
 LBA
+Length
 PreOrder
 PostOrder
 Prefix
@@ -333,6 +336,7 @@ Idle
 Index
 Inclusive
 Invalidate
+IR
 BCAEDGHFI
 BC
 BA
@@ -362,6 +366,7 @@ Blocked
 Bus
 Back
 Banker
+BX
 EDGHFI
 Expression
 EdgeType
@@ -525,6 +530,7 @@ Turnaround
 TestAndSet
 TS
 Through
+Transparency
 OD
 Out
 Obsidian
@@ -865,6 +871,7 @@ Generate
 GCC
 General
 GRUB
+GPRs
 ZFLOPS
 Zetta
 ZF
