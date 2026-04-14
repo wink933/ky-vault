@@ -180,6 +180,7 @@ AND
 ACC
 Addressing
 Alignment
+Adelaide
 CDBFA
 COUNTER
 Catalan
@@ -420,6 +421,7 @@ EPROM
 Enable
 Expanding
 Endianness
+EA
 WPL
 Weight
 Would
