@@ -291,6 +291,7 @@ Lightweight
 Lake
 LOAD
 Little
+Less
 PreOrder
 PostOrder
 Prefix
@@ -457,6 +458,7 @@ EIP
 ESI
 EDI
 EFLAGS
+Equal
 WPL
 Weight
 Would
@@ -667,6 +669,7 @@ esi
 edi
 esp
 ebp
+else
 head
 headvex
 hlink
@@ -926,6 +929,7 @@ inode
 inc
 imul
 idiv
+if
 jvex
 jlink
 jmj
@@ -993,6 +997,7 @@ HA
 Java
 JVM
 JMP
+Jump
 GB
 GHz
 GFLOPS
@@ -1006,6 +1011,7 @@ General
 GRUB
 GPRs
 GDB
+Greater
 ZFLOPS
 Zetta
 ZF
