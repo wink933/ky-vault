@@ -177,6 +177,7 @@ Architecture
 Alder
 ADD
 AND
+ACC
 CDBFA
 COUNTER
 Catalan
