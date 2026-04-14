@@ -178,6 +178,8 @@ Alder
 ADD
 AND
 ACC
+Addressing
+Alignment
 CDBFA
 COUNTER
 Catalan
@@ -417,6 +419,7 @@ Empty
 EPROM
 Enable
 Expanding
+Endianness
 WPL
 Weight
 Would
@@ -674,6 +677,7 @@ Sylvester
 STORE
 SUB
 SS
+Sum
 First
 FCFS
 Find
@@ -912,6 +916,7 @@ Heap
 Halt
 Hit
 HTTP
+HA
 Java
 JVM
 JMP
