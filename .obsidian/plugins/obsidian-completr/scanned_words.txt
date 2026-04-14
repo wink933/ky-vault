@@ -414,6 +414,7 @@ EXT
 Empty
 EPROM
 Enable
+Expanding
 WPL
 Weight
 Would
@@ -578,6 +579,7 @@ Only
 Overhead
 Offset
 OP
+Opcode
 obsidian
 operand
 operator
