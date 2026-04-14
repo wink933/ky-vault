@@ -364,6 +364,7 @@ Independent
 INC
 IX
 Immediate
+Indirect
 BCAEDGHFI
 BC
 BA
@@ -398,6 +399,7 @@ Burst
 BRANCH
 Big
 BR
+Base
 EDGHFI
 Expression
 EdgeType
