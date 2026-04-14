@@ -175,6 +175,8 @@ Avoidance
 AX
 Architecture
 Alder
+ADD
+AND
 CDBFA
 COUNTER
 Catalan
@@ -229,6 +231,7 @@ Network
 NTFS
 NSC
 Need
+NOT
 LNR
 LRN
 LIFO
@@ -263,6 +266,7 @@ LBA
 Length
 Lightweight
 Lake
+LOAD
 PreOrder
 PostOrder
 Prefix
@@ -315,6 +319,8 @@ Philosophers
 Problem
 Page
 Parallel
+PUSH
+POP
 InOrder
 ID
 In
@@ -347,6 +353,9 @@ IR
 Inverse
 ISA
 Interleaved
+Independence
+Independent
+INC
 BCAEDGHFI
 BC
 BA
@@ -378,6 +387,7 @@ Back
 Banker
 BX
 Burst
+BRANCH
 EDGHFI
 Expression
 EdgeType
@@ -445,6 +455,10 @@ Dining
 Deadlock
 Device
 Driver
+Dependence
+Dependent
+DIV
+DEC
 child
 cousin
 categories
@@ -544,6 +558,7 @@ TS
 Through
 Transparency
 Throughput
+TRAP
 OD
 Out
 Obsidian
@@ -561,6 +576,7 @@ Order
 Only
 Overhead
 Offset
+OP
 obsidian
 operand
 operator
@@ -650,6 +666,8 @@ Select
 Start
 Simultaneous
 Sylvester
+STORE
+SUB
 First
 FCFS
 Find
@@ -726,6 +744,8 @@ Mapping
 Miss
 Max
 Matrix
+MOV
+MUL
 boundary
 br
 base
@@ -770,6 +790,8 @@ Rank
 Request
 Refresh
 Rewrite
+Representation
+RET
 vs
 visited
 views
@@ -885,6 +907,7 @@ Hit
 HTTP
 Java
 JVM
+JMP
 GB
 GHz
 GFLOPS
@@ -904,3 +927,4 @@ Zero
 qx
 qq
 XP
+XOR
