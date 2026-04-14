@@ -669,6 +669,7 @@ Simultaneous
 Sylvester
 STORE
 SUB
+SS
 First
 FCFS
 Find
