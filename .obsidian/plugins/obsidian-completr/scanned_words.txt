@@ -806,6 +806,7 @@ Max
 Matrix
 MOV
 MUL
+Mask
 boundary
 br
 base
