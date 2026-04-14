@@ -220,6 +220,7 @@ CB
 Condition
 Chip
 Cycle
+CH
 NLR
 Notation
 NULL
@@ -361,6 +362,7 @@ Interleaved
 Independence
 Independent
 INC
+IX
 BCAEDGHFI
 BC
 BA
@@ -394,6 +396,7 @@ BX
 Burst
 BRANCH
 Big
+BR
 EDGHFI
 Expression
 EdgeType
