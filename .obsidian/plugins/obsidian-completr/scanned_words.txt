@@ -23,6 +23,7 @@ tR
 tuomao
 topic
 thread
+test
 date
 data
 descendant
@@ -40,6 +41,10 @@ double
 dad
 daughter
 dword
+dh
+dl
+dec
+div
 lchild
 ltag
 last
@@ -62,6 +67,7 @@ listener
 little
 library
 lock
+label
 rchild
 rtag
 rear
@@ -71,6 +77,7 @@ right
 read
 replace
 release
+ret
 pre
 png
 parent
@@ -94,6 +101,8 @@ panic
 pipe
 protection
 plate
+push
+pop
 assets
 ancestor
 adjvex
@@ -115,6 +124,9 @@ agent
 acquire
 available
 apple
+ah
+al
+add
 file
 front
 first
@@ -181,6 +193,8 @@ ACC
 Addressing
 Alignment
 Adelaide
+AH
+AL
 CDBFA
 COUNTER
 Catalan
@@ -221,6 +235,7 @@ Condition
 Chip
 Cycle
 CH
+CX
 NLR
 Notation
 NULL
@@ -428,6 +443,12 @@ Enable
 Expanding
 Endianness
 EA
+ECX
+EDX
+Extended
+EBP
+ESP
+EIP
 WPL
 Weight
 Would
@@ -475,6 +496,7 @@ Dependent
 DIV
 DEC
 Direct
+DX
 child
 cousin
 categories
@@ -503,6 +525,10 @@ char
 conversion
 class
 condition
+ch
+cl
+cmp
+call
 sibling
 separator
 symbol
@@ -528,6 +554,9 @@ style
 signal
 son
 safe
+sub
+shl
+shr
 nodes
 next
 nn
@@ -540,6 +569,8 @@ newMarker
 newContent
 ns
 notes
+not
+neg
 TD
 Top
 TRUE
@@ -603,6 +634,7 @@ okw
 one
 offset
 orange
+or
 git
 getAbstractFileByPath
 geqslant
@@ -617,6 +649,14 @@ exokernel
 exe
 endian
 empty
+eax
+ebx
+ecx
+edx
+esi
+edi
+esp
+ebp
 head
 headvex
 hlink
@@ -782,6 +822,8 @@ backlog
 byte
 big
 bits
+bh
+bl
 Reverse
 Row
 Root
@@ -850,6 +892,8 @@ ms
 mutex
 monitor
 mom
+mov
+mul
 info
 ivex
 ilink
@@ -865,9 +909,14 @@ index
 into
 iOS
 inode
+inc
+imul
+idiv
 jvex
 jlink
 jmj
+jmp
+jcondition
 Kruskal
 KB
 Kernel
@@ -914,6 +963,7 @@ xFFFF
 xEF
 xFFFFEF
 xdx
+xor
 Hash
 HT
 Hz
@@ -941,6 +991,7 @@ GCC
 General
 GRUB
 GPRs
+GDB
 ZFLOPS
 Zetta
 ZF
