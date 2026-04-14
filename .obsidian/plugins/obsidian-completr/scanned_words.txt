@@ -195,6 +195,8 @@ Alignment
 Adelaide
 AH
 AL
+Array
+Accumulator
 CDBFA
 COUNTER
 Catalan
@@ -236,6 +238,7 @@ Chip
 Cycle
 CH
 CX
+Count
 NLR
 Notation
 NULL
@@ -342,6 +345,7 @@ Page
 Parallel
 PUSH
 POP
+Pointer
 InOrder
 ID
 In
@@ -415,6 +419,7 @@ BRANCH
 Big
 BR
 Base
+BP
 EDGHFI
 Expression
 EdgeType
@@ -449,6 +454,9 @@ Extended
 EBP
 ESP
 EIP
+ESI
+EDI
+EFLAGS
 WPL
 Weight
 Would
@@ -497,6 +505,8 @@ DIV
 DEC
 Direct
 DX
+Destination
+DI
 child
 cousin
 categories
@@ -727,6 +737,9 @@ STORE
 SUB
 SS
 Sum
+Source
+SI
+SIL
 First
 FCFS
 Find
