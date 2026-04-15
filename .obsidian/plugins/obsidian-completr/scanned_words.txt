@@ -24,6 +24,7 @@ tuomao
 topic
 thread
 test
+temp
 date
 data
 descendant
@@ -69,6 +70,7 @@ library
 lock
 label
 lea
+leave
 rchild
 rtag
 rear
@@ -544,6 +546,7 @@ ch
 cl
 cmp
 call
+caller
 sibling
 separator
 symbol
@@ -572,6 +575,7 @@ safe
 sub
 shl
 shr
+sum
 nodes
 next
 nn
