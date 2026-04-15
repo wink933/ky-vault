@@ -197,6 +197,7 @@ AH
 AL
 Array
 Accumulator
+AT
 CDBFA
 COUNTER
 Catalan
@@ -935,6 +936,8 @@ jlink
 jmj
 jmp
 jcondition
+jle
+jg
 Kruskal
 KB
 Kernel
