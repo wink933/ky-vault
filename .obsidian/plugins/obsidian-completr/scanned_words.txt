@@ -468,6 +468,7 @@ ESI
 EDI
 EFLAGS
 Equal
+Exokernel
 WPL
 Weight
 Would
@@ -1018,6 +1019,7 @@ Halt
 Hit
 HTTP
 HA
+HarmonyOS
 Java
 JVM
 JMP
