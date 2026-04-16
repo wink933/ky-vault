@@ -248,6 +248,7 @@ Cycle
 CH
 CX
 Count
+Code
 NLR
 Notation
 NULL
@@ -356,6 +357,7 @@ Parallel
 PUSH
 POP
 Pointer
+Protection
 InOrder
 ID
 In
@@ -759,6 +761,7 @@ Sum
 Source
 SI
 SIL
+Segfault
 First
 FCFS
 Find
@@ -889,6 +892,7 @@ Refresh
 Rewrite
 Representation
 RET
+Reentrant
 vs
 visited
 views
