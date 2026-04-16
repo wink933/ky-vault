@@ -206,6 +206,7 @@ Array
 Accumulator
 AT
 ARM
+Absolute
 CDBFA
 COUNTER
 Catalan
@@ -302,6 +303,10 @@ Lake
 LOAD
 Little
 Less
+Loader
+Loading
+Linking
+Load
 PreOrder
 PostOrder
 Prefix
@@ -521,6 +526,8 @@ Direct
 DX
 Destination
 DI
+Dynamic
+DLL
 child
 cousin
 categories
@@ -634,6 +641,7 @@ Through
 Transparency
 Throughput
 TRAP
+Tradeoff
 OD
 Out
 Obsidian
@@ -762,6 +770,9 @@ Source
 SI
 SIL
 Segfault
+Static
+SO
+Space
 First
 FCFS
 Find
@@ -893,6 +904,8 @@ Rewrite
 Representation
 RET
 Reentrant
+Relocation
+Run
 vs
 visited
 views
