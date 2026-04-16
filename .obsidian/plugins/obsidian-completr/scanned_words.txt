@@ -365,6 +365,7 @@ PUSH
 POP
 Pointer
 Protection
+PTE
 InOrder
 ID
 In
@@ -812,6 +813,7 @@ Finish
 FTL
 Fetch
 Fit
+Frame
 MaxSize
 MI
 Minimum
