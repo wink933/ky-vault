@@ -250,6 +250,7 @@ CH
 CX
 Count
 Code
+Compaction
 NLR
 Notation
 NULL
@@ -266,6 +267,7 @@ NTFS
 NSC
 Need
 NOT
+Next
 LNR
 LRN
 LIFO
@@ -437,6 +439,7 @@ Big
 BR
 Base
 BP
+Best
 EDGHFI
 Expression
 EdgeType
@@ -488,6 +491,7 @@ Web
 Word
 Wear
 Work
+Worst
 DA
 Deque
 DFS
@@ -806,6 +810,7 @@ FCB
 Finish
 FTL
 Fetch
+Fit
 MaxSize
 MI
 Minimum
