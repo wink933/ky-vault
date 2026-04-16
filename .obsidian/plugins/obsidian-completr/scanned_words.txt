@@ -440,6 +440,7 @@ BR
 Base
 BP
 Best
+Buddy
 EDGHFI
 Expression
 EdgeType
@@ -989,6 +990,7 @@ Kill
 Queue
 QNPC
 Query
+Quick
 Vertex
 VIEW
 Value
