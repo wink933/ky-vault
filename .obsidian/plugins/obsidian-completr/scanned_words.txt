@@ -140,6 +140,7 @@ apple
 ah
 al
 add
+atomic
 file
 front
 first
@@ -160,6 +161,7 @@ fork
 full
 frames
 findings
+formulation
 ABCDF
 ABCDEFGHI
 AB
@@ -439,6 +441,7 @@ IX
 Immediate
 Indirect
 Image
+Initial
 BCAEDGHFI
 BC
 BA
@@ -523,6 +526,7 @@ EI
 Enumeration
 Environment
 Episodic
+Execute
 WPL
 Weight
 Would
@@ -538,6 +542,7 @@ Work
 Worst
 Working
 Wumpus
+World
 DA
 Deque
 DFS
@@ -617,6 +622,7 @@ call
 caller
 count
 clock
+cost
 sibling
 separator
 symbol
@@ -653,6 +659,8 @@ sequence
 system
 staff
 symptoms
+solving
+state
 nodes
 next
 nn
@@ -708,6 +716,7 @@ Thrashing
 TELL
 Task
 Taxi
+Transition
 OD
 Out
 Obsidian
@@ -1055,6 +1064,7 @@ mom
 mov
 mul
 measure
+model
 info
 ivex
 ilink
@@ -1105,6 +1115,7 @@ Vector
 VFS
 Variable
 Variables
+Vacuum
 You
 YYYY
 with
@@ -1173,6 +1184,7 @@ GDB
 Greater
 Graph
 GPS
+Goal
 ZFLOPS
 Zetta
 ZF
