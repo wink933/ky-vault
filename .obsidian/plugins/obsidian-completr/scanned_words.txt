@@ -26,6 +26,7 @@ thread
 test
 temp
 then
+tests
 date
 data
 descendant
@@ -50,6 +51,7 @@ div
 do
 diagnosis
 dynamic
+diagnoses
 lchild
 ltag
 last
@@ -113,6 +115,7 @@ plate
 push
 pop
 ptr
+patient
 assets
 ancestor
 adjvex
@@ -156,6 +159,7 @@ fd
 fork
 full
 frames
+findings
 ABCDF
 ABCDEFGHI
 AB
@@ -395,6 +399,7 @@ Percept
 Prior
 Perfection
 Partially
+Patient
 InOrder
 ID
 In
@@ -576,6 +581,7 @@ DLL
 DPLL
 Deterministic
 Discrete
+Display
 child
 cousin
 categories
@@ -645,6 +651,8 @@ sal
 step
 sequence
 system
+staff
+symptoms
 nodes
 next
 nn
@@ -758,6 +766,7 @@ esp
 ebp
 else
 expr
+entry
 head
 headvex
 hlink
@@ -765,6 +774,7 @@ hoq
 high
 homogeneous
 hello
+hospital
 Stack
 Sparse
 SIZE
@@ -1081,6 +1091,7 @@ Kernel
 KLT
 Kill
 Known
+Keyboard
 Queue
 QNPC
 Query
@@ -1141,6 +1152,7 @@ HA
 HarmonyOS
 HMM
 Humanly
+Healthy
 Java
 JVM
 JMP
@@ -1167,5 +1179,6 @@ ZF
 Zero
 qx
 qq
+questions
 XP
 XOR
