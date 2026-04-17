@@ -84,6 +84,7 @@ replace
 release
 ret
 result
+rationally
 pre
 png
 parent
@@ -214,6 +215,7 @@ Actuators
 Admissibility
 Arc
 ASK
+Acting
 CDBFA
 COUNTER
 Catalan
@@ -625,6 +627,7 @@ shr
 sum
 statement
 sal
+step
 nodes
 next
 nn
@@ -930,6 +933,7 @@ bits
 bh
 bl
 body
+by
 Reverse
 Row
 Root
@@ -965,6 +969,7 @@ Relocation
 Run
 Resident
 Resolution
+Rationally
 vs
 visited
 views
@@ -1101,6 +1106,7 @@ HTTP
 HA
 HarmonyOS
 HMM
+Humanly
 Java
 JVM
 JMP
