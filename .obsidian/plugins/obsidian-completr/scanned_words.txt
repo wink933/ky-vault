@@ -152,6 +152,7 @@ fault
 fd
 fork
 full
+frames
 ABCDF
 ABCDEFGHI
 AB
@@ -828,6 +829,7 @@ Fetch
 Fit
 Frame
 File
+Free
 MaxSize
 MI
 Minimum
@@ -928,6 +930,7 @@ RET
 Reentrant
 Relocation
 Run
+Resident
 vs
 visited
 views
