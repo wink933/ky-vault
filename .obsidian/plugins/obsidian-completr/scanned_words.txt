@@ -252,6 +252,7 @@ CX
 Count
 Code
 Compaction
+CLOCK
 NLR
 Notation
 NULL
@@ -483,6 +484,7 @@ EDI
 EFLAGS
 Equal
 Exokernel
+EAT
 WPL
 Weight
 Would
@@ -496,6 +498,7 @@ Word
 Wear
 Work
 Worst
+Working
 DA
 Deque
 DFS
