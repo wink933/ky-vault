@@ -207,6 +207,7 @@ Accumulator
 AT
 ARM
 Absolute
+Area
 CDBFA
 COUNTER
 Catalan
@@ -404,6 +405,7 @@ INC
 IX
 Immediate
 Indirect
+Image
 BCAEDGHFI
 BC
 BA
@@ -648,6 +650,8 @@ Transparency
 Throughput
 TRAP
 Tradeoff
+Terminated
+Thrashing
 OD
 Out
 Obsidian
@@ -677,6 +681,7 @@ one
 offset
 orange
 or
+out
 git
 getAbstractFileByPath
 geqslant
@@ -779,6 +784,9 @@ Segfault
 Static
 SO
 Space
+Suspend
+Swapping
+Suspended
 First
 FCFS
 Find
@@ -814,6 +822,7 @@ FTL
 Fetch
 Fit
 Frame
+File
 MaxSize
 MI
 Minimum
