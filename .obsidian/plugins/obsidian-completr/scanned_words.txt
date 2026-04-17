@@ -49,6 +49,7 @@ dec
 div
 do
 diagnosis
+dynamic
 lchild
 ltag
 last
@@ -269,6 +270,8 @@ CSP
 Checking
 Constraint
 CPT
+Continuous
+Chess
 NLR
 Notation
 NULL
@@ -391,6 +394,7 @@ PPT
 Percept
 Prior
 Perfection
+Partially
 InOrder
 ID
 In
@@ -513,6 +517,7 @@ Entailment
 EI
 Enumeration
 Environment
+Episodic
 WPL
 Weight
 Would
@@ -569,6 +574,8 @@ DI
 Dynamic
 DLL
 DPLL
+Deterministic
+Discrete
 child
 cousin
 categories
@@ -603,6 +610,7 @@ cmp
 call
 caller
 count
+clock
 sibling
 separator
 symbol
@@ -723,6 +731,7 @@ offset
 orange
 or
 out
+observable
 git
 getAbstractFileByPath
 geqslant
@@ -834,6 +843,10 @@ Sensors
 SAT
 Substitution
 Smoothing
+Single
+Stochastic
+Sequential
+Semi
 First
 FCFS
 Find
@@ -875,6 +888,7 @@ Forward
 FOL
 Filtering
 Function
+Fully
 MaxSize
 MI
 Minimum
@@ -928,6 +942,7 @@ Min
 MRV
 Model
 Medical
+Multi
 boundary
 br
 base
@@ -1010,6 +1025,7 @@ Ubuntu
 Used
 UCS
 UI
+Unknown
 max
 menu
 more
@@ -1064,6 +1080,7 @@ KB
 Kernel
 KLT
 Kill
+Known
 Queue
 QNPC
 Query
