@@ -209,6 +209,11 @@ AT
 ARM
 Absolute
 Area
+AI
+Actuators
+Admissibility
+Arc
+ASK
 CDBFA
 COUNTER
 Catalan
@@ -254,6 +259,11 @@ Count
 Code
 Compaction
 CLOCK
+Consistency
+CSP
+Checking
+Constraint
+CPT
 NLR
 Notation
 NULL
@@ -369,6 +379,10 @@ POP
 Pointer
 Protection
 PTE
+Performance
+PEAS
+Prediction
+PPT
 InOrder
 ID
 In
@@ -446,6 +460,7 @@ Base
 BP
 Best
 Buddy
+Belief
 EDGHFI
 Expression
 EdgeType
@@ -486,6 +501,9 @@ EFLAGS
 Equal
 Exokernel
 EAT
+Entailment
+EI
+Enumeration
 WPL
 Weight
 Would
@@ -500,6 +518,7 @@ Wear
 Work
 Worst
 Working
+Wumpus
 DA
 Deque
 DFS
@@ -540,6 +559,7 @@ Destination
 DI
 Dynamic
 DLL
+DPLL
 child
 cousin
 categories
@@ -657,6 +677,7 @@ TRAP
 Tradeoff
 Terminated
 Thrashing
+TELL
 OD
 Out
 Obsidian
@@ -691,6 +712,7 @@ git
 getAbstractFileByPath
 geqslant
 goto
+graphs
 edges
 excalidraw
 eIOzQi
@@ -793,6 +815,10 @@ Suspend
 Swapping
 Suspended
 Segment
+Sensors
+SAT
+Substitution
+Smoothing
 First
 FCFS
 Find
@@ -830,6 +856,9 @@ Fit
 Frame
 File
 Free
+Forward
+FOL
+Filtering
 MaxSize
 MI
 Minimum
@@ -878,6 +907,10 @@ MOV
 MUL
 Mask
 Management
+Minimax
+Min
+MRV
+Model
 boundary
 br
 base
@@ -931,6 +964,7 @@ Reentrant
 Relocation
 Run
 Resident
+Resolution
 vs
 visited
 views
@@ -953,6 +987,8 @@ User
 ULT
 Ubuntu
 Used
+UCS
+UI
 max
 menu
 more
@@ -971,6 +1007,7 @@ monitor
 mom
 mov
 mul
+measure
 info
 ivex
 ilink
@@ -1063,6 +1100,7 @@ Hit
 HTTP
 HA
 HarmonyOS
+HMM
 Java
 JVM
 JMP
@@ -1081,6 +1119,7 @@ GRUB
 GPRs
 GDB
 Greater
+Graph
 ZFLOPS
 Zetta
 ZF
