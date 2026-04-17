@@ -569,6 +569,7 @@ cl
 cmp
 call
 caller
+count
 sibling
 separator
 symbol
