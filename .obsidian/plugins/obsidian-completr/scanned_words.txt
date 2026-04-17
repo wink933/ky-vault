@@ -216,6 +216,7 @@ Admissibility
 Arc
 ASK
 Acting
+Actions
 CDBFA
 COUNTER
 Catalan
@@ -386,6 +387,8 @@ PEAS
 Prediction
 PPT
 Percept
+Prior
+Perfection
 InOrder
 ID
 In
@@ -629,6 +632,7 @@ sum
 statement
 sal
 step
+sequence
 nodes
 next
 nn
@@ -701,6 +705,7 @@ Overhead
 Offset
 OP
 Opcode
+Omniscience
 obsidian
 operand
 operator
@@ -972,6 +977,8 @@ Run
 Resident
 Resolution
 Rationally
+Rational
+Rationality
 vs
 visited
 views
@@ -1086,6 +1093,7 @@ you
 your
 key
 kx
+knowledge
 xrightarrow
 xml
 xmlns
