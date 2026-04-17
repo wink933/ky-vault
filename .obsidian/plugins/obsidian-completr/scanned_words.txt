@@ -385,6 +385,7 @@ Performance
 PEAS
 Prediction
 PPT
+Percept
 InOrder
 ID
 In
@@ -862,6 +863,7 @@ Free
 Forward
 FOL
 Filtering
+Function
 MaxSize
 MI
 Minimum
