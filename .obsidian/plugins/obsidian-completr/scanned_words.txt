@@ -287,6 +287,7 @@ Conflicts
 Completeness
 Complexity
 Closed
+Cost
 NLR
 Notation
 NULL
@@ -348,6 +349,7 @@ Linking
 Load
 Left
 Loopy
+Limited
 PreOrder
 PostOrder
 Prefix
@@ -414,6 +416,7 @@ Prior
 Perfection
 Partially
 Patient
+Pitesti
 InOrder
 ID
 In
@@ -455,6 +458,8 @@ Indirect
 Image
 Initial
 Incremental
+Iterative
+IDS
 BCAEDGHFI
 BC
 BA
@@ -494,6 +499,7 @@ BP
 Best
 Buddy
 Belief
+Bucharest
 EDGHFI
 Expression
 EdgeType
@@ -604,6 +610,8 @@ Discrete
 Display
 Down
 Dominance
+DLS
+Deepening
 child
 cousin
 categories
@@ -885,6 +893,7 @@ Single
 Stochastic
 Sequential
 Semi
+Sibiu
 First
 FCFS
 Find
@@ -930,6 +939,7 @@ Fully
 Formulation
 Fitness
 Failure
+Fagaras
 MaxSize
 MI
 Minimum
@@ -1046,6 +1056,7 @@ Rationality
 Right
 Relaxed
 Redundant
+Rimnicu
 vs
 visited
 views
@@ -1072,6 +1083,8 @@ UCS
 UI
 Unknown
 Up
+Uniform
+Uninformed
 max
 menu
 more
@@ -1143,6 +1156,7 @@ VFS
 Variable
 Variables
 Vacuum
+Vilcea
 You
 YYYY
 with
