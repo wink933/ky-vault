@@ -703,6 +703,7 @@ symptoms
 solving
 state
 search
+schedule
 nodes
 next
 nn
@@ -919,6 +920,7 @@ Simulated
 Selection
 Satisfiable
 Skolem
+Schema
 First
 FCFS
 Find
