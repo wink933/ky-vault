@@ -89,6 +89,7 @@ release
 ret
 result
 rationally
+restart
 pre
 png
 parent
@@ -292,6 +293,7 @@ Complexity
 Closed
 Cost
 Consistent
+CNF
 NLR
 Notation
 NULL
@@ -661,6 +663,7 @@ caller
 count
 clock
 cost
+climbing
 sibling
 separator
 symbol
@@ -757,6 +760,7 @@ Task
 Taxi
 Transition
 Timisoara
+Tautology
 OD
 Out
 Obsidian
@@ -827,6 +831,7 @@ high
 homogeneous
 hello
 hospital
+hill
 Stack
 Sparse
 SIZE
@@ -912,6 +917,8 @@ Semi
 Sibiu
 Simulated
 Selection
+Satisfiable
+Skolem
 First
 FCFS
 Find
@@ -1180,6 +1187,7 @@ Variable
 Variables
 Vacuum
 Vilcea
+Valid
 You
 YYYY
 with
