@@ -228,6 +228,8 @@ ASK
 Acting
 Actions
 Automated
+Arad
+Admissible
 CDBFA
 COUNTER
 Catalan
@@ -288,6 +290,7 @@ Completeness
 Complexity
 Closed
 Cost
+Consistent
 NLR
 Notation
 NULL
@@ -460,6 +463,7 @@ Initial
 Incremental
 Iterative
 IDS
+Informed
 BCAEDGHFI
 BC
 BA
@@ -742,6 +746,7 @@ TELL
 Task
 Taxi
 Transition
+Timisoara
 OD
 Out
 Obsidian
@@ -764,6 +769,7 @@ Opcode
 Omniscience
 Optimality
 Open
+Oradea
 obsidian
 operand
 operator
@@ -1228,10 +1234,12 @@ Graph
 GPS
 Goal
 Genetic
+Greedy
 ZFLOPS
 Zetta
 ZF
 Zero
+Zerind
 qx
 qq
 questions
