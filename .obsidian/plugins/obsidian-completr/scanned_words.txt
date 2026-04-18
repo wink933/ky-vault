@@ -116,6 +116,8 @@ push
 pop
 ptr
 patient
+puzzle
+paths
 assets
 ancestor
 adjvex
@@ -278,6 +280,13 @@ Constraint
 CPT
 Continuous
 Chess
+Complete
+Climbing
+Crossover
+Conflicts
+Completeness
+Complexity
+Closed
 NLR
 Notation
 NULL
@@ -295,6 +304,7 @@ NSC
 Need
 NOT
 Next
+Node
 LNR
 LRN
 LIFO
@@ -336,6 +346,8 @@ Loader
 Loading
 Linking
 Load
+Left
+Loopy
 PreOrder
 PostOrder
 Prefix
@@ -442,6 +454,7 @@ Immediate
 Indirect
 Image
 Initial
+Incremental
 BCAEDGHFI
 BC
 BA
@@ -527,6 +540,8 @@ Enumeration
 Environment
 Episodic
 Execute
+Expand
+Explored
 WPL
 Weight
 Would
@@ -587,6 +602,8 @@ DPLL
 Deterministic
 Discrete
 Display
+Down
+Dominance
 child
 cousin
 categories
@@ -737,6 +754,8 @@ Offset
 OP
 Opcode
 Omniscience
+Optimality
+Open
 obsidian
 operand
 operator
@@ -908,6 +927,9 @@ FOL
 Filtering
 Function
 Fully
+Formulation
+Fitness
+Failure
 MaxSize
 MI
 Minimum
@@ -962,6 +984,7 @@ MRV
 Model
 Medical
 Multi
+Mutation
 boundary
 br
 base
@@ -1020,6 +1043,9 @@ Resolution
 Rationally
 Rational
 Rationality
+Right
+Relaxed
+Redundant
 vs
 visited
 views
@@ -1045,6 +1071,7 @@ Used
 UCS
 UI
 Unknown
+Up
 max
 menu
 more
@@ -1164,6 +1191,7 @@ HarmonyOS
 HMM
 Humanly
 Healthy
+Hill
 Java
 JVM
 JMP
@@ -1185,6 +1213,7 @@ Greater
 Graph
 GPS
 Goal
+Genetic
 ZFLOPS
 Zetta
 ZF
