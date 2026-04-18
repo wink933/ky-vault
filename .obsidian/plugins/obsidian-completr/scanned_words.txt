@@ -53,6 +53,7 @@ diagnosis
 dynamic
 diagnoses
 deterministic
+depth
 lchild
 ltag
 last
@@ -233,6 +234,9 @@ Automated
 Arad
 Admissible
 Annealing
+ACTIONS
+Action
+Alpha
 CDBFA
 COUNTER
 Catalan
@@ -296,6 +300,8 @@ Cost
 Consistent
 CNF
 Contingency
+CUTOFF
+Chance
 NLR
 Notation
 NULL
@@ -433,6 +439,8 @@ Pitesti
 Plateaus
 Population
 Plan
+PLAYER
+Pruning
 InOrder
 ID
 In
@@ -520,6 +528,7 @@ Belief
 Bucharest
 Branching
 Beam
+Beta
 EDGHFI
 Expression
 EdgeType
@@ -570,6 +579,8 @@ Expand
 Explored
 Effective
 Environments
+EVAL
+EXPECTIMINIMAX
 WPL
 Weight
 Would
@@ -770,6 +781,8 @@ Transition
 Timisoara
 Tautology
 Trees
+TERMINAL
+TEST
 OD
 Out
 Obsidian
@@ -1032,6 +1045,9 @@ Medical
 Multi
 Mutation
 Maxima
+MAX
+MIN
+Multiplayer
 boundary
 br
 base
@@ -1097,6 +1113,7 @@ Redundant
 Rimnicu
 Ridges
 Restart
+RESULT
 vs
 visited
 views
@@ -1125,6 +1142,7 @@ Unknown
 Up
 Uniform
 Uninformed
+UTILITY
 max
 menu
 more
@@ -1215,6 +1233,7 @@ utf
 updated
 unsigned
 update
+up
 zGzAdvo
 yq
 you
@@ -1272,6 +1291,8 @@ Goal
 Genetic
 Greedy
 GA
+Game
+Games
 ZFLOPS
 Zetta
 ZF
