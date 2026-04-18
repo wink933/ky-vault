@@ -52,6 +52,7 @@ do
 diagnosis
 dynamic
 diagnoses
+deterministic
 lchild
 ltag
 last
@@ -294,6 +295,7 @@ Closed
 Cost
 Consistent
 CNF
+Contingency
 NLR
 Notation
 NULL
@@ -358,6 +360,8 @@ Left
 Loopy
 Limited
 Local
+Loop
+Label
 PreOrder
 PostOrder
 Prefix
@@ -427,6 +431,7 @@ Patient
 Pitesti
 Plateaus
 Population
+Plan
 InOrder
 ID
 In
@@ -762,6 +767,7 @@ Taxi
 Transition
 Timisoara
 Tautology
+Trees
 OD
 Out
 Obsidian
