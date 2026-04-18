@@ -506,6 +506,7 @@ Best
 Buddy
 Belief
 Bucharest
+Branching
 EDGHFI
 Expression
 EdgeType
@@ -554,6 +555,7 @@ Episodic
 Execute
 Expand
 Explored
+Effective
 WPL
 Weight
 Would
@@ -949,6 +951,7 @@ Formulation
 Fitness
 Failure
 Fagaras
+Factor
 MaxSize
 MI
 Minimum
@@ -1216,6 +1219,7 @@ HMM
 Humanly
 Healthy
 Hill
+Heuristic
 Java
 JVM
 JMP
