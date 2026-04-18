@@ -230,6 +230,7 @@ Actions
 Automated
 Arad
 Admissible
+Annealing
 CDBFA
 COUNTER
 Catalan
@@ -354,6 +355,7 @@ Load
 Left
 Loopy
 Limited
+Local
 PreOrder
 PostOrder
 Prefix
@@ -421,6 +423,8 @@ Perfection
 Partially
 Patient
 Pitesti
+Plateaus
+Population
 InOrder
 ID
 In
@@ -507,6 +511,7 @@ Buddy
 Belief
 Bucharest
 Branching
+Beam
 EDGHFI
 Expression
 EdgeType
@@ -905,6 +910,8 @@ Stochastic
 Sequential
 Semi
 Sibiu
+Simulated
+Selection
 First
 FCFS
 Find
@@ -1007,6 +1014,7 @@ Model
 Medical
 Multi
 Mutation
+Maxima
 boundary
 br
 base
@@ -1070,6 +1078,8 @@ Right
 Relaxed
 Redundant
 Rimnicu
+Ridges
+Restart
 vs
 visited
 views
@@ -1243,6 +1253,7 @@ GPS
 Goal
 Genetic
 Greedy
+GA
 ZFLOPS
 Zetta
 ZF
