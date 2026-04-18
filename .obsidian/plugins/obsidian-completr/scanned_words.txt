@@ -92,6 +92,7 @@ ret
 result
 rationally
 restart
+red
 pre
 png
 parent
@@ -302,6 +303,7 @@ CNF
 Contingency
 CUTOFF
 Chance
+Constraining
 NLR
 Notation
 NULL
@@ -322,6 +324,8 @@ Next
 Node
 Neamt
 Nondeterministic
+NT
+NSW
 LNR
 LRN
 LIFO
@@ -529,6 +533,7 @@ Bucharest
 Branching
 Beam
 Beta
+Backtracking
 EDGHFI
 Expression
 EdgeType
@@ -645,6 +650,7 @@ Down
 Dominance
 DLS
 Deepening
+Degree
 child
 cousin
 categories
@@ -823,6 +829,7 @@ getAbstractFileByPath
 geqslant
 goto
 graphs
+green
 edges
 excalidraw
 eIOzQi
@@ -942,6 +949,8 @@ Selection
 Satisfiable
 Skolem
 Schema
+Satisfaction
+SA
 First
 FCFS
 Find
@@ -1048,6 +1057,7 @@ Maxima
 MAX
 MIN
 Multiplayer
+MAC
 boundary
 br
 base
@@ -1069,6 +1079,7 @@ bl
 body
 by
 best
+blue
 Reverse
 Row
 Root
@@ -1114,6 +1125,7 @@ Rimnicu
 Ridges
 Restart
 RESULT
+Remaining
 vs
 visited
 views
@@ -1216,6 +1228,7 @@ Variables
 Vacuum
 Vilcea
 Valid
+Values
 You
 YYYY
 with
