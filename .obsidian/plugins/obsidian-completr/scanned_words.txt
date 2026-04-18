@@ -309,6 +309,7 @@ Need
 NOT
 Next
 Node
+Neamt
 LNR
 LRN
 LIFO
@@ -464,6 +465,7 @@ Incremental
 Iterative
 IDS
 Informed
+Iasi
 BCAEDGHFI
 BC
 BA
@@ -690,6 +692,7 @@ staff
 symptoms
 solving
 state
+search
 nodes
 next
 nn
@@ -1021,6 +1024,7 @@ bh
 bl
 body
 by
+best
 Reverse
 Row
 Root
