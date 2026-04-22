@@ -818,6 +818,7 @@ Omniscience
 Optimality
 Open
 Oradea
+Operator
 obsidian
 operand
 operator
