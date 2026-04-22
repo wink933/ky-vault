@@ -653,6 +653,7 @@ Dominance
 DLS
 Deepening
 Degree
+Determinant
 child
 cousin
 categories
@@ -792,6 +793,8 @@ Tautology
 Trees
 TERMINAL
 TEST
+Triangular
+Tridiagonal
 OD
 Out
 Obsidian
@@ -1001,6 +1004,7 @@ Fitness
 Failure
 Fagaras
 Factor
+Fail
 MaxSize
 MI
 Minimum
@@ -1061,6 +1065,7 @@ MAX
 MIN
 Multiplayer
 MAC
+Monotonicity
 boundary
 br
 base
@@ -1232,6 +1237,7 @@ Vacuum
 Vilcea
 Valid
 Values
+Vandermonde
 You
 YYYY
 with
