@@ -381,7 +381,8 @@
       "stream": true,
       "displayName": "Qwen3.5",
       "streamUsage": true,
-      "enableCors": true
+      "enableCors": true,
+      "maxTokens": 57300
     }
   ],
   "activeEmbeddingModels": [

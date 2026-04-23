@@ -108,3 +108,11 @@ more message: Request failed, status 401. {"error":{"message":"Incorrect API key
 
 我随时为你服务！😊
 [Timestamp: 2026/04/23 19:20:31]
+
+**user**: 如何理解特征向量
+[Context: Notes: 线代/Lecture 5 ：特征值与特征向量/特征向量.md]
+[Timestamp: 2026/04/23 19:25:06]
+
+**ai**: 
+<errorChunk>net::ERR_CONNECTION_REFUSED</errorChunk>
+[Timestamp: 2026/04/23 19:25:43]
