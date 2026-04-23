@@ -367,10 +367,10 @@
     },
     {
       "name": "Qwen3.5",
-      "provider": "siliconflow",
+      "provider": "openai",
       "enabled": true,
       "isBuiltIn": false,
-      "baseUrl": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+      "baseUrl": "",
       "apiKey": "sk-y7ZysQgXU2uTK5vDfUpx0QvllUlrYPdNzaa5V3KafJiSrSAO",
       "isEmbeddingModel": false,
       "capabilities": [
@@ -379,8 +379,8 @@
         "websearch"
       ],
       "stream": true,
-      "displayName": "Qwen3.5",
       "openAIOrgId": "",
+      "displayName": "Qwen3.5",
       "enableCors": true
     }
   ],
