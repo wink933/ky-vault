@@ -1,9 +1,12 @@
 ---
 epoch: 1776944526097
-modelKey: Qwen3.5|3rd party (openai-format)
+modelKey: "Qwen3.5|3rd party (openai-format)"
+topic: "Core Formulas and Definitions Index"
+
+
+
 tags:
   - copilot-conversation
-topic: Core Formulas and Definitions Index
 ---
 
 **user**: 生成一个包含所有核心公式和定义的索引页面
@@ -151,3 +154,13 @@ topic: Core Formulas and Definitions Index
 **最后更新：** 2026-04-23  
 **版本：** v1.0
 [Timestamp: 2026/04/23 19:42:16]
+
+**user**: 生成一个高数里包含所有核心公式和定义的索引页面
+[Timestamp: 2026/04/23 20:12:58]
+
+**ai**: 
+<errorChunk>net::ERR_CONNECTION_REFUSED</errorChunk>
+[Timestamp: 2026/04/23 20:13:40]
+
+**user**: 生成一个包含所有核心公式和定义的索引页面
+[Timestamp: 2026/04/23 20:14:15]
