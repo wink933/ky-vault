@@ -210,3 +210,7 @@ $$(\lambda E - A)\xi = \mathbf{0}$$
 
 随时告诉我！😊
 [Timestamp: 2026/04/23 19:27:47]
+
+**user**: 我对特征向量的几何定义不够了解
+[Context: Notes: 线代/Lecture 5 ：特征值与特征向量/特征向量.md]
+[Timestamp: 2026/04/23 19:28:44]
