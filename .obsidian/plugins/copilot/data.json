@@ -16,7 +16,7 @@
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
-  "deepseekApiKey": "",
+  "deepseekApiKey": "sk-y7ZysQgXU2uTK5vDfUpx0QvllUlrYPdNzaa5V3KafJiSrSAO",
   "amazonBedrockApiKey": "",
   "amazonBedrockRegion": "",
   "siliconflowApiKey": "",
@@ -51,7 +51,7 @@
   "enableEncryption": false,
   "maxSourceChunks": 30,
   "enableInlineCitations": true,
-  "groqApiKey": "",
+  "groqApiKey": "sk-y7ZysQgXU2uTK5vDfUpx0QvllUlrYPdNzaa5V3KafJiSrSAO",
   "activeModels": [
     {
       "name": "copilot-plus-flash",
@@ -363,6 +363,24 @@
       ],
       "stream": true,
       "displayName": "gemma-4-e4b-it",
+      "enableCors": true
+    },
+    {
+      "name": "Qwen3.5",
+      "provider": "siliconflow",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+      "apiKey": "sk-y7ZysQgXU2uTK5vDfUpx0QvllUlrYPdNzaa5V3KafJiSrSAO",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "reasoning",
+        "vision",
+        "websearch"
+      ],
+      "stream": true,
+      "displayName": "Qwen3.5",
+      "openAIOrgId": "",
       "enableCors": true
     }
   ],
