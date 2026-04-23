@@ -367,10 +367,10 @@
     },
     {
       "name": "Qwen3.5",
-      "provider": "openai",
+      "provider": "3rd party (openai-format)",
       "enabled": true,
       "isBuiltIn": false,
-      "baseUrl": "",
+      "baseUrl": "https://maas.nscc-cs.cn/external/api/v1",
       "apiKey": "sk-y7ZysQgXU2uTK5vDfUpx0QvllUlrYPdNzaa5V3KafJiSrSAO",
       "isEmbeddingModel": false,
       "capabilities": [
@@ -379,8 +379,8 @@
         "websearch"
       ],
       "stream": true,
-      "openAIOrgId": "",
       "displayName": "Qwen3.5",
+      "streamUsage": true,
       "enableCors": true
     }
   ],
