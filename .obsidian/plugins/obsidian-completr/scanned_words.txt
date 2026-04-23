@@ -375,6 +375,7 @@ Local
 Loop
 Label
 LCV
+Lecture
 PreOrder
 PostOrder
 Prefix
