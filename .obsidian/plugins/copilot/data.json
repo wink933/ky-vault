@@ -551,5 +551,5 @@
   "autoCompactThreshold": 128000,
   "enableMiyo": false,
   "selfHostSearchProvider": "firecrawl",
-  "miyoRemoteVaultPath": ""
+  "miyoServerUrl": ""
 }
