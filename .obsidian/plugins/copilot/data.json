@@ -24,7 +24,7 @@
   "githubCopilotToken": "",
   "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "gemma-4-e4b-it|lm-studio",
+  "defaultModelKey": "Qwen3.5|3rd party (openai-format)",
   "embeddingModelKey": "text-embedding-nomic-embed-text-v1.5|lm-studio",
   "temperature": 0.1,
   "maxTokens": 6000,
