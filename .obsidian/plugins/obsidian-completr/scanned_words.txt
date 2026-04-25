@@ -306,6 +306,7 @@ CUTOFF
 Chance
 Constraining
 COP
+Canonical
 NLR
 Notation
 NULL
@@ -1015,6 +1016,7 @@ Fagaras
 Factor
 Fail
 Files
+Form
 MaxSize
 MI
 Minimum
