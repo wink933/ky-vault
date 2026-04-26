@@ -602,6 +602,7 @@ Effective
 Environments
 EVAL
 EXPECTIMINIMAX
+EX
 WPL
 Weight
 Would
@@ -618,6 +619,7 @@ Worst
 Working
 Wumpus
 World
+WB
 DA
 Deque
 DFS
@@ -1094,6 +1096,7 @@ Monotonicity
 Mapped
 Microprogram
 Machine
+MEM
 boundary
 br
 base
