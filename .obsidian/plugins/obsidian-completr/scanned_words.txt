@@ -307,6 +307,10 @@ Chance
 Constraining
 COP
 Canonical
+CRC
+CM
+CMAR
+CMDR
 NLR
 Notation
 NULL
@@ -1079,6 +1083,7 @@ Multiplayer
 MAC
 Monotonicity
 Mapped
+Microprogram
 boundary
 br
 base
@@ -1147,6 +1152,7 @@ Ridges
 Restart
 RESULT
 Remaining
+RPM
 vs
 visited
 views
@@ -1303,6 +1309,7 @@ Humanly
 Healthy
 Hill
 Heuristic
+Head
 Java
 JVM
 JMP
