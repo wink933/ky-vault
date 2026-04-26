@@ -239,6 +239,7 @@ ACTIONS
 Action
 Alpha
 AP
+ALUop
 CDBFA
 COUNTER
 Catalan
@@ -603,6 +604,7 @@ Environments
 EVAL
 EXPECTIMINIMAX
 EX
+EN
 WPL
 Weight
 Would
