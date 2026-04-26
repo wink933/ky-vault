@@ -371,7 +371,7 @@
       "enabled": true,
       "isBuiltIn": false,
       "baseUrl": "https://maas.nscc-cs.cn/external/api/v1",
-      "apiKey": "sk-y7ZysQgXU2uTK5vDfUpx0QvllUlrYPdNzaa5V3KafJiSrSAO",
+      "apiKey": "sk-xbonJAaMSde9oJ5BXzoVymiFbvwDle049nQUjPqKH7Ak9LQm",
       "isEmbeddingModel": false,
       "capabilities": [
         "reasoning",
