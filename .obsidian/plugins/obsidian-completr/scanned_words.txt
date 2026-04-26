@@ -745,6 +745,7 @@ solving
 state
 search
 schedule
+span
 nodes
 next
 nn
@@ -973,6 +974,7 @@ Skolem
 Schema
 Satisfaction
 SA
+Storage
 First
 FCFS
 Find
@@ -1086,6 +1088,7 @@ MAC
 Monotonicity
 Mapped
 Microprogram
+Machine
 boundary
 br
 base
