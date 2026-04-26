@@ -458,6 +458,7 @@ PLAYER
 Pruning
 Paging
 PSWR
+Python
 InOrder
 ID
 In
@@ -819,6 +820,7 @@ Triangular
 Tridiagonal
 Trace
 Transformation
+Transparent
 OD
 Out
 Obsidian
