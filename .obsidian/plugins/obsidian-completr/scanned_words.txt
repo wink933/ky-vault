@@ -503,6 +503,9 @@ IDS
 Informed
 Iasi
 Invariants
+ISR
+Interrupts
+IF
 BCAEDGHFI
 BC
 BA
@@ -667,6 +670,7 @@ Degree
 Determinant
 DNA
 Demand
+Disable
 child
 cousin
 categories
@@ -975,6 +979,7 @@ Schema
 Satisfaction
 SA
 Storage
+Save
 First
 FCFS
 Find
@@ -1263,6 +1268,7 @@ Valid
 Values
 Vandermonde
 Vectors
+Vectoring
 You
 YYYY
 with
