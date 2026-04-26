@@ -311,6 +311,7 @@ CRC
 CM
 CMAR
 CMDR
+CU
 NLR
 Notation
 NULL
@@ -455,6 +456,7 @@ Plan
 PLAYER
 Pruning
 Paging
+PSWR
 InOrder
 ID
 In
