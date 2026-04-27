@@ -320,6 +320,7 @@ CM
 CMAR
 CMDR
 CU
+Controller
 NLR
 Notation
 NULL
@@ -1356,6 +1357,7 @@ Healthy
 Hill
 Heuristic
 Head
+Hardwired
 Java
 JVM
 JMP
