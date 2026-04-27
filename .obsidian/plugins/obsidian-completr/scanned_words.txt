@@ -93,6 +93,9 @@ result
 rationally
 restart
 red
+rs
+rt
+rd
 pre
 png
 parent
@@ -147,6 +150,7 @@ ah
 al
 add
 atomic
+addu
 file
 front
 first
@@ -240,6 +244,9 @@ Action
 Alpha
 AP
 ALUop
+ALUctr
+ALUSrc
+Adr
 CDBFA
 COUNTER
 Catalan
@@ -552,6 +559,7 @@ Branching
 Beam
 Beta
 Backtracking
+Branch
 EDGHFI
 Expression
 EdgeType
@@ -606,6 +614,7 @@ EVAL
 EXPECTIMINIMAX
 EX
 EN
+ExtOp
 WPL
 Weight
 Would
@@ -676,6 +685,7 @@ Determinant
 DNA
 Demand
 Disable
+DataIn
 child
 cousin
 categories
@@ -1102,6 +1112,8 @@ Mapped
 Microprogram
 Machine
 MEM
+MemtoReg
+MemWr
 boundary
 br
 base
@@ -1124,6 +1136,9 @@ body
 by
 best
 blue
+beq
+busW
+busB
 Reverse
 Row
 Root
@@ -1171,6 +1186,14 @@ Restart
 RESULT
 Remaining
 RPM
+Rs
+Rt
+Rd
+Ra
+Rb
+Rw
+RegWr
+RegDst
 vs
 visited
 views
@@ -1241,6 +1264,7 @@ imul
 idiv
 if
 init
+imm
 jvex
 jlink
 jmj
