@@ -151,6 +151,7 @@ al
 add
 atomic
 addu
+alu
 file
 front
 first
@@ -689,6 +690,7 @@ DNA
 Demand
 Disable
 DataIn
+Decoder
 child
 cousin
 categories
@@ -871,6 +873,7 @@ orange
 or
 out
 observable
+operations
 git
 getAbstractFileByPath
 geqslant
@@ -1117,6 +1120,8 @@ Machine
 MEM
 MemtoReg
 MemWr
+Micro
+Microprogrammed
 boundary
 br
 base
@@ -1358,6 +1363,7 @@ Hill
 Heuristic
 Head
 Hardwired
+Hazard
 Java
 JVM
 JMP
