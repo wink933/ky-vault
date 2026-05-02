@@ -699,6 +699,7 @@ World
 WB
 WAR
 WAW
+WC
 DA
 Deque
 DFS
@@ -762,6 +763,8 @@ DDR
 DTE
 DCE
 DBR
+DMAC
+DREQ
 child
 cousin
 categories
@@ -1498,6 +1501,8 @@ Hyper
 Hardware
 Huffman
 Hub
+HRQ
+HLDA
 Java
 JVM
 JMP
