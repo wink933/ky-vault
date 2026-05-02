@@ -262,6 +262,8 @@ Accelerated
 ATA
 Advanced
 Attachment
+ASCII
+ACK
 CDBFA
 COUNTER
 Catalan
@@ -345,6 +347,8 @@ Coding
 Compilation
 Component
 Card
+Command
+CRT
 NLR
 Notation
 NULL
@@ -951,6 +955,7 @@ out
 observable
 operations
 ops
+only
 git
 getAbstractFileByPath
 geqslant
