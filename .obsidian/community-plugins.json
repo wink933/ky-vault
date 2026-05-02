@@ -1,6 +1,5 @@
 [
   "templater-obsidian",
-  "obsidian-git",
   "obsidian-custom-attachment-location",
   "calendar",
   "callout-manager",
@@ -9,5 +8,6 @@
   "obsidian-enhancing-export",
   "copilot",
   "obsidian-completr",
-  "quick-latex"
+  "quick-latex",
+  "obsidian-git"
 ]
