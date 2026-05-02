@@ -565,6 +565,7 @@ International
 IDE
 Integrated
 Interface
+IN
 BCAEDGHFI
 BC
 BA
@@ -935,6 +936,7 @@ Optimality
 Open
 Oradea
 Operator
+OUT
 obsidian
 operand
 operator
