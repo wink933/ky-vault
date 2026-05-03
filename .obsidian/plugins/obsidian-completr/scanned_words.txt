@@ -264,6 +264,7 @@ Advanced
 Attachment
 ASCII
 ACK
+ALUout
 CDBFA
 COUNTER
 Catalan
@@ -1238,6 +1239,7 @@ MISD
 Multithreading
 MHz
 MCH
+MemR
 boundary
 br
 base
