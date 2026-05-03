@@ -1,5 +1,5 @@
 ---
-title: RISC
+title: RISC的特点
 tags:
   - "#RISC"
 date: 2026-05-03
