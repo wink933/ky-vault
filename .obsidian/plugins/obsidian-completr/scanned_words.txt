@@ -265,6 +265,7 @@ Attachment
 ASCII
 ACK
 ALUout
+Acknowledge
 CDBFA
 COUNTER
 Catalan
