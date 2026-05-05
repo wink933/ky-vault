@@ -1243,6 +1243,7 @@ Multithreading
 MHz
 MCH
 MemR
+MASK
 boundary
 br
 base
