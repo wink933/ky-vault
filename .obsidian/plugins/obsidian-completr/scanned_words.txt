@@ -573,6 +573,8 @@ IDE
 Integrated
 Interface
 IN
+IRR
+IMR
 BCAEDGHFI
 BC
 BA
@@ -768,6 +770,7 @@ DCE
 DBR
 DMAC
 DREQ
+DBus
 child
 cousin
 categories
