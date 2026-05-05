@@ -624,6 +624,7 @@ Branch
 Beat
 BusB
 Bypassing
+Biased
 EDGHFI
 Expression
 EdgeType
@@ -687,6 +688,7 @@ Express
 EISA
 Electronics
 Exponent
+Excess
 WPL
 Weight
 Would
@@ -953,6 +955,7 @@ Open
 Oradea
 Operator
 OUT
+Ones
 obsidian
 operand
 operator
@@ -1251,6 +1254,7 @@ MHz
 MCH
 MemR
 MASK
+Magnitude
 boundary
 br
 base
