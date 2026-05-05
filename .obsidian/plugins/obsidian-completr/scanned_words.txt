@@ -352,6 +352,7 @@ Card
 Command
 CRT
 CBD
+Complement
 NLR
 Notation
 NULL
@@ -685,6 +686,7 @@ Ext
 Express
 EISA
 Electronics
+Exponent
 WPL
 Weight
 Would
@@ -925,6 +927,7 @@ Transparent
 TP
 Threading
 Technology
+Two
 OD
 Out
 Obsidian
@@ -1111,6 +1114,7 @@ Serial
 SCSI
 Small
 Syscall
+Signed
 First
 FCFS
 Find
@@ -1365,6 +1369,7 @@ Uninformed
 UTILITY
 UMA
 Universal
+Unsigned
 max
 menu
 more
