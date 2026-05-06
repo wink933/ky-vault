@@ -27,6 +27,7 @@ test
 temp
 then
 tests
+txt
 date
 data
 descendant
@@ -971,6 +972,7 @@ Oradea
 Operator
 OUT
 Ones
+Owner
 obsidian
 operand
 operator
