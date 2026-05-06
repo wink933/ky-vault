@@ -357,6 +357,8 @@ Command
 CRT
 CBD
 Complement
+Contiguous
+Cluster
 NLR
 Notation
 NULL
@@ -582,6 +584,7 @@ Interface
 IN
 IRR
 IMR
+Implicit
 BCAEDGHFI
 BC
 BA
