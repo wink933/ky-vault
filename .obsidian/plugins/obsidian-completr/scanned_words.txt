@@ -690,6 +690,7 @@ EISA
 Electronics
 Exponent
 Excess
+Excel
 WPL
 Weight
 Would
