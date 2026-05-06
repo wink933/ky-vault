@@ -695,6 +695,7 @@ Electronics
 Exponent
 Excess
 Excel
+Entry
 WPL
 Weight
 Would
