@@ -700,6 +700,7 @@ Exponent
 Excess
 Excel
 Entry
+Explicit
 WPL
 Weight
 Would
