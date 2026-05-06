@@ -54,6 +54,7 @@ dynamic
 diagnoses
 deterministic
 depth
+dev
 lchild
 ltag
 last
@@ -82,6 +83,7 @@ leave
 lw
 load
 ld
+ls
 rchild
 rtag
 rear
@@ -129,6 +131,7 @@ patient
 puzzle
 paths
 ps
+passwd
 assets
 ancestor
 adjvex
@@ -1003,6 +1006,7 @@ ebp
 else
 expr
 entry
+etc
 head
 headvex
 hlink
@@ -1012,6 +1016,7 @@ homogeneous
 hello
 hospital
 hill
+hda
 Stack
 Sparse
 SIZE
@@ -1258,6 +1263,7 @@ MCH
 MemR
 MASK
 Magnitude
+MFD
 boundary
 br
 base
@@ -1284,6 +1290,7 @@ beq
 busW
 busB
 bne
+bin
 Reverse
 Row
 Root
@@ -1378,6 +1385,7 @@ UMA
 Universal
 Unsigned
 Underflow
+UFD
 max
 menu
 more
