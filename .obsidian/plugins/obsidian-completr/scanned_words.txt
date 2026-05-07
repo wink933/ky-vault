@@ -638,6 +638,7 @@ Beat
 BusB
 Bypassing
 Biased
+Bitmap
 EDGHFI
 Expression
 EdgeType
