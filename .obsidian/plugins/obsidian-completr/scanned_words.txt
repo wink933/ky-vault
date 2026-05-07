@@ -163,6 +163,7 @@ addu
 alu
 as
 aaa
+addr
 file
 front
 first
