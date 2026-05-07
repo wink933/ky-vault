@@ -86,6 +86,7 @@ load
 ld
 ls
 level
+lseek
 rchild
 rtag
 rear
@@ -640,6 +641,7 @@ BusB
 Bypassing
 Biased
 Bitmap
+Blocks
 EDGHFI
 Expression
 EdgeType
@@ -1506,6 +1508,7 @@ word
 world
 wait
 way
+write
 under
 uQ
 udv
