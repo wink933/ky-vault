@@ -1143,6 +1143,7 @@ SCSI
 Small
 Syscall
 Signed
+Super
 First
 FCFS
 Find
@@ -1597,3 +1598,4 @@ qq
 questions
 XP
 XOR
+XX
