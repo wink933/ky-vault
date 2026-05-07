@@ -1,7 +1,7 @@
 ---
-title: create系统调用
+title: Create系统调用
 tags:
-  - "#create"
+  - "#Create"
 date: 2026-05-07
 ---
 ---

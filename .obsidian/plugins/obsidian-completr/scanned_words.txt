@@ -836,6 +836,7 @@ core
 cpp
 ccl
 cluster
+close
 sibling
 separator
 symbol
@@ -1373,6 +1374,7 @@ RAW
 RTL
 Relative
 RS
+Reference
 vs
 visited
 views
