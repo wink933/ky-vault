@@ -524,6 +524,7 @@ Peripheral
 Port
 PCMCIA
 Personal
+PB
 InOrder
 ID
 In
@@ -1280,6 +1281,7 @@ MemR
 MASK
 Magnitude
 MFD
+MOD
 boundary
 br
 base
