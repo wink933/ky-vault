@@ -1028,6 +1028,7 @@ else
 expr
 entry
 etc
+ext
 head
 headvex
 hlink
@@ -1038,6 +1039,7 @@ hello
 hospital
 hill
 hda
+home
 Stack
 Sparse
 SIZE
@@ -1287,6 +1289,7 @@ MASK
 Magnitude
 MFD
 MOD
+Mounting
 boundary
 br
 base
@@ -1386,6 +1389,7 @@ vdu
 vdx
 vault
 value
+vnode
 Union
 ULhxiV
 Users
@@ -1520,6 +1524,7 @@ unsigned
 update
 up
 use
+user
 zGzAdvo
 yq
 you
