@@ -1569,6 +1569,7 @@ Hub
 HRQ
 HLDA
 HR
+Hard
 Java
 JVM
 JMP
