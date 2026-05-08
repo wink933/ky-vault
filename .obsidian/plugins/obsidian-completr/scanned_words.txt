@@ -364,6 +364,7 @@ CBD
 Complement
 Contiguous
 Cluster
+CR
 NLR
 Notation
 NULL
@@ -797,6 +798,9 @@ DMAC
 DREQ
 DBus
 Denormalized
+Driven
+DR
+DC
 child
 cousin
 categories
