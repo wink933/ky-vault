@@ -532,6 +532,7 @@ Port
 PCMCIA
 Personal
 PB
+Print
 InOrder
 ID
 In
@@ -806,6 +807,7 @@ Driven
 DR
 DC
 DCT
+Daemon
 child
 cousin
 categories
