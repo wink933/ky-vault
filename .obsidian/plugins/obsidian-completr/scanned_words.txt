@@ -598,6 +598,7 @@ IN
 IRR
 IMR
 Implicit
+IA
 BCAEDGHFI
 BC
 BA
@@ -1519,6 +1520,7 @@ VIP
 VLIW
 VESA
 Video
+VRAM
 You
 YYYY
 with
@@ -1616,6 +1618,7 @@ Games
 Graphics
 Gradual
 Group
+GPU
 ZFLOPS
 Zetta
 ZF
