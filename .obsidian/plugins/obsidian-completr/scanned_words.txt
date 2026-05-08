@@ -368,6 +368,7 @@ Cluster
 CR
 COCT
 CHCT
+Close
 NLR
 Notation
 NULL
@@ -809,6 +810,7 @@ DR
 DC
 DCT
 Daemon
+Descriptor
 child
 cousin
 categories
