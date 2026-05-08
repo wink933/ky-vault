@@ -135,6 +135,7 @@ puzzle
 paths
 ps
 passwd
+printer
 assets
 ancestor
 adjvex
@@ -365,6 +366,8 @@ Complement
 Contiguous
 Cluster
 CR
+COCT
+CHCT
 NLR
 Notation
 NULL
@@ -440,6 +443,7 @@ LCV
 Lecture
 Link
 Linked
+Logical
 PreOrder
 PostOrder
 Prefix
@@ -801,6 +805,7 @@ Denormalized
 Driven
 DR
 DC
+DCT
 child
 cousin
 categories
@@ -986,6 +991,7 @@ Operator
 OUT
 Ones
 Owner
+Other
 obsidian
 operand
 operator
@@ -1154,6 +1160,8 @@ Small
 Syscall
 Signed
 Super
+Software
+SDT
 First
 FCFS
 Find
@@ -1443,6 +1451,7 @@ model
 md
 multi
 mount
+my
 info
 ivex
 ilink
@@ -1604,6 +1613,7 @@ Game
 Games
 Graphics
 Gradual
+Group
 ZFLOPS
 Zetta
 ZF
