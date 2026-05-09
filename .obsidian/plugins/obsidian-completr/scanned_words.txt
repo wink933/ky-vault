@@ -371,6 +371,7 @@ CR
 COCT
 CHCT
 Close
+CD
 NLR
 Notation
 NULL
@@ -538,6 +539,7 @@ Personal
 PB
 Print
 Pool
+Physical
 InOrder
 ID
 In
@@ -1176,6 +1178,7 @@ Signed
 Super
 Software
 SDT
+Sector
 First
 FCFS
 Find
