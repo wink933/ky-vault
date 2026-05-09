@@ -908,6 +908,7 @@ super
 stdout
 stdin
 stderr
+sout
 nodes
 next
 nn
@@ -1066,6 +1067,8 @@ hospital
 hill
 hda
 home
+hin
+hout
 Stack
 Sparse
 SIZE
