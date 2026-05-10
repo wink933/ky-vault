@@ -88,6 +88,7 @@ ld
 ls
 level
 lseek
+look
 rchild
 rtag
 rear
@@ -398,6 +399,7 @@ NT
 NSW
 NUMA
 Numbers
+NStepSCAN
 LNR
 LRN
 LIFO
@@ -451,6 +453,7 @@ Link
 Linked
 Logical
 Locked
+LOOK
 PreOrder
 PostOrder
 Prefix
@@ -1247,6 +1250,7 @@ Flynn
 Fine
 Flip
 Flop
+FSCAN
 MaxSize
 MI
 Minimum
