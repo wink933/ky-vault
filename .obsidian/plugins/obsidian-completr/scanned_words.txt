@@ -917,6 +917,7 @@ stdout
 stdin
 stderr
 sout
+static
 nodes
 next
 nn
