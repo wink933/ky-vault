@@ -1341,6 +1341,7 @@ MFD
 MOD
 Mounting
 Magnetic
+MacBook
 boundary
 br
 base
@@ -1625,6 +1626,7 @@ HLDA
 HR
 Hard
 Hello
+HRRN
 Java
 JVM
 JMP
