@@ -730,6 +730,7 @@ Excess
 Excel
 Entry
 Explicit
+Exclusive
 WPL
 Weight
 Would
@@ -986,6 +987,7 @@ TP
 Threading
 Technology
 Two
+Tape
 OD
 Out
 Obsidian
@@ -1334,6 +1336,7 @@ Magnitude
 MFD
 MOD
 Mounting
+Magnetic
 boundary
 br
 base
