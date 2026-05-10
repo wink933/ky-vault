@@ -372,6 +372,8 @@ COCT
 CHCT
 Close
 CD
+Come
+Circular
 NLR
 Notation
 NULL
@@ -606,6 +608,7 @@ IRR
 IMR
 Implicit
 IA
+IBM
 BCAEDGHFI
 BC
 BA
@@ -1182,6 +1185,11 @@ Super
 Software
 SDT
 Sector
+Served
+Shortest
+Seek
+SSTF
+SCAN
 First
 FCFS
 Find
@@ -1643,6 +1651,7 @@ ZF
 Zero
 Zerind
 ZeroExt
+ZBR
 qx
 qq
 questions
