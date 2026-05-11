@@ -1319,6 +1319,7 @@ Flip
 Flop
 FSCAN
 Fi
+FTP
 MaxSize
 MI
 Minimum
@@ -1567,6 +1568,7 @@ md
 multi
 mount
 my
+mail
 info
 ivex
 ilink
