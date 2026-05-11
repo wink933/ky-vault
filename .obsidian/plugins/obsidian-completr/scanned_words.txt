@@ -1082,6 +1082,7 @@ Other
 Online
 Offline
 One
+OSI
 obsidian
 operand
 operator
@@ -1270,6 +1271,7 @@ SR
 SYN
 Service
 Switching
+SaaS
 First
 FCFS
 Find
