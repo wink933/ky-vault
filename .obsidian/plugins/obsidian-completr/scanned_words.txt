@@ -388,6 +388,7 @@ Circular
 Common
 Compile
 Checksum
+Circuit
 NLR
 Notation
 NULL
@@ -1262,6 +1263,7 @@ SACK
 SR
 SYN
 Service
+Switching
 First
 FCFS
 Find
