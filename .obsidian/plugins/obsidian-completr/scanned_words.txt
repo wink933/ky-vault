@@ -578,6 +578,7 @@ Provider
 Packet
 PAN
 Public
+PPP
 InOrder
 ID
 In
@@ -700,6 +701,7 @@ Biased
 Bitmap
 Blocks
 Balancing
+BGP
 EDGHFI
 Expression
 EdgeType
@@ -1083,6 +1085,7 @@ Online
 Offline
 One
 OSI
+OSPF
 obsidian
 operand
 operator
@@ -1425,6 +1428,7 @@ MSS
 MTU
 MSL
 MAN
+Medium
 boundary
 br
 base
