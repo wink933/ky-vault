@@ -402,6 +402,7 @@ NSW
 NUMA
 Numbers
 NStepSCAN
+No
 LNR
 LRN
 LIFO
@@ -551,6 +552,7 @@ Privileged
 Private
 Pull
 Policy
+Preemption
 InOrder
 ID
 In
@@ -738,6 +740,7 @@ Excel
 Entry
 Explicit
 Exclusive
+Exclusion
 WPL
 Weight
 Would
@@ -1210,6 +1213,7 @@ Seek
 SSTF
 SCAN
 Solaris
+Starvation
 First
 FCFS
 Find
@@ -1356,6 +1360,7 @@ MacBook
 Many
 Migration
 Mechanism
+Mutual
 boundary
 br
 base
