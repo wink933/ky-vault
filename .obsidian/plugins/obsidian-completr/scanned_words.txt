@@ -550,6 +550,7 @@ Physical
 Privileged
 Private
 Pull
+Policy
 InOrder
 ID
 In
@@ -757,6 +758,7 @@ WB
 WAR
 WAW
 WC
+Who
 DA
 Deque
 DFS
@@ -1353,6 +1355,7 @@ Magnetic
 MacBook
 Many
 Migration
+Mechanism
 boundary
 br
 base
@@ -1638,6 +1641,7 @@ HR
 Hard
 Hello
 HRRN
+How
 Java
 JVM
 JMP
