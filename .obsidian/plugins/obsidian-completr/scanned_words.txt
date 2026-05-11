@@ -389,6 +389,8 @@ Common
 Compile
 Checksum
 Circuit
+CSMA
+CA
 NLR
 Notation
 NULL
@@ -474,6 +476,7 @@ Locked
 LOOK
 Linker
 LAN
+LLC
 PreOrder
 PostOrder
 Prefix
@@ -768,6 +771,7 @@ Exclusive
 Exclusion
 Edge
 End
+Ethernet
 WPL
 Weight
 Would
@@ -794,6 +798,7 @@ WAIT
 WAN
 WPAN
 Wi
+WLAN
 DA
 Deque
 DFS
@@ -868,6 +873,7 @@ DCT
 Daemon
 Descriptor
 DNS
+DIX
 child
 cousin
 categories
