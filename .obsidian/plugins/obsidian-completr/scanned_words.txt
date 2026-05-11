@@ -279,6 +279,7 @@ ACK
 ALUout
 Acknowledge
 ACL
+Affinity
 CDBFA
 COUNTER
 Catalan
@@ -375,6 +376,7 @@ Close
 CD
 Come
 Circular
+Common
 NLR
 Notation
 NULL
@@ -546,6 +548,8 @@ Print
 Pool
 Physical
 Privileged
+Private
+Pull
 InOrder
 ID
 In
@@ -664,6 +668,7 @@ Bypassing
 Biased
 Bitmap
 Blocks
+Balancing
 EDGHFI
 Expression
 EdgeType
@@ -990,6 +995,7 @@ Threading
 Technology
 Two
 Tape
+Trade
 OD
 Out
 Obsidian
@@ -1037,6 +1043,7 @@ operations
 ops
 only
 open
+off
 git
 getAbstractFileByPath
 geqslant
@@ -1345,6 +1352,7 @@ Mounting
 Magnetic
 MacBook
 Many
+Migration
 boundary
 br
 base
