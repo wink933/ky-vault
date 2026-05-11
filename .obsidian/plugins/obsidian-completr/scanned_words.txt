@@ -762,6 +762,7 @@ WAR
 WAW
 WC
 Who
+Wait
 DA
 Deque
 DFS
@@ -1532,6 +1533,7 @@ idiv
 if
 init
 imm
+instance
 jvex
 jlink
 jmj
@@ -1647,6 +1649,7 @@ Hard
 Hello
 HRRN
 How
+Hold
 Java
 JVM
 JMP
@@ -1678,6 +1681,7 @@ Graphics
 Gradual
 Group
 GPU
+Gridlock
 ZFLOPS
 Zetta
 ZF
