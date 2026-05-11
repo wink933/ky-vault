@@ -765,6 +765,8 @@ Entry
 Explicit
 Exclusive
 Exclusion
+Edge
+End
 WPL
 Weight
 Would
