@@ -377,6 +377,7 @@ CD
 Come
 Circular
 Common
+Compile
 NLR
 Notation
 NULL
@@ -457,6 +458,7 @@ Linked
 Logical
 Locked
 LOOK
+Linker
 PreOrder
 PostOrder
 Prefix
