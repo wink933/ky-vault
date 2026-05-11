@@ -472,6 +472,7 @@ Logical
 Locked
 LOOK
 Linker
+LAN
 PreOrder
 PostOrder
 Prefix
@@ -569,6 +570,10 @@ Pull
 Policy
 Preemption
 PMTUD
+Provider
+Packet
+PAN
+Public
 InOrder
 ID
 In
@@ -637,6 +642,8 @@ Implicit
 IA
 IBM
 ICMP
+Internet
+ISP
 BCAEDGHFI
 BC
 BA
@@ -781,6 +788,9 @@ WC
 Who
 Wait
 WAIT
+WAN
+WPAN
+Wi
 DA
 Deque
 DFS
@@ -1249,6 +1259,7 @@ Starvation
 SACK
 SR
 SYN
+Service
 First
 FCFS
 Find
@@ -1307,6 +1318,7 @@ Fine
 Flip
 Flop
 FSCAN
+Fi
 MaxSize
 MI
 Minimum
@@ -1399,6 +1411,7 @@ Mutual
 MSS
 MTU
 MSL
+MAN
 boundary
 br
 base
@@ -1494,6 +1507,7 @@ RTO
 RTT
 Reno
 RPC
+Router
 vs
 visited
 views
@@ -1576,6 +1590,7 @@ init
 imm
 instance
 input
+internet
 jvex
 jlink
 jmj
@@ -1653,6 +1668,7 @@ key
 kx
 knowledge
 keywords
+km
 xrightarrow
 xml
 xmlns
