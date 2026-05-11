@@ -57,6 +57,7 @@ deterministic
 depth
 dev
 deviceid
+dupACK
 lchild
 ltag
 last
@@ -89,6 +90,7 @@ ls
 level
 lseek
 look
+links
 rchild
 rtag
 rear
@@ -106,6 +108,7 @@ red
 rs
 rt
 rd
+rwnd
 pre
 png
 parent
@@ -139,6 +142,9 @@ ps
 passwd
 printer
 put
+pitfalls
+pdf
+pattern
 assets
 ancestor
 adjvex
@@ -169,6 +175,7 @@ alu
 as
 aaa
 addr
+ack
 file
 front
 first
@@ -190,6 +197,8 @@ full
 frames
 findings
 formulation
+fail
+found
 ABCDF
 ABCDEFGHI
 AB
@@ -378,6 +387,7 @@ Come
 Circular
 Common
 Compile
+Checksum
 NLR
 Notation
 NULL
@@ -404,6 +414,9 @@ NUMA
 Numbers
 NStepSCAN
 No
+Nagle
+NewReno
+NAT
 LNR
 LRN
 LIFO
@@ -555,6 +568,7 @@ Private
 Pull
 Policy
 Preemption
+PMTUD
 InOrder
 ID
 In
@@ -622,6 +636,7 @@ IMR
 Implicit
 IA
 IBM
+ICMP
 BCAEDGHFI
 BC
 BA
@@ -765,6 +780,7 @@ WAW
 WC
 Who
 Wait
+WAIT
 DA
 Deque
 DFS
@@ -838,6 +854,7 @@ DC
 DCT
 Daemon
 Descriptor
+DNS
 child
 cousin
 categories
@@ -882,6 +899,9 @@ ccl
 cluster
 close
 control
+cwnd
+comparisons
+cookie
 sibling
 separator
 symbol
@@ -931,6 +951,11 @@ stdin
 stderr
 sout
 static
+seq
+ssthresh
+signals
+source
+socket
 nodes
 next
 nn
@@ -946,6 +971,7 @@ notes
 not
 neg
 nop
+needed
 TD
 Top
 TRUE
@@ -1004,6 +1030,8 @@ Technology
 Two
 Tape
 Trade
+TIME
+Tahoe
 OD
 Out
 Obsidian
@@ -1052,6 +1080,7 @@ ops
 only
 open
 off
+ok
 git
 getAbstractFileByPath
 geqslant
@@ -1217,6 +1246,9 @@ SSTF
 SCAN
 Solaris
 Starvation
+SACK
+SR
+SYN
 First
 FCFS
 Find
@@ -1364,6 +1396,9 @@ Many
 Migration
 Mechanism
 Mutual
+MSS
+MTU
+MSL
 boundary
 br
 base
@@ -1455,6 +1490,10 @@ RTL
 Relative
 RS
 Reference
+RTO
+RTT
+Reno
+RPC
 vs
 visited
 views
@@ -1536,6 +1575,7 @@ if
 init
 imm
 instance
+input
 jvex
 jlink
 jmj
@@ -1559,6 +1599,7 @@ Query
 Quick
 QPI
 QuickPath
+QUIC
 Vertex
 VIEW
 Value
@@ -1592,6 +1633,7 @@ wait
 way
 write
 wide
+why
 under
 uQ
 udv
@@ -1610,6 +1652,7 @@ your
 key
 kx
 knowledge
+keywords
 xrightarrow
 xml
 xmlns
@@ -1684,6 +1727,7 @@ Gradual
 Group
 GPU
 Gridlock
+GBN
 ZFLOPS
 Zetta
 ZF
