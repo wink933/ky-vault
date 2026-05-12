@@ -395,6 +395,7 @@ Checksum
 Circuit
 CSMA
 CA
+CDM
 NLR
 Notation
 NULL
@@ -482,6 +483,7 @@ Linker
 LAN
 LLC
 Layer
+Longest
 PreOrder
 PostOrder
 Prefix
@@ -587,6 +589,7 @@ PPP
 PDU
 Presentation
 Protocol
+PSK
 InOrder
 ID
 In
@@ -790,6 +793,7 @@ Edge
 End
 Ethernet
 Everything
+ECN
 WPL
 Weight
 Would
@@ -1461,6 +1465,8 @@ MSL
 MAN
 Medium
 Mb
+Match
+Mbps
 boundary
 br
 base
@@ -1560,6 +1566,8 @@ RPC
 Router
 Round
 RM
+RIP
+Routing
 vs
 visited
 views
@@ -1765,6 +1773,7 @@ Hello
 HRRN
 How
 Hold
+Hop
 Java
 JVM
 JMP
@@ -1799,6 +1808,7 @@ GPU
 Gridlock
 GBN
 Gb
+Gbps
 ZFLOPS
 Zetta
 ZF
