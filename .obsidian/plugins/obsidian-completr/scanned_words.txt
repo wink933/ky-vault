@@ -292,6 +292,7 @@ ACL
 Affinity
 ASN
 Application
+ARP
 CDBFA
 COUNTER
 Catalan
@@ -585,6 +586,7 @@ Public
 PPP
 PDU
 Presentation
+Protocol
 InOrder
 ID
 In
@@ -657,6 +659,8 @@ Internet
 ISP
 Implementation
 ISO
+IPv
+IGMP
 BCAEDGHFI
 BC
 BA
@@ -785,6 +789,7 @@ Exclusion
 Edge
 End
 Ethernet
+Everything
 WPL
 Weight
 Would
@@ -813,6 +818,7 @@ WPAN
 Wi
 WLAN
 WDM
+WWW
 DA
 Deque
 DFS
@@ -889,6 +895,7 @@ Descriptor
 DNS
 DIX
 Delay
+Datagram
 child
 cousin
 categories
@@ -1069,6 +1076,7 @@ Tahoe
 Trip
 TDM
 Transport
+Transmission
 OD
 Out
 Obsidian
@@ -1120,6 +1128,8 @@ only
 open
 off
 ok
+overIP
+over
 git
 getAbstractFileByPath
 geqslant
@@ -1294,6 +1304,7 @@ SaaS
 Speed
 SDU
 Session
+SAP
 First
 FCFS
 Find
