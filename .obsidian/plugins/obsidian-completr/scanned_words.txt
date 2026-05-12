@@ -290,6 +290,8 @@ ALUout
 Acknowledge
 ACL
 Affinity
+ASN
+Application
 CDBFA
 COUNTER
 Catalan
@@ -478,6 +480,7 @@ LOOK
 Linker
 LAN
 LLC
+Layer
 PreOrder
 PostOrder
 Prefix
@@ -580,6 +583,8 @@ Packet
 PAN
 Public
 PPP
+PDU
+Presentation
 InOrder
 ID
 In
@@ -650,6 +655,8 @@ IBM
 ICMP
 Internet
 ISP
+Implementation
+ISO
 BCAEDGHFI
 BC
 BA
@@ -1061,6 +1068,7 @@ TIME
 Tahoe
 Trip
 TDM
+Transport
 OD
 Out
 Obsidian
@@ -1284,6 +1292,8 @@ Service
 Switching
 SaaS
 Speed
+SDU
+Session
 First
 FCFS
 Find
@@ -1538,6 +1548,7 @@ Reno
 RPC
 Router
 Round
+RM
 vs
 visited
 views
