@@ -58,6 +58,7 @@ depth
 dev
 deviceid
 dupACK
+dB
 lchild
 ltag
 last
@@ -702,6 +703,8 @@ Bitmap
 Blocks
 Balancing
 BGP
+Baud
+Bandwidth
 EDGHFI
 Expression
 EdgeType
@@ -876,6 +879,7 @@ Daemon
 Descriptor
 DNS
 DIX
+Delay
 child
 cousin
 categories
@@ -1053,6 +1057,7 @@ Tape
 Trade
 TIME
 Tahoe
+Trip
 OD
 Out
 Obsidian
@@ -1275,6 +1280,7 @@ SYN
 Service
 Switching
 SaaS
+Speed
 First
 FCFS
 Find
@@ -1429,6 +1435,7 @@ MTU
 MSL
 MAN
 Medium
+Mb
 boundary
 br
 base
@@ -1458,6 +1465,7 @@ bne
 bin
 bbb
 block
+bps
 Reverse
 Row
 Root
@@ -1525,6 +1533,7 @@ RTT
 Reno
 RPC
 Router
+Round
 vs
 visited
 views
@@ -1687,6 +1696,7 @@ kx
 knowledge
 keywords
 km
+kb
 xrightarrow
 xml
 xmlns
@@ -1762,6 +1772,7 @@ Group
 GPU
 Gridlock
 GBN
+Gb
 ZFLOPS
 Zetta
 ZF
