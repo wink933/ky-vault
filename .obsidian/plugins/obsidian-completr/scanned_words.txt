@@ -804,6 +804,7 @@ End
 Ethernet
 Everything
 ECN
+Encoding
 WPL
 Weight
 Would
@@ -1485,6 +1486,7 @@ Mb
 Match
 Mbps
 Modulation
+Modem
 boundary
 br
 base
@@ -1720,6 +1722,7 @@ VLIW
 VESA
 Video
 VRAM
+VoIP
 You
 YYYY
 with
