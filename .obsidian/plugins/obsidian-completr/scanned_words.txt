@@ -429,6 +429,7 @@ NewReno
 NAT
 NRZ
 NRZI
+Nyquist
 LNR
 LRN
 LIFO
@@ -671,6 +672,8 @@ Implementation
 ISO
 IPv
 IGMP
+Interference
+ISI
 BCAEDGHFI
 BC
 BA
@@ -1089,6 +1092,7 @@ Trip
 TDM
 Transport
 Transmission
+Theorem
 OD
 Out
 Obsidian
@@ -1318,6 +1322,7 @@ SDU
 Session
 SAP
 Shift
+Symbol
 First
 FCFS
 Find
@@ -1748,6 +1753,7 @@ knowledge
 keywords
 km
 kb
+kHz
 xrightarrow
 xml
 xmlns
