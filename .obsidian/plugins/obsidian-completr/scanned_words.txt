@@ -293,6 +293,8 @@ Affinity
 ASN
 Application
 ARP
+Amplitude
+AM
 CDBFA
 COUNTER
 Catalan
@@ -425,6 +427,8 @@ No
 Nagle
 NewReno
 NAT
+NRZ
+NRZI
 LNR
 LRN
 LIFO
@@ -590,6 +594,9 @@ PDU
 Presentation
 Protocol
 PSK
+PCM
+Phase
+PM
 InOrder
 ID
 In
@@ -900,6 +907,7 @@ DNS
 DIX
 Delay
 Datagram
+DPSK
 child
 cousin
 categories
@@ -1309,6 +1317,7 @@ Speed
 SDU
 Session
 SAP
+Shift
 First
 FCFS
 Find
@@ -1370,6 +1379,9 @@ FSCAN
 Fi
 FTP
 FDM
+Frequency
+FSK
+FM
 MaxSize
 MI
 Minimum
@@ -1467,6 +1479,7 @@ Medium
 Mb
 Match
 Mbps
+Modulation
 boundary
 br
 base
@@ -1568,6 +1581,7 @@ Round
 RM
 RIP
 Routing
+RZ
 vs
 visited
 views
@@ -1669,6 +1683,7 @@ KLT
 Kill
 Known
 Keyboard
+Keying
 Queue
 QNPC
 Query
@@ -1676,6 +1691,8 @@ Quick
 QPI
 QuickPath
 QUIC
+QAM
+Quadrature
 Vertex
 VIEW
 Value
