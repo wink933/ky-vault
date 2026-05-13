@@ -1327,6 +1327,7 @@ Session
 SAP
 Shift
 Symbol
+STP
 First
 FCFS
 Find
@@ -1630,6 +1631,7 @@ Universal
 Unsigned
 Underflow
 UFD
+UTP
 max
 menu
 more
