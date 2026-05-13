@@ -398,6 +398,7 @@ Circuit
 CSMA
 CA
 CDM
+Copy
 NLR
 Notation
 NULL
@@ -489,6 +490,7 @@ LAN
 LLC
 Layer
 Longest
+Libraries
 PreOrder
 PostOrder
 Prefix
@@ -675,6 +677,7 @@ IGMP
 Interference
 ISI
 Inverted
+Internal
 BCAEDGHFI
 BC
 BA
@@ -806,6 +809,7 @@ Ethernet
 Everything
 ECN
 Encoding
+External
 WPL
 Weight
 Would
@@ -1329,6 +1333,7 @@ Shift
 Symbol
 STP
 Split
+STR
 First
 FCFS
 Find
@@ -1393,6 +1398,7 @@ FDM
 Frequency
 FSK
 FM
+Fragmentation
 MaxSize
 MI
 Minimum
@@ -1597,6 +1603,7 @@ Routing
 RZ
 Return
 Ring
+Region
 vs
 visited
 views
@@ -1774,6 +1781,7 @@ xEF
 xFFFFEF
 xdx
 xor
+xx
 Hash
 HT
 Hz
