@@ -913,6 +913,7 @@ DIX
 Delay
 Datagram
 DPSK
+Differential
 child
 cousin
 categories
@@ -1095,6 +1096,7 @@ TDM
 Transport
 Transmission
 Theorem
+Token
 OD
 Out
 Obsidian
@@ -1592,6 +1594,7 @@ RIP
 Routing
 RZ
 Return
+Ring
 vs
 visited
 views
