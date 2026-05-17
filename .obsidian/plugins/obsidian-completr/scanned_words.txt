@@ -400,6 +400,7 @@ CA
 CDM
 Copy
 Cyclic
+CDMA
 NLR
 Notation
 NULL
@@ -845,6 +846,7 @@ Wi
 WLAN
 WDM
 WWW
+Wavelength
 DA
 Deque
 DFS
@@ -925,6 +927,7 @@ Datagram
 DPSK
 Differential
 Delimiting
+Division
 child
 cousin
 categories
@@ -1343,6 +1346,8 @@ Split
 STR
 SOH
 Synchronization
+Statistic
+STDM
 First
 FCFS
 Find
@@ -1509,6 +1514,8 @@ Mbps
 Modulation
 Modem
 Manchester
+Multiplexing
+Multiple
 boundary
 br
 base
