@@ -399,6 +399,7 @@ CSMA
 CA
 CDM
 Copy
+Cyclic
 NLR
 Notation
 NULL
@@ -1407,6 +1408,7 @@ Frequency
 FSK
 FM
 Fragmentation
+FCS
 MaxSize
 MI
 Minimum
@@ -1612,6 +1614,7 @@ RZ
 Return
 Ring
 Region
+Redundancy
 vs
 visited
 views
