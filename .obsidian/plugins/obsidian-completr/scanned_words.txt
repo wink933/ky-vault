@@ -491,6 +491,7 @@ LLC
 Layer
 Longest
 Libraries
+LCP
 PreOrder
 PostOrder
 Prefix
@@ -735,6 +736,7 @@ BGP
 Baud
 Bandwidth
 Benchmarks
+Broadcast
 EDGHFI
 Expression
 EdgeType
@@ -1828,6 +1830,7 @@ JVM
 JMP
 Jump
 JavaScript
+Jamming
 GB
 GHz
 GFLOPS
