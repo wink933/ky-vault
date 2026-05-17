@@ -923,6 +923,7 @@ Delay
 Datagram
 DPSK
 Differential
+Delimiting
 child
 cousin
 categories
@@ -1340,6 +1341,7 @@ STP
 Split
 STR
 SOH
+Synchronization
 First
 FCFS
 Find
