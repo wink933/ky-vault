@@ -811,6 +811,8 @@ Everything
 ECN
 Encoding
 External
+EOT
+ESC
 WPL
 Weight
 Would
@@ -1335,6 +1337,7 @@ Symbol
 STP
 Split
 STR
+SOH
 First
 FCFS
 Find
@@ -1819,6 +1822,7 @@ HRRN
 How
 Hold
 Hop
+HDLC
 Java
 JVM
 JMP
