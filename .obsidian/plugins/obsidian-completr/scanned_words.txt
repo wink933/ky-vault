@@ -298,6 +298,7 @@ Amplitude
 AM
 Automatic
 ARQ
+ALOHA
 CDBFA
 COUNTER
 Catalan
@@ -404,6 +405,7 @@ CDM
 Copy
 Cyclic
 CDMA
+Carrier
 NLR
 Notation
 NULL
@@ -1354,6 +1356,8 @@ Statistic
 STDM
 Stop
 Selective
+Slot
+Sense
 First
 FCFS
 Find
