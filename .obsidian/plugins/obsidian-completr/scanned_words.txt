@@ -178,6 +178,7 @@ as
 aaa
 addr
 ack
+ad
 file
 front
 first
@@ -406,6 +407,9 @@ Copy
 Cyclic
 CDMA
 Carrier
+Collision
+CTS
+Clear
 NLR
 Notation
 NULL
@@ -439,6 +443,7 @@ NRZ
 NRZI
 Nyquist
 NAK
+NAV
 LNR
 LRN
 LIFO
@@ -611,6 +616,9 @@ Phase
 PM
 Padding
 Pure
+Portal
+PCF
+PIFS
 InOrder
 ID
 In
@@ -689,6 +697,9 @@ Interference
 ISI
 Inverted
 Internal
+Identifier
+InterFrame
+IFS
 BCAEDGHFI
 BC
 BA
@@ -746,6 +757,8 @@ Baud
 Bandwidth
 Benchmarks
 Broadcast
+BSS
+BSA
 EDGHFI
 Expression
 EdgeType
@@ -824,6 +837,7 @@ Encoding
 External
 EOT
 ESC
+ESS
 WPL
 Weight
 Would
@@ -935,6 +949,12 @@ DPSK
 Differential
 Delimiting
 Division
+Distribution
+DS
+DCF
+DIFS
+DATA
+DHCP
 child
 cousin
 categories
@@ -1036,6 +1056,7 @@ ssthresh
 signals
 source
 socket
+station
 nodes
 next
 nn
@@ -1052,6 +1073,7 @@ not
 neg
 nop
 needed
+network
 TD
 Top
 TRUE
@@ -1118,6 +1140,8 @@ Transport
 Transmission
 Theorem
 Token
+To
+Trunk
 OD
 Out
 Obsidian
@@ -1216,6 +1240,7 @@ hda
 home
 hin
 hout
+hoc
 Stack
 Sparse
 SIZE
@@ -1360,6 +1385,9 @@ Selective
 Slot
 Sense
 Slotted
+SSID
+SIFS
+Send
 First
 FCFS
 Find
@@ -1426,6 +1454,7 @@ FSK
 FM
 Fragmentation
 FCS
+FDDI
 MaxSize
 MI
 Minimum
@@ -1635,6 +1664,7 @@ Ring
 Region
 Redundancy
 Repeat
+RTS
 vs
 visited
 views
@@ -1771,6 +1801,8 @@ VESA
 Video
 VRAM
 VoIP
+VLAN
+VID
 You
 YYYY
 with
