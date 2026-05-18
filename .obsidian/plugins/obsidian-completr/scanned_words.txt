@@ -300,6 +300,7 @@ AM
 Automatic
 ARQ
 ALOHA
+Adapter
 CDBFA
 COUNTER
 Catalan
@@ -444,6 +445,7 @@ NRZI
 Nyquist
 NAK
 NAV
+NIC
 LNR
 LRN
 LIFO
@@ -955,6 +957,7 @@ DCF
 DIFS
 DATA
 DHCP
+Detection
 child
 cousin
 categories
@@ -1455,6 +1458,7 @@ FM
 Fragmentation
 FCS
 FDDI
+FF
 MaxSize
 MI
 Minimum
@@ -1931,3 +1935,4 @@ questions
 XP
 XOR
 XX
+Xerox
