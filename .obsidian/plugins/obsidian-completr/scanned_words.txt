@@ -110,6 +110,7 @@ rs
 rt
 rd
 rwnd
+reQuest
 pre
 png
 parent
@@ -295,6 +296,8 @@ Application
 ARP
 Amplitude
 AM
+Automatic
+ARQ
 CDBFA
 COUNTER
 Catalan
@@ -433,6 +436,7 @@ NAT
 NRZ
 NRZI
 Nyquist
+NAK
 LNR
 LRN
 LIFO
@@ -1348,6 +1352,8 @@ SOH
 Synchronization
 Statistic
 STDM
+Stop
+Selective
 First
 FCFS
 Find
@@ -1622,6 +1628,7 @@ Return
 Ring
 Region
 Redundancy
+Repeat
 vs
 visited
 views
