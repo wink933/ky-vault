@@ -958,6 +958,7 @@ DIFS
 DATA
 DHCP
 Detection
+Diff
 child
 cousin
 categories
@@ -1561,6 +1562,7 @@ Modem
 Manchester
 Multiplexing
 Multiple
+Man
 boundary
 br
 base
