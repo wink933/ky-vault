@@ -419,6 +419,8 @@ CTS
 Clear
 CHAP
 Cut
+Correct
+Check
 NLR
 Notation
 NULL
@@ -634,6 +636,7 @@ Pad
 Preamble
 PPPoE
 PAP
+Parity
 InOrder
 ID
 In
@@ -857,6 +860,7 @@ External
 EOT
 ESC
 ESS
+Even
 WPL
 Weight
 Would
@@ -978,6 +982,8 @@ DHCP
 Detection
 Diff
 Disassociation
+Distance
+Detect
 child
 cousin
 categories
@@ -1198,6 +1204,7 @@ Offline
 One
 OSI
 OSPF
+Odd
 obsidian
 operand
 operator
@@ -1485,6 +1492,7 @@ Fragmentation
 FCS
 FDDI
 FF
+Framing
 MaxSize
 MI
 Minimum
@@ -1918,6 +1926,7 @@ How
 Hold
 Hop
 HDLC
+Hamming
 Java
 JVM
 JMP
