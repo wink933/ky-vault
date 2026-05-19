@@ -301,6 +301,7 @@ Automatic
 ARQ
 ALOHA
 Adapter
+Ad
 CDBFA
 COUNTER
 Catalan
@@ -621,6 +622,8 @@ Pure
 Portal
 PCF
 PIFS
+Pad
+Preamble
 InOrder
 ID
 In
@@ -761,6 +764,7 @@ Benchmarks
 Broadcast
 BSS
 BSA
+BSSID
 EDGHFI
 Expression
 EdgeType
@@ -1394,6 +1398,7 @@ SIFS
 Send
 Shannon
 SNR
+SFD
 First
 FCFS
 Find
@@ -1673,6 +1678,7 @@ Region
 Redundancy
 Repeat
 RTS
+Roaming
 vs
 visited
 views
