@@ -179,6 +179,7 @@ aaa
 addr
 ack
 ad
+association
 file
 front
 first
@@ -765,6 +766,7 @@ Broadcast
 BSS
 BSA
 BSSID
+Beacon
 EDGHFI
 Expression
 EdgeType
@@ -963,6 +965,7 @@ DATA
 DHCP
 Detection
 Diff
+Disassociation
 child
 cousin
 categories
@@ -1399,6 +1402,7 @@ Send
 Shannon
 SNR
 SFD
+STA
 First
 FCFS
 Find
@@ -1679,6 +1683,7 @@ Redundancy
 Repeat
 RTS
 Roaming
+Re
 vs
 visited
 views
