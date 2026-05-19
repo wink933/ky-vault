@@ -304,6 +304,7 @@ ALOHA
 Adapter
 Ad
 ADSL
+Authenticate
 CDBFA
 COUNTER
 Catalan
@@ -414,6 +415,7 @@ Carrier
 Collision
 CTS
 Clear
+CHAP
 NLR
 Notation
 NULL
@@ -628,6 +630,7 @@ PIFS
 Pad
 Preamble
 PPPoE
+PAP
 InOrder
 ID
 In
@@ -710,6 +713,7 @@ Identifier
 InterFrame
 IFS
 IPX
+IPCP
 BCAEDGHFI
 BC
 BA
@@ -1408,6 +1412,8 @@ Shannon
 SNR
 SFD
 STA
+SONET
+SDH
 First
 FCFS
 Find
@@ -1689,6 +1695,7 @@ Repeat
 RTS
 Roaming
 Re
+Radius
 vs
 visited
 views
