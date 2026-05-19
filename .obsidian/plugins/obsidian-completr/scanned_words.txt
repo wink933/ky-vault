@@ -303,6 +303,7 @@ ARQ
 ALOHA
 Adapter
 Ad
+ADSL
 CDBFA
 COUNTER
 Catalan
@@ -448,6 +449,7 @@ Nyquist
 NAK
 NAV
 NIC
+NCP
 LNR
 LRN
 LIFO
@@ -625,6 +627,7 @@ PCF
 PIFS
 Pad
 Preamble
+PPPoE
 InOrder
 ID
 In
@@ -706,6 +709,7 @@ Internal
 Identifier
 InterFrame
 IFS
+IPX
 BCAEDGHFI
 BC
 BA
@@ -876,6 +880,7 @@ WLAN
 WDM
 WWW
 Wavelength
+Wide
 DA
 Deque
 DFS
@@ -1865,6 +1870,8 @@ xFFFFEF
 xdx
 xor
 xx
+xFF
+xC
 Hash
 HT
 Hz
