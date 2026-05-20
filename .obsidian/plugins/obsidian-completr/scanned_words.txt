@@ -984,6 +984,7 @@ Diff
 Disassociation
 Distance
 Detect
+Defined
 child
 cousin
 categories
@@ -1205,6 +1206,7 @@ One
 OSI
 OSPF
 Odd
+OpenFlow
 obsidian
 operand
 operator
@@ -1424,6 +1426,7 @@ SFD
 STA
 SONET
 SDH
+SDN
 First
 FCFS
 Find
@@ -1845,6 +1848,8 @@ VRAM
 VoIP
 VLAN
 VID
+VC
+VCID
 You
 YYYY
 with
