@@ -3,7 +3,7 @@ epoch: 1779265643753
 modelKey: Qwen3.5|3rd party (openai-format)
 tags:
   - copilot-conversation
-topic: LaTeX IP Subnet Formula Fix
+topic: IP Subnet Mask Calculation
 ---
 
 **user**: $$\left.\begin{aligned}
