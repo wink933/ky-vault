@@ -421,6 +421,7 @@ CHAP
 Cut
 Correct
 Check
+Congestion
 NLR
 Notation
 NULL
@@ -1496,6 +1497,7 @@ FCS
 FDDI
 FF
 Framing
+Flow
 MaxSize
 MI
 Minimum
@@ -1932,6 +1934,7 @@ Hold
 Hop
 HDLC
 Hamming
+Host
 Java
 JVM
 JMP
