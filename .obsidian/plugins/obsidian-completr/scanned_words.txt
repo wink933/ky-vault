@@ -309,6 +309,8 @@ Ad
 ADSL
 Authenticate
 AA
+Autonomous
+AS
 CDBFA
 COUNTER
 Catalan
@@ -732,6 +734,9 @@ IPCP
 Intermediate
 ICANN
 IANA
+Interior
+IGP
+Information
 BCAEDGHFI
 BC
 BA
@@ -793,6 +798,7 @@ BSS
 BSA
 BSSID
 Beacon
+Bellman
 EDGHFI
 Expression
 EdgeType
@@ -875,6 +881,7 @@ ESS
 Even
 EE
 EBCDIC
+EGP
 WPL
 Weight
 Would
@@ -1003,6 +1010,7 @@ DF
 Don
 Domain
 Discover
+DV
 child
 cousin
 categories
@@ -1523,6 +1531,7 @@ FF
 Framing
 Flow
 Fragment
+Ford
 MaxSize
 MI
 Minimum
