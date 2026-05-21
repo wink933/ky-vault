@@ -874,6 +874,7 @@ ESC
 ESS
 Even
 EE
+EBCDIC
 WPL
 Weight
 Would
@@ -1450,6 +1451,7 @@ STA
 SONET
 SDH
 SDN
+SSL
 First
 FCFS
 Find
@@ -2005,6 +2007,7 @@ Zero
 Zerind
 ZeroExt
 ZBR
+ZIP
 qx
 qq
 questions
