@@ -1669,6 +1669,7 @@ Man
 MF
 More
 Metric
+Maximum
 boundary
 br
 base
@@ -1785,6 +1786,7 @@ Relay
 RIPv
 RFC
 Reset
+Retransmission
 vs
 visited
 views
