@@ -666,6 +666,7 @@ PATH
 PREF
 Potato
 Peer
+PSH
 InOrder
 ID
 In
@@ -1226,6 +1227,7 @@ Tracert
 Translation
 TCAM
 Tie
+TFTP
 OD
 Out
 Obsidian
@@ -1485,6 +1487,7 @@ SONET
 SDH
 SDN
 SSL
+SMTP
 First
 FCFS
 Find
@@ -1778,6 +1781,8 @@ Re
 Radius
 Relay
 RIPv
+RFC
+Reset
 vs
 visited
 views
@@ -1815,6 +1820,7 @@ Underflow
 UFD
 UTP
 Update
+URG
 max
 menu
 more
