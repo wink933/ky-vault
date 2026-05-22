@@ -313,6 +313,7 @@ Autonomous
 AS
 Acknowledgment
 Authentication
+ABR
 CDBFA
 COUNTER
 Catalan
