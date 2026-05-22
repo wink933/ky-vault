@@ -676,6 +676,7 @@ PREF
 Potato
 Peer
 PSH
+Persistence
 InOrder
 ID
 In
@@ -944,6 +945,7 @@ WDM
 WWW
 Wavelength
 Wide
+Window
 DA
 Deque
 DFS
@@ -1810,6 +1812,7 @@ RFC
 Reset
 Retransmission
 RCVD
+Receiver
 vs
 visited
 views
@@ -2080,6 +2083,7 @@ GBN
 Gb
 Gbps
 Gateway
+Global
 ZFLOPS
 Zetta
 ZF
