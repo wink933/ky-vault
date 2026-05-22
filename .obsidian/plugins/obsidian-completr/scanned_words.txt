@@ -435,6 +435,9 @@ Classless
 CC
 Configuration
 Contents
+Client
+CLOSED
+CLOSE
 NLR
 Notation
 NULL
@@ -542,6 +545,9 @@ LSU
 LSA
 LSAck
 LOCAL
+LISTEN
+LAST
+Lifetime
 PreOrder
 PostOrder
 Prefix
@@ -902,6 +908,7 @@ Even
 EE
 EBCDIC
 EGP
+ESTABLISHED
 WPL
 Weight
 Would
@@ -1490,6 +1497,7 @@ SDN
 SSL
 SMTP
 SNMP
+SENT
 First
 FCFS
 Find
@@ -1787,6 +1795,7 @@ RIPv
 RFC
 Reset
 Retransmission
+RCVD
 vs
 visited
 views
