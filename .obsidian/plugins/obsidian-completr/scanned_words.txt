@@ -1228,6 +1228,7 @@ Translation
 TCAM
 Tie
 TFTP
+TELNET
 OD
 Out
 Obsidian
@@ -1488,6 +1489,7 @@ SDH
 SDN
 SSL
 SMTP
+SNMP
 First
 FCFS
 Find
