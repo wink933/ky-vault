@@ -314,6 +314,7 @@ AS
 Acknowledgment
 Authentication
 ABR
+ASIC
 CDBFA
 COUNTER
 Catalan
@@ -662,6 +663,8 @@ Parity
 PING
 PATH
 PREF
+Potato
+Peer
 InOrder
 ID
 In
@@ -1220,6 +1223,8 @@ Trie
 Traceroute
 Tracert
 Translation
+TCAM
+Tie
 OD
 Out
 Obsidian
@@ -1688,6 +1693,7 @@ bin
 bbb
 block
 bps
+breaker
 Reverse
 Row
 Root
@@ -2000,6 +2006,7 @@ HDLC
 Hamming
 Host
 HOP
+Hot
 Java
 JVM
 JMP
