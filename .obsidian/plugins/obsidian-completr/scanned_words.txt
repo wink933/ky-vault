@@ -322,6 +322,8 @@ Authentication
 ABR
 ASIC
 Alive
+AIMD
+Additive
 CDBFA
 COUNTER
 Catalan
@@ -780,6 +782,7 @@ Interior
 IGP
 Information
 IMAP
+Increase
 BCAEDGHFI
 BC
 BA
@@ -1062,6 +1065,7 @@ DV
 Database
 Description
 Download
+Decrease
 child
 cousin
 categories
@@ -1267,6 +1271,7 @@ TFTP
 TELNET
 TLD
 Transfer
+Threshold
 OD
 Out
 Obsidian
@@ -1539,6 +1544,7 @@ SMTP
 SNMP
 SENT
 Simple
+Slow
 First
 FCFS
 Find
@@ -1613,6 +1619,7 @@ Fragment
 Ford
 Flooding
 Foxmail
+Fast
 MaxSize
 MI
 Minimum
@@ -1723,6 +1730,7 @@ Maximum
 MIME
 Multipurpose
 Mail
+Multiplicative
 boundary
 br
 base
@@ -1843,6 +1851,8 @@ Reset
 Retransmission
 RCVD
 Receiver
+Retransmit
+Recovery
 vs
 visited
 views
