@@ -443,6 +443,7 @@ CLOSED
 CLOSE
 CERNET
 Cookie
+Chrome
 NLR
 Notation
 NULL
@@ -1054,6 +1055,7 @@ Discover
 DV
 Database
 Description
+Download
 child
 cousin
 categories
@@ -1943,6 +1945,7 @@ Known
 Keyboard
 Keying
 Keepalive
+Keep
 Queue
 QNPC
 Query
@@ -1952,6 +1955,7 @@ QuickPath
 QUIC
 QAM
 Quadrature
+QQ
 Vertex
 VIEW
 Value
