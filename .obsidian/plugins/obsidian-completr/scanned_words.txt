@@ -451,6 +451,7 @@ CERNET
 Cookie
 Chrome
 CRLF
+Cumulative
 NLR
 Notation
 NULL
@@ -1547,6 +1548,7 @@ SENT
 Simple
 Slow
 Sliding
+SW
 First
 FCFS
 Find
