@@ -29,6 +29,7 @@ then
 tests
 txt
 through
+transaction
 date
 data
 descendant
@@ -182,6 +183,7 @@ ack
 ad
 association
 arpa
+anonymous
 file
 front
 first
@@ -440,6 +442,7 @@ Client
 CLOSED
 CLOSE
 CERNET
+Cookie
 NLR
 Notation
 NULL
@@ -480,6 +483,7 @@ Net
 NEXT
 Notification
 Name
+NFS
 LNR
 LRN
 LIFO
@@ -677,6 +681,9 @@ Potato
 Peer
 PSH
 Persistence
+Post
+PORT
+PASV
 InOrder
 ID
 In
@@ -914,6 +921,7 @@ EE
 EBCDIC
 EGP
 ESTABLISHED
+Extensions
 WPL
 Weight
 Would
@@ -1248,6 +1256,7 @@ Tie
 TFTP
 TELNET
 TLD
+Transfer
 OD
 Out
 Obsidian
@@ -1284,6 +1293,8 @@ OSPF
 Odd
 OpenFlow
 Offer
+Outlook
+Office
 obsidian
 operand
 operator
@@ -1305,6 +1316,7 @@ ok
 overIP
 over
 org
+oriented
 git
 getAbstractFileByPath
 geqslant
@@ -1514,6 +1526,7 @@ SSL
 SMTP
 SNMP
 SENT
+Simple
 First
 FCFS
 Find
@@ -1587,6 +1600,7 @@ Flow
 Fragment
 Ford
 Flooding
+Foxmail
 MaxSize
 MI
 Minimum
@@ -1694,6 +1708,9 @@ MF
 More
 Metric
 Maximum
+MIME
+Multipurpose
+Mail
 boundary
 br
 base
@@ -1725,6 +1742,7 @@ bbb
 block
 bps
 breaker
+band
 Reverse
 Row
 Root
@@ -1851,6 +1869,9 @@ UFD
 UTP
 Update
 URG
+UA
+URL
+Usenet
 max
 menu
 more
@@ -2046,12 +2067,15 @@ Hamming
 Host
 HOP
 Hot
+Hotmail
+HTML
 Java
 JVM
 JMP
 Jump
 JavaScript
 Jamming
+JPEG
 GB
 GHz
 GFLOPS
@@ -2084,6 +2108,7 @@ Gb
 Gbps
 Gateway
 Global
+Gmail
 ZFLOPS
 Zetta
 ZF
