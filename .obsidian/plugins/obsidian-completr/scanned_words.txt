@@ -62,6 +62,7 @@ deviceid
 dupACK
 dB
 df
+diaper
 lchild
 ltag
 last
@@ -151,6 +152,7 @@ pitfalls
 pdf
 pattern
 proxy
+pm
 assets
 ancestor
 adjvex
@@ -452,6 +454,7 @@ Cookie
 Chrome
 CRLF
 Cumulative
+Classifier
 NLR
 Notation
 NULL
@@ -493,6 +496,7 @@ NEXT
 Notification
 Name
 NFS
+Naive
 LNR
 LRN
 LIFO
@@ -564,6 +568,7 @@ LOCAL
 LISTEN
 LAST
 Lifetime
+Laplace
 PreOrder
 PostOrder
 Prefix
@@ -848,6 +853,8 @@ BSSID
 Beacon
 Bellman
 Border
+Bayes
+Bayesian
 EDGHFI
 Expression
 EdgeType
@@ -967,6 +974,7 @@ Wavelength
 Wide
 Window
 Wireshark
+Wet
 DA
 Deque
 DFS
@@ -1071,6 +1079,7 @@ Download
 Decrease
 Drift
 Decoding
+Diaper
 child
 cousin
 categories
@@ -1123,6 +1132,7 @@ cskaoyan
 ccTLD
 cn
 cache
+cry
 sibling
 separator
 symbol
@@ -1179,6 +1189,7 @@ source
 socket
 station
 server
+smile
 nodes
 next
 nn
@@ -1392,6 +1403,9 @@ home
 hin
 hout
 hoc
+happy
+hungry
+having
 Stack
 Sparse
 SIZE
@@ -1742,6 +1756,7 @@ Multipurpose
 Mail
 Multiplicative
 Markov
+MAP
 boundary
 br
 base
@@ -2030,6 +2045,7 @@ write
 wide
 why
 www
+wet
 under
 uQ
 udv
@@ -2107,6 +2123,8 @@ Hot
 Hotmail
 HTML
 Hidden
+Happy
+Hungry
 Java
 JVM
 JMP
