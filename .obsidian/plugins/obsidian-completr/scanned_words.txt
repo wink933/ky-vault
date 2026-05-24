@@ -693,6 +693,7 @@ Persistence
 Post
 PORT
 PASV
+Programming
 InOrder
 ID
 In
@@ -932,6 +933,7 @@ EBCDIC
 EGP
 ESTABLISHED
 Extensions
+Evaluation
 WPL
 Weight
 Would
@@ -1068,6 +1070,7 @@ Description
 Download
 Decrease
 Drift
+Decoding
 child
 cousin
 categories
@@ -1194,6 +1197,7 @@ nop
 needed
 network
 net
+normal
 TD
 Top
 TRUE
@@ -1313,6 +1317,7 @@ Offer
 Outlook
 Office
 Oriented
+Observations
 obsidian
 operand
 operator
@@ -1549,6 +1554,7 @@ Simple
 Slow
 Sliding
 SW
+States
 First
 FCFS
 Find
@@ -1735,6 +1741,7 @@ MIME
 Multipurpose
 Mail
 Multiplicative
+Markov
 boundary
 br
 base
@@ -1767,6 +1774,7 @@ block
 bps
 breaker
 band
+bad
 Reverse
 Row
 Root
@@ -2008,6 +2016,7 @@ VID
 VC
 VCID
 VLSM
+Viterbi
 You
 YYYY
 with
@@ -2097,6 +2106,7 @@ HOP
 Hot
 Hotmail
 HTML
+Hidden
 Java
 JVM
 JMP
