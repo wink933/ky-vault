@@ -455,6 +455,7 @@ Chrome
 CRLF
 Cumulative
 Classifier
+Caching
 NLR
 Notation
 NULL
@@ -790,6 +791,7 @@ IGP
 Information
 IMAP
 Increase
+Individual
 BCAEDGHFI
 BC
 BA
@@ -1351,6 +1353,7 @@ overIP
 over
 org
 oriented
+order
 git
 getAbstractFileByPath
 geqslant
