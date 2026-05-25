@@ -704,6 +704,7 @@ Post
 PORT
 PASV
 Programming
+Parameter
 InOrder
 ID
 In
@@ -948,6 +949,7 @@ EGP
 ESTABLISHED
 Extensions
 Evaluation
+Exceeded
 WPL
 Weight
 Would
@@ -1298,6 +1300,7 @@ TELNET
 TLD
 Transfer
 Threshold
+Type
 OD
 Out
 Obsidian
@@ -1893,6 +1896,7 @@ Retransmit
 Recovery
 Repeater
 Route
+Redirect
 vs
 visited
 views
@@ -1935,6 +1939,7 @@ UA
 URL
 Usenet
 Unicast
+Unreachable
 max
 menu
 more
@@ -2017,6 +2022,7 @@ QUIC
 QAM
 Quadrature
 QQ
+Quench
 Vertex
 VIEW
 Value
