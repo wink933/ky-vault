@@ -326,6 +326,8 @@ ASIC
 Alive
 AIMD
 Additive
+Analog
+Amplifier
 CDBFA
 COUNTER
 Catalan
@@ -1083,6 +1085,7 @@ Decrease
 Drift
 Decoding
 Diaper
+Digital
 child
 cousin
 categories
@@ -1884,6 +1887,7 @@ RCVD
 Receiver
 Retransmit
 Recovery
+Repeater
 vs
 visited
 views
