@@ -857,6 +857,7 @@ Bellman
 Border
 Bayes
 Bayesian
+Band
 EDGHFI
 Expression
 EdgeType
@@ -2169,6 +2170,7 @@ Gateway
 Global
 Gmail
 GET
+Guard
 ZFLOPS
 Zetta
 ZF
