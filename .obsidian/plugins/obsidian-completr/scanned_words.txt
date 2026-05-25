@@ -500,6 +500,7 @@ Notification
 Name
 NFS
 Naive
+Networks
 LNR
 LRN
 LIFO
@@ -2133,6 +2134,7 @@ HTML
 Hidden
 Happy
 Hungry
+Heterogeneous
 Java
 JVM
 JMP
