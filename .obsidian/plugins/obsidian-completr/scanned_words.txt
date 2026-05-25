@@ -501,6 +501,7 @@ Name
 NFS
 Naive
 Networks
+NAPT
 LNR
 LRN
 LIFO
@@ -1087,6 +1088,7 @@ Drift
 Decoding
 Diaper
 Digital
+Default
 child
 cousin
 categories
@@ -1577,6 +1579,7 @@ Slow
 Sliding
 SW
 States
+Supernetting
 First
 FCFS
 Find
@@ -1889,6 +1892,7 @@ Receiver
 Retransmit
 Recovery
 Repeater
+Route
 vs
 visited
 views
@@ -1930,6 +1934,7 @@ URG
 UA
 URL
 Usenet
+Unicast
 max
 menu
 more
