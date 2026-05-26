@@ -188,6 +188,7 @@ ad
 association
 arpa
 anonymous
+around
 file
 front
 first
@@ -705,6 +706,7 @@ PORT
 PASV
 Programming
 Parameter
+Pseudo
 InOrder
 ID
 In
@@ -985,6 +987,7 @@ Wide
 Window
 Wireshark
 Wet
+Wrap
 DA
 Deque
 DFS
@@ -1420,6 +1423,7 @@ hoc
 happy
 hungry
 having
+header
 Stack
 Sparse
 SIZE
