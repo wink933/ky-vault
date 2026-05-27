@@ -1406,6 +1406,7 @@ ext
 eBGP
 external
 edu
+exFAT
 head
 headvex
 hlink
@@ -2152,6 +2153,7 @@ Hidden
 Happy
 Hungry
 Heterogeneous
+HDD
 Java
 JVM
 JMP
