@@ -1,8 +1,17 @@
 ---
-title: 大数定理和中心极限定理
+epoch: 1780052782237
+modelKey: Qwen3.5|3rd party (openai-format)
 tags:
-date: 2026-05-29
+  - copilot-conversation
+topic: Math Formula Rendering Error Fix
 ---
+
+**user**: 笔记中的数学公式渲染错误
+[Context: Notes: 概率论/大数定理和中心极限定理.md]
+[Timestamp: 2026/05/29 19:06:22]
+
+**ai**: 
+
 我检查了笔记中的数学公式，发现确实存在 LaTeX 渲染错误。主要问题是**大括号 `{` 和 `}` 没有正确转义**，在 LaTeX 中需要使用 `\{` 和 `\}` 来表示字面大括号。
 
 以下是修正后的完整笔记：
@@ -44,3 +53,15 @@ date: 2026-05-29
 
 ---
 
+## 主要修正说明
+
+| 位置 | 原错误 | 修正后 |
+| --- | --- | --- |
+| 切比雪夫不等式 | `P{|X - E(X)| \ge \varepsilon}` | `P\{|X - E(X)| \ge \varepsilon\}` |
+| 依概率收敛定义 | `P{|X_n - a| < \varepsilon}` | `P\{|X_n - a| < \varepsilon\}` |
+| 中心极限定理 | `P\left{ ... \right}` | `P\left\{ ... \right\}` |
+
+**核心规则**：LaTeX 中的 `{` 和 `}` 必须转义为 `\{` 和 `\}`，否则会被解析为 LaTeX 命令而非字面符号。
+
+现在公式应该可以正常渲染了！📝
+[Timestamp: 2026/05/29 19:06:37]
