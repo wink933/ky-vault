@@ -459,6 +459,7 @@ CRLF
 Cumulative
 Classifier
 Caching
+Chebyshev
 NLR
 Notation
 NULL
@@ -575,6 +576,10 @@ LISTEN
 LAST
 Lifetime
 Laplace
+Law
+Large
+Limit
+Lindeberg
 PreOrder
 PostOrder
 Prefix
@@ -799,6 +804,7 @@ Information
 IMAP
 Increase
 Individual
+Inequality
 BCAEDGHFI
 BC
 BA
@@ -865,6 +871,7 @@ Border
 Bayes
 Bayesian
 Band
+Bernoulli
 EDGHFI
 Expression
 EdgeType
@@ -1095,6 +1102,7 @@ Decoding
 Diaper
 Digital
 Default
+De
 child
 cousin
 categories
@@ -1778,6 +1786,7 @@ Multiplicative
 Markov
 MAP
 Multicast
+Moivre
 boundary
 br
 base
@@ -1913,6 +1922,7 @@ vdx
 vault
 value
 vnode
+vy
 Union
 ULhxiV
 Users
@@ -2019,6 +2029,7 @@ Keyboard
 Keying
 Keepalive
 Keep
+Khinchin
 Queue
 QNPC
 Query
