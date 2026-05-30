@@ -580,6 +580,7 @@ Law
 Large
 Limit
 Lindeberg
+LaTeX
 PreOrder
 PostOrder
 Prefix
@@ -1787,6 +1788,7 @@ Markov
 MAP
 Multicast
 Moivre
+MLE
 boundary
 br
 base
