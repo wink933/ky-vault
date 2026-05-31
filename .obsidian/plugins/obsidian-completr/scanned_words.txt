@@ -153,6 +153,7 @@ pdf
 pattern
 proxy
 pm
+pital
 assets
 ancestor
 adjvex
@@ -806,6 +807,7 @@ IMAP
 Increase
 Individual
 Inequality
+Integrals
 BCAEDGHFI
 BC
 BA
@@ -1789,6 +1791,7 @@ MAP
 Multicast
 Moivre
 MLE
+Mean
 boundary
 br
 base
@@ -1915,6 +1918,7 @@ Recovery
 Repeater
 Route
 Redirect
+Rule
 vs
 visited
 views
