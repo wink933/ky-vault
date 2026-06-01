@@ -96,6 +96,7 @@ level
 lseek
 look
 links
+lower
 rchild
 rtag
 rear
@@ -115,6 +116,7 @@ rt
 rd
 rwnd
 reQuest
+reduction
 pre
 png
 parent
@@ -154,6 +156,7 @@ pattern
 proxy
 pm
 pital
+processing
 assets
 ancestor
 adjvex
@@ -330,6 +333,8 @@ AIMD
 Additive
 Analog
 Amplifier
+Adjustment
+AVX
 CDBFA
 COUNTER
 Catalan
@@ -461,6 +466,8 @@ Cumulative
 Classifier
 Caching
 Chebyshev
+Computation
+Clang
 NLR
 Notation
 NULL
@@ -505,6 +512,7 @@ NFS
 Naive
 Networks
 NAPT
+NNZ
 LNR
 LRN
 LIFO
@@ -714,6 +722,11 @@ PASV
 Programming
 Parameter
 Pseudo
+Pre
+Partitioning
+Prefetching
+Profile
+Profiling
 InOrder
 ID
 In
@@ -808,6 +821,7 @@ Increase
 Individual
 Inequality
 Integrals
+Imbalance
 BCAEDGHFI
 BC
 BA
@@ -1106,6 +1120,8 @@ Diaper
 Digital
 Default
 De
+DistSpMV
+Diagonal
 child
 cousin
 categories
@@ -1356,6 +1372,9 @@ Outlook
 Office
 Oriented
 Observations
+OpenMP
+Overlap
+Overall
 obsidian
 operand
 operator
@@ -1601,6 +1620,11 @@ SW
 States
 Supernetting
 Squeeze
+SuiteSparse
+SpMV
+Smart
+Stride
+Speedup
 First
 FCFS
 Find
@@ -1793,6 +1817,8 @@ Multicast
 Moivre
 MLE
 Mean
+MPI
+METIS
 boundary
 br
 base
@@ -1826,6 +1852,8 @@ bps
 breaker
 band
 bad
+bound
+blocking
 Reverse
 Row
 Root
@@ -1920,6 +1948,7 @@ Repeater
 Route
 Redirect
 Rule
+Remote
 vs
 visited
 views
@@ -2077,6 +2106,7 @@ VC
 VCID
 VLSM
 Viterbi
+Vectorization
 You
 YYYY
 with
@@ -2214,6 +2244,7 @@ Global
 Gmail
 GET
 Guard
+GNN
 ZFLOPS
 Zetta
 ZF
