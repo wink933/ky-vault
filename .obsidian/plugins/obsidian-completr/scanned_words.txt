@@ -157,6 +157,7 @@ proxy
 pm
 pital
 processing
+pptx
 assets
 ancestor
 adjvex
@@ -468,6 +469,7 @@ Caching
 Chebyshev
 Computation
 Clang
+Cacheline
 NLR
 Notation
 NULL
