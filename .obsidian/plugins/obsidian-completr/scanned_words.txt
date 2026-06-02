@@ -2157,6 +2157,7 @@ xor
 xx
 xFF
 xC
+xy
 Hash
 HT
 Hz
