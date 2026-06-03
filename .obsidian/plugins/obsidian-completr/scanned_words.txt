@@ -1339,6 +1339,7 @@ TLD
 Transfer
 Threshold
 Type
+TailInsert
 OD
 Out
 Obsidian
@@ -2211,6 +2212,7 @@ Happy
 Hungry
 Heterogeneous
 HDD
+HeadInsert
 Java
 JVM
 JMP
@@ -2254,6 +2256,7 @@ Gmail
 GET
 Guard
 GNN
+GetElem
 ZFLOPS
 Zetta
 ZF
