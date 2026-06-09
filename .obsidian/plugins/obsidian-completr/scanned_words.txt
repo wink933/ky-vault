@@ -734,6 +734,8 @@ Partitioning
 Prefetching
 Profile
 Profiling
+Preserving
+Property
 InOrder
 ID
 In
@@ -1130,6 +1132,7 @@ Default
 De
 DistSpMV
 Diagonal
+Darboux
 child
 cousin
 categories
