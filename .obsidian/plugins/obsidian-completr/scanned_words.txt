@@ -472,6 +472,7 @@ Chebyshev
 Computation
 Clang
 Cacheline
+Critical
 NLR
 Notation
 NULL
@@ -832,6 +833,7 @@ Inequality
 Integrals
 Imbalance
 InitList
+Inflection
 BCAEDGHFI
 BC
 BA
@@ -899,6 +901,7 @@ Bayes
 Bayesian
 Band
 Bernoulli
+BOSS
 EDGHFI
 Expression
 EdgeType
@@ -1637,6 +1640,7 @@ SpMV
 Smart
 Stride
 Speedup
+Stationary
 First
 FCFS
 Find
@@ -2006,6 +2010,7 @@ URL
 Usenet
 Unicast
 Unreachable
+Unbounded
 max
 menu
 more
@@ -2090,6 +2095,7 @@ QAM
 Quadrature
 QQ
 Quench
+Quantity
 Vertex
 VIEW
 Value
