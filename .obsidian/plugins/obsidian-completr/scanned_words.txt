@@ -98,6 +98,7 @@ look
 links
 lower
 length
+lfloor
 rchild
 rtag
 rear
@@ -118,6 +119,8 @@ rd
 rwnd
 reQuest
 reduction
+rightarrow
+rfloor
 pre
 png
 parent
@@ -1347,6 +1350,7 @@ Transfer
 Threshold
 Type
 TailInsert
+Triple
 OD
 Out
 Obsidian
@@ -1390,6 +1394,7 @@ Observations
 OpenMP
 Overlap
 Overall
+Orthogonal
 obsidian
 operand
 operator
@@ -1424,6 +1429,7 @@ get
 gTLD
 gov
 gif
+ge
 edges
 excalidraw
 eIOzQi
