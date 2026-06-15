@@ -121,6 +121,7 @@ reQuest
 reduction
 rightarrow
 rfloor
+root
 pre
 png
 parent
