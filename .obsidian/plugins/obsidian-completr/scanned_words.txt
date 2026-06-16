@@ -1140,6 +1140,8 @@ De
 DistSpMV
 Diagonal
 Darboux
+Differentiability
+Derivative
 child
 cousin
 categories
