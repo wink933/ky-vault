@@ -30,6 +30,7 @@ tests
 txt
 through
 transaction
+total
 date
 data
 descendant
@@ -63,6 +64,7 @@ dupACK
 dB
 df
 diaper
+differential
 lchild
 ltag
 last
@@ -226,6 +228,7 @@ found
 forward
 festival
 face
+form
 ABCDF
 ABCDEFGHI
 AB
@@ -602,6 +605,7 @@ LaTeX
 ListInsert
 ListDelete
 LocateElem
+Lemniscate
 PreOrder
 PostOrder
 Prefix
@@ -838,6 +842,7 @@ Integrals
 Imbalance
 InitList
 Inflection
+Invariance
 BCAEDGHFI
 BC
 BA
@@ -1882,6 +1887,7 @@ band
 bad
 bound
 blocking
+boss
 Reverse
 Row
 Root
