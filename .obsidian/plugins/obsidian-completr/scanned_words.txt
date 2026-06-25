@@ -166,6 +166,7 @@ pital
 processing
 pptx
 passing
+place
 assets
 ancestor
 adjvex
@@ -1656,6 +1657,7 @@ Smart
 Stride
 Speedup
 Stationary
+Sorting
 First
 FCFS
 Find
