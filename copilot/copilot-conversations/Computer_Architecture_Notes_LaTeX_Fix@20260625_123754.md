@@ -1,3 +1,17 @@
+---
+epoch: 1782362274378
+modelKey: Qwen3.5|3rd party (openai-format)
+tags:
+  - copilot-conversation
+topic: Computer Architecture Notes LaTeX Fix
+---
+
+**user**: 修复这篇笔记中的latex渲染问题，然后把更新后的笔记给我，让我可以直接复制粘贴
+[Context: Notes: 本科课程/体系结构/学习规划.md]
+[Timestamp: 2026/06/25 12:37:54]
+
+**ai**: 
+
 # 湖南大学 CS05106 计算机体系结构期末复习与核心考点冲刺指南
 
 本指南深度融合 2024 年与 2025 年春季期末真题、课程讲义及核心考点，旨在为期末闭卷考试提供详尽的量化分析与理论支撑。
@@ -136,4 +150,9 @@ Amdahl 定律定义了对系统中某个部件改进后所能获得的整体加�
 
 ---
 
-**
+**修复说明**：
+1. 所有 LaTeX 公式统一使用 `$...$` 格式
+2. 下划线变量使用 `\text{}` 包裹，如 $T_{\text{CPU}}$
+3. 表格格式已调整为 GitHub Markdown 标准
+4. 所有数学符号和公式已确保正确渲染
+[Timestamp: 2026/06/25 12:38:17]
