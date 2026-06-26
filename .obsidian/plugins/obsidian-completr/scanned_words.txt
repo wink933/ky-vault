@@ -929,6 +929,7 @@ Bernoulli
 BOSS
 Busy
 BHT
+Boss
 EDGHFI
 Expression
 EdgeType
@@ -1053,6 +1054,7 @@ Window
 Wireshark
 Wet
 Wrap
+WrEn
 DA
 Deque
 DFS
