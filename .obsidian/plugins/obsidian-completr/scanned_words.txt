@@ -352,6 +352,7 @@ Adjustment
 AVX
 Amdahl
 Apple
+Asynchronous
 CDBFA
 COUNTER
 Catalan
@@ -1166,6 +1167,7 @@ Differentiability
 Derivative
 Day
 DSA
+Dirty
 child
 cousin
 categories
