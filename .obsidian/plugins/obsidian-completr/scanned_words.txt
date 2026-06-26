@@ -856,6 +856,7 @@ Inflection
 Invariance
 IC
 Involution
+Impedance
 BCAEDGHFI
 BC
 BA
@@ -1014,6 +1015,7 @@ Extensions
 Evaluation
 Exceeded
 Echo
+Expansion
 WPL
 Weight
 Would
@@ -2278,6 +2280,7 @@ Hungry
 Heterogeneous
 HDD
 HeadInsert
+High
 Java
 JVM
 JMP
