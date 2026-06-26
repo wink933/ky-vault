@@ -488,6 +488,7 @@ Clang
 Cacheline
 Critical
 CS
+Cell
 NLR
 Notation
 NULL
@@ -615,6 +616,7 @@ ListDelete
 LocateElem
 Lemniscate
 LD
+Line
 PreOrder
 PostOrder
 Prefix
@@ -1755,6 +1757,7 @@ Flooding
 Foxmail
 Fast
 FPU
+Fan
 MaxSize
 MI
 Minimum
@@ -2011,6 +2014,7 @@ Redirect
 Rule
 Remote
 Rosetta
+RC
 vs
 visited
 views
