@@ -490,6 +490,7 @@ Cacheline
 Critical
 CS
 Cell
+CMP
 NLR
 Notation
 NULL
