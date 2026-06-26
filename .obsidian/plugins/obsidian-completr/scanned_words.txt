@@ -1386,6 +1386,7 @@ Tomasulo
 TC
 TSX
 TPU
+Tri
 OD
 Out
 Obsidian
@@ -1466,6 +1467,7 @@ gTLD
 gov
 gif
 ge
+gate
 edges
 excalidraw
 eIOzQi
