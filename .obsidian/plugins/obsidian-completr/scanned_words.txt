@@ -491,6 +491,7 @@ Critical
 CS
 Cell
 CMP
+Case
 NLR
 Notation
 NULL
@@ -930,6 +931,8 @@ BOSS
 Busy
 BHT
 Boss
+Benchmark
+Barsis
 EDGHFI
 Expression
 EdgeType
@@ -1433,6 +1436,7 @@ OpenMP
 Overlap
 Overall
 Orthogonal
+Organization
 obsidian
 operand
 operator
@@ -1691,6 +1695,10 @@ Sorting
 Scoreboard
 Semantic
 Strobe
+SPEC
+SPECint
+SPECfp
+Stalls
 First
 FCFS
 Find
@@ -1892,6 +1900,7 @@ Method
 Microarchitecture
 Mult
 MySQL
+Make
 boundary
 br
 base
@@ -2025,6 +2034,8 @@ Rule
 Remote
 Rosetta
 RC
+Response
+Ratio
 vs
 visited
 views
@@ -2334,6 +2345,8 @@ Guard
 GNN
 GetElem
 Gap
+Geometric
+Gustafson
 ZFLOPS
 Zetta
 ZF
