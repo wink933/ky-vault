@@ -102,6 +102,7 @@ lower
 length
 lfloor
 lui
+latency
 rchild
 rtag
 rear
@@ -168,6 +169,9 @@ processing
 pptx
 passing
 place
+pipelined
+parallel
+pipelines
 assets
 ancestor
 adjvex
@@ -234,6 +238,7 @@ face
 form
 fdiv
 fmul
+fixed
 ABCDF
 ABCDEFGHI
 AB
@@ -492,6 +497,9 @@ CS
 Cell
 CMP
 Case
+Concept
+CDC
+Cray
 NLR
 Notation
 NULL
@@ -1022,6 +1030,8 @@ Evaluation
 Exceeded
 Echo
 Expansion
+EDSAC
+EPIC
 WPL
 Weight
 Would
@@ -1520,6 +1530,7 @@ happy
 hungry
 having
 header
+hardwired
 Stack
 Sparse
 SIZE
@@ -1699,6 +1710,7 @@ SPEC
 SPECint
 SPECfp
 Stalls
+SPARC
 First
 FCFS
 Find
@@ -1776,6 +1788,7 @@ Foxmail
 Fast
 FPU
 Fan
+Family
 MaxSize
 MI
 Minimum
@@ -1901,6 +1914,7 @@ Microarchitecture
 Mult
 MySQL
 Make
+Machines
 boundary
 br
 base
@@ -2107,6 +2121,7 @@ mount
 my
 mail
 main
+microcoded
 info
 ivex
 ilink
@@ -2202,6 +2217,7 @@ Viterbi
 Vectorization
 Vj
 Vk
+Vax
 You
 YYYY
 with
@@ -2228,6 +2244,7 @@ up
 use
 user
 us
+unpipelined
 zGzAdvo
 yq
 you
