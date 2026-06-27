@@ -358,6 +358,9 @@ AVX
 Amdahl
 Apple
 Asynchronous
+Aligned
+Autoincrement
+Autodecrement
 CDBFA
 COUNTER
 Catalan
@@ -545,6 +548,7 @@ Naive
 Networks
 NAPT
 NNZ
+Null
 LNR
 LRN
 LIFO
@@ -767,6 +771,7 @@ Profile
 Profiling
 Preserving
 Property
+Penalty
 InOrder
 ID
 In
@@ -1032,6 +1037,7 @@ Echo
 Expansion
 EDSAC
 EPIC
+Endian
 WPL
 Weight
 Would
@@ -1184,6 +1190,7 @@ Derivative
 Day
 DSA
 Dirty
+Displacement
 child
 cousin
 categories
@@ -1237,6 +1244,7 @@ ccTLD
 cn
 cache
 cry
+chapter
 sibling
 separator
 symbol
@@ -1447,6 +1455,7 @@ Overlap
 Overall
 Orthogonal
 Organization
+Orthogonality
 obsidian
 operand
 operator
@@ -1711,6 +1720,8 @@ SPECint
 SPECfp
 Stalls
 SPARC
+Significant
+Scaled
 First
 FCFS
 Find
@@ -1915,6 +1926,10 @@ Mult
 MySQL
 Make
 Machines
+Modes
+Most
+Motorola
+Misaligned
 boundary
 br
 base
@@ -2149,6 +2164,7 @@ internet
 iBGP
 internal
 ins
+indirect
 jvex
 jlink
 jmj
