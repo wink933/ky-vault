@@ -172,6 +172,7 @@ place
 pipelined
 parallel
 pipelines
+pro
 assets
 ancestor
 adjvex
@@ -772,6 +773,7 @@ Profiling
 Preserving
 Property
 Penalty
+Precision
 InOrder
 ID
 In
@@ -873,6 +875,7 @@ Invariance
 IC
 Involution
 Impedance
+Integer
 BCAEDGHFI
 BC
 BA
@@ -1074,6 +1077,7 @@ Wireshark
 Wet
 Wrap
 WrEn
+Win
 DA
 Deque
 DFS
@@ -1191,6 +1195,7 @@ Day
 DSA
 Dirty
 Displacement
+Double
 child
 cousin
 categories
@@ -1410,6 +1415,7 @@ TC
 TSX
 TPU
 Tri
+Types
 OD
 Out
 Obsidian
@@ -1456,6 +1462,7 @@ Overall
 Orthogonal
 Organization
 Orthogonality
+Operands
 obsidian
 operand
 operator
@@ -1722,6 +1729,8 @@ Stalls
 SPARC
 Significant
 Scaled
+Sizes
+Short
 First
 FCFS
 Find
@@ -2110,6 +2119,7 @@ Usenet
 Unicast
 Unreachable
 Unbounded
+Unicode
 max
 menu
 more
@@ -2201,6 +2211,7 @@ Quench
 Quantity
 Qj
 Qk
+Quad
 Vertex
 VIEW
 Value
