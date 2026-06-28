@@ -173,6 +173,7 @@ pipelined
 parallel
 pipelines
 pro
+ported
 assets
 ancestor
 adjvex
@@ -774,6 +775,7 @@ Preserving
 Property
 Penalty
 Precision
+Predict
 InOrder
 ID
 In
@@ -949,6 +951,8 @@ BHT
 Boss
 Benchmark
 Barsis
+Bubble
+BTB
 EDGHFI
 Expression
 EdgeType
@@ -1196,6 +1200,7 @@ DSA
 Dirty
 Displacement
 Double
+Dual
 child
 cousin
 categories
@@ -1416,6 +1421,7 @@ TSX
 TPU
 Tri
 Types
+Taken
 OD
 Out
 Obsidian
@@ -1731,6 +1737,7 @@ Significant
 Scaled
 Sizes
 Short
+Speculative
 First
 FCFS
 Find
@@ -1809,6 +1816,7 @@ Fast
 FPU
 Fan
 Family
+Freeze
 MaxSize
 MI
 Minimum
@@ -2147,6 +2155,7 @@ my
 mail
 main
 microcoded
+memory
 info
 ivex
 ilink
