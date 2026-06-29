@@ -509,6 +509,8 @@ CDC
 Cray
 Commit
 Completion
+Conflict
+Comparator
 NLR
 Notation
 NULL
@@ -638,6 +640,7 @@ LocateElem
 Lemniscate
 LD
 Line
+Locality
 PreOrder
 PostOrder
 Prefix
@@ -781,6 +784,8 @@ Penalty
 Precision
 Predict
 Precise
+Placement
+Principle
 InOrder
 ID
 In
@@ -885,6 +890,7 @@ Impedance
 Integer
 Interlock
 Issue
+Identification
 BCAEDGHFI
 BC
 BA
@@ -1090,6 +1096,7 @@ Wet
 Wrap
 WrEn
 Win
+Wall
 DA
 Deque
 DFS
@@ -1430,6 +1437,7 @@ TPU
 Tri
 Types
 Taken
+Temporal
 OD
 Out
 Obsidian
@@ -1748,6 +1756,7 @@ Short
 Speculative
 Speculate
 Stage
+Spatial
 First
 FCFS
 Find
@@ -1957,6 +1966,7 @@ Modes
 Most
 Motorola
 Misaligned
+Mn
 boundary
 br
 base
@@ -2092,6 +2102,7 @@ Rosetta
 RC
 Response
 Ratio
+Replacement
 vs
 visited
 views
@@ -2365,6 +2376,7 @@ Heterogeneous
 HDD
 HeadInsert
 High
+Hierarchy
 Java
 JVM
 JMP
