@@ -65,6 +65,7 @@ dB
 df
 diaper
 differential
+dependence
 lchild
 ltag
 last
@@ -363,6 +364,7 @@ Asynchronous
 Aligned
 Autoincrement
 Autodecrement
+Anti
 CDBFA
 COUNTER
 Catalan
@@ -505,6 +507,8 @@ Case
 Concept
 CDC
 Cray
+Commit
+Completion
 NLR
 Notation
 NULL
@@ -776,6 +780,7 @@ Property
 Penalty
 Precision
 Predict
+Precise
 InOrder
 ID
 In
@@ -878,6 +883,8 @@ IC
 Involution
 Impedance
 Integer
+Interlock
+Issue
 BCAEDGHFI
 BC
 BA
@@ -953,6 +960,7 @@ Benchmark
 Barsis
 Bubble
 BTB
+Bypass
 EDGHFI
 Expression
 EdgeType
@@ -1738,6 +1746,8 @@ Scaled
 Sizes
 Short
 Speculative
+Speculate
+Stage
 First
 FCFS
 Find
@@ -2128,6 +2138,8 @@ Unicast
 Unreachable
 Unbounded
 Unicode
+Use
+Untaken
 max
 menu
 more
