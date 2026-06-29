@@ -365,6 +365,7 @@ Aligned
 Autoincrement
 Autodecrement
 Anti
+Average
 CDBFA
 COUNTER
 Catalan
@@ -2103,6 +2104,7 @@ RC
 Response
 Ratio
 Replacement
+Rate
 vs
 visited
 views
@@ -2151,6 +2153,7 @@ Unbounded
 Unicode
 Use
 Untaken
+Unified
 max
 menu
 more
