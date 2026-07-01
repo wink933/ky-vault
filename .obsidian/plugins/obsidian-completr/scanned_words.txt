@@ -512,6 +512,7 @@ Commit
 Completion
 Conflict
 Comparator
+Comp
 NLR
 Notation
 NULL
@@ -1219,6 +1220,7 @@ Dirty
 Displacement
 Double
 Dual
+Divide
 child
 cousin
 categories
@@ -1764,6 +1766,7 @@ Speculative
 Speculate
 Stage
 Spatial
+Sub
 First
 FCFS
 Find
