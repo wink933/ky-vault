@@ -1231,6 +1231,7 @@ Dual
 Divide
 Deferred
 Doubleword
+DNE
 child
 cousin
 categories
