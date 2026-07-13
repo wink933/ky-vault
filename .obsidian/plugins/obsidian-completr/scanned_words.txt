@@ -367,6 +367,7 @@ Autoincrement
 Autodecrement
 Anti
 Average
+Augmented
 CDBFA
 COUNTER
 Catalan
