@@ -517,6 +517,7 @@ Comparator
 Comp
 Conditional
 CSRs
+Coordinates
 NLR
 Notation
 NULL
@@ -978,6 +979,7 @@ BTB
 Bypass
 Bookkeeping
 Branches
+Basis
 EDGHFI
 Expression
 EdgeType
@@ -1233,6 +1235,7 @@ Divide
 Deferred
 Doubleword
 DNE
+Dimension
 child
 cousin
 categories
