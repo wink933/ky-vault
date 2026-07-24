@@ -3247,6 +3247,8 @@ SEx
 Siy
 SzJ
 SB
+Spectral
+Schmidt
 First
 FCFS
 Find
@@ -5174,6 +5176,7 @@ Gsm
 GxV
 Glq
 Gjc
+Gram
 ZFLOPS
 Zetta
 ZF
