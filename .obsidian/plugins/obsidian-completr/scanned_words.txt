@@ -1096,6 +1096,7 @@ NdS
 NOX
 NNX
 NVu
+Nabla
 LNR
 LRN
 LIFO
@@ -2104,6 +2105,7 @@ DW
 DK
 Ds
 Dw
+Descent
 child
 cousin
 categories
@@ -5177,6 +5179,7 @@ GxV
 Glq
 Gjc
 Gram
+Gradient
 ZFLOPS
 Zetta
 ZF
