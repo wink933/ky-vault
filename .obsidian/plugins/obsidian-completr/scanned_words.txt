@@ -989,6 +989,7 @@ CpZ
 Ca
 CP
 Cs
+Connected
 NLR
 Notation
 NULL
