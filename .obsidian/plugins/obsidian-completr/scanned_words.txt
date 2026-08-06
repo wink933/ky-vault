@@ -990,6 +990,7 @@ Ca
 CP
 Cs
 Connected
+Cascading
 NLR
 Notation
 NULL
@@ -4273,6 +4274,7 @@ KQN
 KpV
 KuApI
 KD
+Key
 Queue
 QNPC
 Query
