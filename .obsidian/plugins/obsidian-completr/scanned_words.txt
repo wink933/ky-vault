@@ -1855,6 +1855,7 @@ EC
 Ex
 Ef
 Error
+Effort
 WPL
 Weight
 Would
@@ -2110,6 +2111,7 @@ Ds
 Dw
 Descent
 Decision
+Delivery
 child
 cousin
 categories
@@ -3257,6 +3259,7 @@ SB
 Spectral
 Schmidt
 Subnet
+SEQ
 First
 FCFS
 Find
@@ -3810,6 +3813,7 @@ RK
 RvD
 RI
 RcN
+Reliable
 vs
 visited
 views
@@ -3970,6 +3974,7 @@ UrE
 Urf
 Un
 Uugq
+Unreliable
 max
 menu
 more
