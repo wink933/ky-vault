@@ -991,6 +991,7 @@ CP
 Cs
 Connected
 Cascading
+Classful
 NLR
 Notation
 NULL
@@ -1591,6 +1592,7 @@ Ik
 IT
 IKL
 IqLv
+Implosion
 BCAEDGHFI
 BC
 BA
@@ -2112,6 +2114,7 @@ Dw
 Descent
 Decision
 Delivery
+DoS
 child
 cousin
 categories
