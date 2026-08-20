@@ -33,7 +33,7 @@ RFC 822 规定了邮件首部的格式，而主体部分则由用户自由撰写
 为解决这一限制，提出了**多用途互联网邮件扩展**（Multipurpose Internet Mail Extensions, MIME）。
 
 MIME 并未修改或取代 SMTP，而是在其基础上进行扩展。  
-当发送端需要传输包含非 ASCII 数据的邮件时，不能直接通过 SMTP 发送，而要先用 MIME 将非 ASCII 数据编码为 ASCII 格式，再交由 SMTP 传输。  
+当发送端需要传输包含非 ASCII 数据的邮件时，不能直接通过 SMTP 发送，而要先用 **MIME** 将**非 ASCII 数据编码为 ASCII 格式**，再交由 SMTP 传输。  
 接收端收到邮件后，再通过 MIME 对 ASCII 数据进行**解码还原**，进而恢复原始的非 ASCII 内容。  
 MIME 与 SMTP 的关系如图 6.10 所示。
 ![](assets/电子邮件格式与MIME/file-20260523135445414.png)
