@@ -795,6 +795,7 @@ Aw
 Af
 Algebraic
 Advertisement
+Angles
 CDBFA
 COUNTER
 Catalan
@@ -1861,6 +1862,7 @@ Ex
 Ef
 Error
 Effort
+ELSE
 WPL
 Weight
 Would
@@ -2119,6 +2121,8 @@ Decision
 Delivery
 DoS
 Duplicate
+Directional
+Direction
 child
 cousin
 categories
@@ -4435,6 +4439,7 @@ VlMc
 VNQ
 Vc
 Vu
+VS
 You
 YYYY
 Yg
