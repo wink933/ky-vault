@@ -474,6 +474,7 @@ pG
 pE
 pK
 pMg
+port
 assets
 ancestor
 adjvex
@@ -4295,6 +4296,7 @@ KpV
 KuApI
 KD
 Key
+KTV
 Queue
 QNPC
 Query
@@ -5051,6 +5053,7 @@ HXH
 Hs
 Hm
 Horizon
+Harvard
 Java
 JVM
 JMP
