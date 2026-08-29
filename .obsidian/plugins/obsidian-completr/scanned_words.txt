@@ -90,6 +90,7 @@ tpv
 tO
 tA
 tW
+tatic
 date
 data
 descendant
@@ -995,6 +996,7 @@ Cs
 Connected
 Cascading
 Classful
+CAS
 NLR
 Notation
 NULL
@@ -1718,6 +1720,7 @@ BM
 Br
 BQ
 BV
+Bank
 EDGHFI
 Expression
 EdgeType
@@ -4784,6 +4787,8 @@ yb
 yyF
 ylS
 yV
+ynchronous
+ynamic
 key
 kx
 knowledge
