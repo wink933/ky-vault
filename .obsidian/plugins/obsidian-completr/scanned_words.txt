@@ -476,6 +476,7 @@ pE
 pK
 pMg
 port
+pip
 assets
 ancestor
 adjvex
@@ -798,6 +799,7 @@ Af
 Algebraic
 Advertisement
 Angles
+Analysis
 CDBFA
 COUNTER
 Catalan
@@ -997,6 +999,13 @@ Connected
 Cascading
 Classful
 CAS
+CSS
+Cross
+Chart
+CV
+Cards
+Color
+CORS
 NLR
 Notation
 NULL
@@ -1240,6 +1249,10 @@ Ldq
 LW
 LJ
 Ls
+LightGBM
+LSTM
+Lag
+Loss
 PreOrder
 PostOrder
 Prefix
@@ -1434,6 +1447,8 @@ PFp
 PAl
 PFk
 Poison
+Plotly
+Pandas
 InOrder
 ID
 In
@@ -1867,6 +1882,9 @@ Ef
 Error
 Effort
 ELSE
+ECharts
+Exploration
+EDA
 WPL
 Weight
 Would
@@ -2127,6 +2145,12 @@ DoS
 Duplicate
 Directional
 Direction
+Dashboard
+Dark
+Design
+DataZoom
+Doughnut
+DOM
 child
 cousin
 categories
@@ -2590,6 +2614,10 @@ TlXUw
 TqZ
 Timeout
 Three
+Theme
+Tab
+Training
+Train
 OD
 Out
 Obsidian
@@ -3277,6 +3305,11 @@ Spectral
 Schmidt
 Subnet
 SEQ
+Showcase
+Selector
+Series
+Score
+Style
 First
 FCFS
 Find
@@ -3412,6 +3445,7 @@ FAK
 FBWt
 FC
 FZg
+Flask
 MaxSize
 MI
 Minimum
@@ -3684,6 +3718,8 @@ bi
 bC
 bA
 btV
+bug
+brew
 Reverse
 Row
 Root
@@ -3831,6 +3867,7 @@ RvD
 RI
 RcN
 Reliable
+Responsive
 vs
 visited
 views
@@ -4301,6 +4338,7 @@ KuApI
 KD
 Key
 KTV
+KPI
 Queue
 QNPC
 Query
@@ -4447,6 +4485,7 @@ VNQ
 Vc
 Vu
 VS
+Validation
 You
 YYYY
 Yg
@@ -4950,6 +4989,7 @@ xrz
 xfL
 xkC
 xf
+xlsx
 Hash
 HT
 Hz
@@ -5104,6 +5144,7 @@ JG
 Jh
 JE
 JO
+JSON
 GB
 GHz
 GFLOPS
@@ -5216,6 +5257,8 @@ Gjc
 Gram
 Gradient
 Google
+Grid
+GitHub
 ZFLOPS
 Zetta
 ZF
