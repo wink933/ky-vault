@@ -1114,6 +1114,7 @@ NOX
 NNX
 NVu
 Nabla
+NOP
 LNR
 LRN
 LIFO
@@ -1253,6 +1254,7 @@ LightGBM
 LSTM
 Lag
 Loss
+LDAX
 PreOrder
 PostOrder
 Prefix
@@ -2151,6 +2153,7 @@ Design
 DataZoom
 Doughnut
 DOM
+Datapath
 child
 cousin
 categories
@@ -2268,6 +2271,7 @@ cImx
 cLO
 cY
 cKb
+clk
 sibling
 separator
 symbol
@@ -2393,6 +2397,7 @@ sxdc
 sTg
 slz
 sOp
+setup
 nodes
 next
 nn
@@ -3062,6 +3067,7 @@ hE
 hGL
 hCJ
 hWJ
+hold
 Stack
 Sparse
 SIZE
@@ -3310,6 +3316,7 @@ Selector
 Series
 Score
 Style
+Studio
 First
 FCFS
 Find
@@ -3868,6 +3875,7 @@ RI
 RcN
 Reliable
 Responsive
+Regfile
 vs
 visited
 views
