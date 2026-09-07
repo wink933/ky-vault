@@ -287,6 +287,7 @@ lp
 lDj
 lo
 lz
+leftarrow
 rchild
 rtag
 rear
@@ -1887,6 +1888,7 @@ ELSE
 ECharts
 Exploration
 EDA
+Early
 WPL
 Weight
 Would
