@@ -478,6 +478,7 @@ pK
 pMg
 port
 pip
+privileged
 assets
 ancestor
 adjvex
@@ -802,6 +803,7 @@ Advertisement
 Angles
 Analysis
 Asyncronous
+Approach
 CDBFA
 COUNTER
 Catalan
@@ -1008,6 +1010,7 @@ CV
 Cards
 Color
 CORS
+CLI
 NLR
 Notation
 NULL
@@ -1257,6 +1260,7 @@ LSTM
 Lag
 Loss
 LDAX
+Layered
 PreOrder
 PostOrder
 Prefix
