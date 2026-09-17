@@ -1191,6 +1191,7 @@ NNX
 NVu
 Nabla
 NOP
+NRU
 LNR
 LRN
 LIFO
@@ -1819,6 +1820,7 @@ BQ
 BV
 Bank
 Blocking
+Belady
 EDGHFI
 Expression
 EdgeType
@@ -2840,6 +2842,7 @@ Og
 OIk
 OrC
 OhM
+OPT
 obsidian
 operand
 operator
