@@ -197,6 +197,7 @@ demands
 dining
 delighted
 draw
+describing
 lchild
 ltag
 last
@@ -2514,6 +2515,7 @@ smooth
 share
 seeking
 studies
+sync
 nodes
 next
 nn
@@ -3464,6 +3466,7 @@ Studio
 Synchronous
 SRTN
 Speech
+Superblock
 First
 FCFS
 Find
