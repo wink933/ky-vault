@@ -1539,6 +1539,7 @@ Please
 Preemptive
 Present
 Place
+PBA
 InOrder
 ID
 In
@@ -1830,6 +1831,7 @@ Bank
 Blocking
 Belady
 Buffering
+Batch
 EDGHFI
 Expression
 EdgeType
@@ -3808,6 +3810,7 @@ MNlo
 Mi
 Multiplicity
 Ming
+Modified
 boundary
 br
 base
@@ -4051,6 +4054,7 @@ Responsive
 Regfile
 Receive
 Rotational
+Reclamation
 vs
 visited
 views
