@@ -198,6 +198,7 @@ dining
 delighted
 draw
 describing
+dirty
 lchild
 ltag
 last
@@ -615,6 +616,7 @@ appreciate
 are
 also
 approx
+atime
 file
 front
 first
@@ -874,6 +876,8 @@ Angles
 Analysis
 Asyncronous
 Approach
+App
+Append
 CDBFA
 COUNTER
 Catalan
@@ -2392,6 +2396,7 @@ center
 currently
 classroom
 caozuoxitong
+ctime
 sibling
 separator
 symbol
@@ -2535,6 +2540,7 @@ seeking
 studies
 sync
 sim
+start
 nodes
 next
 nn
@@ -2613,6 +2619,7 @@ nR
 nSg
 neq
 never
+nlink
 TD
 Top
 TRUE
@@ -2763,6 +2770,7 @@ Training
 Train
 Tail
 Track
+Timestamps
 OD
 Out
 Obsidian
@@ -4317,6 +4325,7 @@ matter
 might
 meet
 measures
+mtime
 info
 ivex
 ilink
@@ -4407,6 +4416,8 @@ improvements
 its
 issues
 improvement
+innode
+ino
 jvex
 jlink
 jmj
@@ -5481,6 +5492,7 @@ Google
 Grid
 GitHub
 Garbage
+GID
 ZFLOPS
 Zetta
 ZF
