@@ -1092,6 +1092,7 @@ Collection
 Cylinder
 Caller
 Callee
+COW
 NLR
 Notation
 NULL
@@ -3496,6 +3497,7 @@ SRTN
 Speech
 Superblock
 Skew
+Station
 First
 FCFS
 Find
@@ -3918,6 +3920,7 @@ better
 bus
 balance
 bss
+buf
 Reverse
 Row
 Root
@@ -4326,6 +4329,7 @@ might
 meet
 measures
 mtime
+mmap
 info
 ivex
 ilink
