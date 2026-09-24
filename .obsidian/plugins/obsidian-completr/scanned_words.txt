@@ -1994,6 +1994,7 @@ EDA
 Early
 ECC
 Epilogue
+Exit
 WPL
 Weight
 Would
@@ -3498,6 +3499,7 @@ Speech
 Superblock
 Skew
 Station
+Section
 First
 FCFS
 Find
@@ -4073,6 +4075,7 @@ Regfile
 Receive
 Rotational
 Reclamation
+Remainder
 vs
 visited
 views
