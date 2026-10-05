@@ -98,6 +98,8 @@ threat
 tentative
 thoughts
 tips
+towards
+turn
 date
 data
 descendant
@@ -199,6 +201,7 @@ delighted
 draw
 describing
 dirty
+driven
 lchild
 ltag
 last
@@ -706,6 +709,7 @@ facilitate
 forthcoming
 friendly
 facilities
+flag
 ABCDF
 ABCDEFGHI
 AB
@@ -1094,6 +1098,8 @@ Caller
 Callee
 COW
 Clustering
+Cold
+CCW
 NLR
 Notation
 NULL
@@ -1347,6 +1353,8 @@ LDAX
 Layered
 Learning
 Low
+Lanes
+Lamport
 PreOrder
 PostOrder
 Prefix
@@ -1552,6 +1560,7 @@ Procedure
 Prologue
 Primary
 Probing
+Programmed
 InOrder
 ID
 In
@@ -1721,6 +1730,7 @@ Infinity
 Interleaving
 Inode
 IFG
+Indefinite
 BCAEDGHFI
 BC
 BA
@@ -1846,6 +1856,8 @@ Blocking
 Belady
 Buffering
 Batch
+Behavior
+Bakery
 EDGHFI
 Expression
 EdgeType
@@ -1999,6 +2011,7 @@ Early
 ECC
 Epilogue
 Exit
+Efficiency
 WPL
 Weight
 Would
@@ -2091,6 +2104,9 @@ WyQ
 Wg
 WF
 While
+Way
+Width
+Waiting
 DA
 Deque
 DFS
@@ -2777,6 +2793,7 @@ Train
 Tail
 Track
 Timestamps
+Truncate
 OD
 Out
 Obsidian
@@ -3157,6 +3174,8 @@ experiences
 entrance
 effectively
 exercise
+even
+epsilon
 head
 headvex
 hlink
@@ -3504,6 +3523,8 @@ Superblock
 Skew
 Station
 Section
+Stealing
+SIO
 First
 FCFS
 Find
@@ -3643,6 +3664,7 @@ Flask
 From
 Furthermore
 Formatting
+Floor
 MaxSize
 MI
 Minimum
@@ -4241,6 +4263,8 @@ Urf
 Un
 Uugq
 Unreliable
+Undefined
+UB
 max
 menu
 more
@@ -5001,6 +5025,7 @@ zfN
 zC
 zlS
 zpeT
+zero
 yq
 you
 your
