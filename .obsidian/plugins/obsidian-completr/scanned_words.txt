@@ -1093,6 +1093,7 @@ Cylinder
 Caller
 Callee
 COW
+Clustering
 NLR
 Notation
 NULL
@@ -1549,6 +1550,8 @@ Place
 PBA
 Procedure
 Prologue
+Primary
+Probing
 InOrder
 ID
 In
@@ -4627,6 +4630,7 @@ QIb
 QC
 QpR
 QI
+Quadratic
 Vertex
 VIEW
 Value
@@ -5339,6 +5343,7 @@ Hs
 Hm
 Horizon
 Harvard
+Hashing
 Java
 JVM
 JMP
