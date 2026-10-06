@@ -1561,6 +1561,7 @@ Prologue
 Primary
 Probing
 Programmed
+PFN
 InOrder
 ID
 In
@@ -1858,6 +1859,7 @@ Buffering
 Batch
 Behavior
 Bakery
+Bits
 EDGHFI
 Expression
 EdgeType
@@ -3855,6 +3857,7 @@ Mi
 Multiplicity
 Ming
 Modified
+Modify
 boundary
 br
 base
@@ -4102,6 +4105,7 @@ Receive
 Rotational
 Reclamation
 Remainder
+Referenced
 vs
 visited
 views
