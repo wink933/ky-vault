@@ -1860,6 +1860,7 @@ Batch
 Behavior
 Bakery
 Bits
+BDP
 EDGHFI
 Expression
 EdgeType
@@ -4269,6 +4270,7 @@ Uugq
 Unreliable
 Undefined
 UB
+Utilization
 max
 menu
 more
