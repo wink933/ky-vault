@@ -1100,6 +1100,7 @@ COW
 Clustering
 Cold
 CCW
+Chaining
 NLR
 Notation
 NULL
@@ -1210,6 +1211,7 @@ NVu
 Nabla
 NOP
 NRU
+NIL
 LNR
 LRN
 LIFO
@@ -1355,6 +1357,8 @@ Learning
 Low
 Lanes
 Lamport
+Loser
+LCA
 PreOrder
 PostOrder
 Prefix
@@ -1562,6 +1566,7 @@ Primary
 Probing
 Programmed
 PFN
+Pivot
 InOrder
 ID
 In
@@ -1732,6 +1737,7 @@ Interleaving
 Inode
 IFG
 Indefinite
+Insertion
 BCAEDGHFI
 BC
 BA
@@ -1861,6 +1867,7 @@ Behavior
 Bakery
 Bits
 BDP
+Black
 EDGHFI
 Expression
 EdgeType
@@ -2797,6 +2804,7 @@ Tail
 Track
 Timestamps
 Truncate
+Threaded
 OD
 Out
 Obsidian
@@ -3528,6 +3536,8 @@ Station
 Section
 Stealing
 SIO
+Sort
+Sift
 First
 FCFS
 Find
@@ -3953,6 +3963,7 @@ bus
 balance
 bss
 buf
+break
 Reverse
 Row
 Root
@@ -4107,6 +4118,9 @@ Rotational
 Reclamation
 Remainder
 Referenced
+Radix
+Red
+RBT
 vs
 visited
 views
