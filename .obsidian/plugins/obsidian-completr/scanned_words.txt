@@ -394,6 +394,7 @@ regarding
 recommendations
 reservation
 running
+rodata
 pre
 png
 parent
@@ -526,6 +527,7 @@ planning
 pieces
 prove
 physical
+printf
 assets
 ancestor
 adjvex
@@ -4381,6 +4383,7 @@ meet
 measures
 mtime
 mmap
+malloc
 info
 ivex
 ilink
