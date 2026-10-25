@@ -1103,6 +1103,8 @@ Clustering
 Cold
 CCW
 Chaining
+CHS
+CSCAN
 NLR
 Notation
 NULL
@@ -3012,6 +3014,7 @@ offer
 our
 offering
 observations
+op
 git
 getAbstractFileByPath
 geqslant
