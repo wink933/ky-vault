@@ -1105,6 +1105,7 @@ CCW
 Chaining
 CHS
 CSCAN
+Chain
 NLR
 Notation
 NULL
@@ -1363,6 +1364,7 @@ Lanes
 Lamport
 Loser
 LCA
+Lazy
 PreOrder
 PostOrder
 Prefix
@@ -1571,6 +1573,7 @@ Probing
 Programmed
 PFN
 Pivot
+Probe
 InOrder
 ID
 In
@@ -2299,6 +2302,7 @@ DOM
 Datapath
 Dear
 DPI
+Deletion
 child
 cousin
 categories
@@ -2809,6 +2813,7 @@ Track
 Timestamps
 Truncate
 Threaded
+Tombstone
 OD
 Out
 Obsidian
