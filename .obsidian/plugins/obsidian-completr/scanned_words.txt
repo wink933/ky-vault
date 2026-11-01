@@ -307,6 +307,7 @@ leftarrow
 least
 letter
 layout
+lceil
 rchild
 rtag
 rear
@@ -395,6 +396,7 @@ recommendations
 reservation
 running
 rodata
+rceil
 pre
 png
 parent
