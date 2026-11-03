@@ -530,6 +530,7 @@ pieces
 prove
 physical
 printf
+persistent
 assets
 ancestor
 adjvex
